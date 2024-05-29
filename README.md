@@ -1,7 +1,7 @@
 # Data Collection
 
 ## Objective
-Create an automatic pipeline that will be collecting travalling data from open-source API. 
+Create an automatic pipeline that will be collecting traveling data from open-source API. 
 
 ## Implementation
 The Python script lambda_function.py makes API requests and preprocesses the raw data to produce CSV file, which is then stored in an AWS S3 bucket. 
