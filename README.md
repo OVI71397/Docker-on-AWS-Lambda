@@ -21,3 +21,4 @@ The container is further deployed on the AWS Lambda function and scheduled for a
   - Amazon S3
   - Amazon Elastic Container Registry
   - Amazon CloudWatch
+  - AWS IAM
