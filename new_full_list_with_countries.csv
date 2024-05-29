@@ -1,0 +1,2179 @@
+city_kiwi,city_eng,country_kiwi,country_eng,lat,long,location_code,country_code,id_city,id_country
+Tehran,Tehran,Iran,Iran,35.69611,51.42305,THR,IR,8,80
+Tashkent,Tashkent,Uzbekistan,Uzbekistan,41.262714,69.26619,TAS,UZ,9,191
+Phnom Penh,Phnom Penh,Cambodia,Cambodia,11.546111,104.84778,PNH,KH,11,31
+Naypyidaw,Naypyidaw,Myanmar (Burma),Myanmar,19.6225,96.201385,NYT,MM,12,120
+Muscat,Muscat,Oman,Oman,23.588078,58.29022,MCT,OM,13,132
+Manila,Manila,Philippines,Philippines,14.599512,120.98422,MNL,PH,14,140
+Malé,Male,Maldives,Maldives,4.201389,73.524445,MLE,MV,15,106
+NA,Lhasa,NA,China,29.29305,90.90051,LXA,CN,16,37
+Kuwait City,Kuwait,Kuwait,Kuwait,29.240116,47.971252,KWI,KW,17,92
+Kathmandu,Kathmandu,Nepal,Nepal,27.699905,85.35657,KTM,NP,18,123
+Kabul,Kabul,Afghanistan,Afghanistan,34.56069,69.21152,KBL,AF,19,1
+Islamabad,Islamabad,Pakistan,Pakistan,33.609707,73.1051,ISB,PK,20,133
+Dushanbe,Dushanbe,Tajikistan,Tajikistan,38.54894,68.81728,DYU,TJ,21,174
+Doha,Doha,Qatar,Qatar,25.267569,51.558067,DOH,QA,22,143
+Dhaka,Dhaka,Bangladesh,Bangladesh,23.848648,90.405876,DAC,BD,23,14
+Colombo,Colombo,Sri Lanka,Sri Lanka,6.927468,79.84836,CMB,LK,24,167
+Bishkek,Bishkek,Kyrgyzstan,Kyrgyzstan,43.05358,74.46945,FRU,KG,25,93
+Beirut,Beirut,Lebanon,Lebanon,33.826073,35.49308,BEY,LB,26,96
+Bandar Seri Begawan,Bandar Seri Begawan,Brunei,Brunei,4.945197,114.93375,BWN,BN,27,25
+Baghdad,Baghdad,Iraq,Iraq,33.255554,44.225,BGW,IQ,28,81
+Astana,Astana,Kazakhstan,Kazakhstan,51.02781,71.4612,NQZ,KZ,29,88
+Ashgabat,Ashgabat,Turkmenistan,Turkmenistan,37.984184,58.366978,ASB,TM,30,183
+Amman,Amman,Jordan,Jordan,31.722534,35.98932,AMM,JO,31,87
+Manama,Manama,Bahrain,Bahrain,26.26918,50.62605,BAH,BH,32,13
+Tbilisi,Tbilisi,Georgia,Georgia,41.674065,44.958958,TBS,GE,33,64
+Baku,Baku,Azerbaijan,Azerbaijan,40.43495,49.86762,GYD,AZ,34,11
+Yerevan,Yerevan,Armenia,Armenia,40.15272,44.39805,EVN,AM,35,8
+Honolulu,Honolulu,United States,United States,21.306944,-157.85834,HNL,US,36,189
+San Francisco,San Francisco,United States,United States,37.77493,-122.41942,SFO,US,37,189
+Orlando,Orlando,United States,United States,28.53361,-81.38666,ORL,US,38,189
+Las Vegas,Las Vegas,United States,United States,36.114647,-115.17281,LAS,US,39,189
+Los Angeles,Los Angeles,United States,United States,34.052235,-118.24368,LAX,US,40,189
+Miami,Miami,United States,United States,25.788969,-80.22644,MIA,US,41,189
+New York,New York,United States,United States,40.71435,-74.00597,NYC,US,42,189
+NA,Johannesburg,NA,South Africa,-26.204103,28.047304,JNB,ZA,43,163
+Dammam,Dammam,Saudi Arabia,Saudi Arabia,26.471111,49.79778,DMM,SA,44,153
+Riyadh,Riyadh,Saudi Arabia,Saudi Arabia,24.95929,46.702877,RUH,SA,45,153
+NA,Lima,NA,Peru,-12.019421,-77.107666,LIM,PE,46,139
+Cancún,Cancun,Mexico,Mexico,21.040457,-86.874435,CUN,MX,47,112
+Fukuoka,Fukuoka,Japan,Japan,33.584286,130.4439,FUK,JP,48,86
+Kyoto,Kyoto,Japan,Japan,35,135.75,UKY,JP,50,86
+Osaka,Osaka,Japan,Japan,34.69374,135.5022,OSA,JP,51,86
+Batam,Batam,Indonesia,Indonesia,1.123627,104.11528,BTH,ID,53,79
+NA,Kolkata,NA,India,22.64531,88.43931,CCU,IN,55,78
+NA,Jaipur,NA,India,26.820772,75.80151,JAI,IN,56,78
+NA,Chennai,NA,India,12.982267,80.16378,MAA,IN,57,78
+NA,Hurghada,NA,Egypt,27.189156,33.8055,HRG,EG,58,52
+Beijing,Beijing,China,China,39.904213,116.40741,BJS,CN,59,37
+Zhuhai,Zhuhai,China,China,22.270716,113.57673,ZUH,CN,60,37
+Guilin,Guilin,China,China,25.133333,110.316666,KWL,CN,61,37
+Vancouver,Vancouver,Canada,Canada,49.261227,-123.11393,YVR,CA,62,33
+Toronto,Toronto,Canada,Canada,43.65352,-79.3839,YTO,CA,63,33
+NA,Rio De Janeiro,NA,Brazil,-22.81,-43.24,RIO,BR,64,24
+NA,Buenos Aires,NA,Argentina,-34.608418,-58.37316,BUE,AR,65,7
+Krabi,Krabi,Thailand,Thailand,8.097281,98.98062,KBV,TH,67,176
+Jeju City,Jeju,South Korea,South Korea,33.499622,126.53119,CJU,KR,68,164
+Abu Dhabi,Abu Dhabi,United Arab Emirates,United Arab Emirates,24.466667,54.366665,AUH,AE,69,187
+NA,Auckland,NA,New Zealand,-36.84846,174.76334,AKL,NZ,70,125
+Cebu,Cebu City,Philippines,Philippines,10.313333,123.98278,CEB,PH,71,140
+NA,Sydney,NA,Australia,-33.8689,151.20709,SYD,AU,72,9
+NA,Melbourne,NA,Australia,-37.813187,144.96298,MEL,AU,73,9
+NA,Marrakech,NA,Morocco,31.601875,-8.026902,RAK,MA,74,118
+Jakarta,Jakarta,Indonesia,Indonesia,-6.211544,106.84517,JKT,ID,76,79
+Hanoi,Hanoi,Vietnam,Vietnam,21.214184,105.802826,HAN,VN,77,194
+NA,Cairo,NA,Egypt,30.120106,31.40647,CAI,EG,78,52
+Johor Bahru,Johor Bharu,Malaysia,Malaysia,1.638889,103.67083,JHB,MY,79,105
+Denpasar,Denpasar (Bali),Indonesia,Indonesia,-8.74446,115.16331,DPS,ID,80,79
+Ho Chi Minh City,Ho Chi Minh City,Vietnam,Vietnam,10.813045,106.662476,SGN,VN,81,194
+Shanghai,Shanghai,China,China,31.230392,121.4737,SHA,CN,82,37
+Seoul,Seoul,South Korea,South Korea,37.56654,126.978,SEL,KR,83,164
+Medina,Madinah,Saudi Arabia,Saudi Arabia,24.544369,39.698967,MED,SA,84,153
+Guangzhou,Guangzhou,China,China,23.387861,113.29734,CAN,CN,85,37
+Taipei,Taipei,Taiwan,Taiwan,25.091076,121.55984,TPE,TW,87,173
+Pattaya,Pattaya,Thailand,Thailand,12.683333,101.01667,UTP,TH,88,176
+Tokyo,Tokyo,Japan,Japan,35.68949,139.6917,TYO,JP,89,86
+Phuket City,Phuket,Thailand,Thailand,8.107619,98.306435,HKT,TH,90,176
+NA,Mumbai,NA,India,19.095509,72.87497,BOM,IN,91,78
+Shenzhen,Shenzhen,China,China,22.543098,114.05787,SZX,CN,92,37
+NA,Delhi,NA,India,28.556555,77.10079,DEL,IN,93,78
+Kuala Lumpur,Kuala Lumpur,Malaysia,Malaysia,3.139003,101.68685,KUL,MY,94,105
+Dubai,Dubai,United Arab Emirates,United Arab Emirates,25.264444,55.31167,DXB,AE,95,187
+Singapore,Singapore,Singapore,Singapore,1.2894365,103.84998,SIN,SG,96,158
+Bangkok,Bangkok,Thailand,Thailand,13.723418,100.476234,BKK,TH,98,176
+Antwerp,Antwerp,Belgium,Belgium,51.21992,4.39625,ANR,BE,100,17
+Aberdeen,Aberdeen,United Kingdom,United Kingdom,57.14749,-2.095397,ABZ,GB,101,188
+Alexandroupoli,Alexandroupolis,Greece,Greece,40.856785,25.944893,AXD,GR,103,67
+Athens,Athens,Greece,Greece,37.93635,23.946486,ATH,GR,104,67
+Alicante,Alicante,Spain,Spain,38.34521,-0.4809945,ALC,ES,105,166
+Almería,Almeria,Spain,Spain,36.847984,-2.371873,LEI,ES,106,166
+Aalborg,Aalborg,Denmark,Denmark,57.028812,9.917771,AAL,DK,107,47
+Aarhus,Aarhus,Denmark,Denmark,56.162937,10.203921,AAR,DK,108,47
+Ancona,Ancona,Italy,Italy,43.60691,13.355723,AOI,IT,109,84
+Amsterdam,Amsterdam,Netherlands,Netherlands,52.373055,4.8922224,AMS,NL,111,124
+Ankara,Ankara,Turkey,Turkey,39.91825,32.85333,ANK,TR,113,182
+Antalya,Antalya,Turkey,Turkey,36.89928,30.80135,AYT,TR,114,182
+Thal,Altenrhein,Switzerland,Switzerland,47.483334,9.566667,ACH,CH,115,171
+Brussels,Brussels,Belgium,Belgium,50.85034,4.35171,BRU,BE,116,17
+Banja Luka,Banja Luka,Bosnia & Herzegovina,Bosnia and Herzegovina,44.933334,17.3,BNX,BA,118,22
+Belfast,Belfast,United Kingdom,United Kingdom,54.597267,-5.930109,BFS,GB,119,188
+Birmingham,Birmingham,United Kingdom,United Kingdom,52.48296,-1.893592,BHX,GB,120,188
+Bournemouth,Bournemouth,United Kingdom,United Kingdom,50.77827,-1.832476,BOH,GB,121,188
+Bristol,Bristol,United Kingdom,United Kingdom,51.386757,-2.710659,BRS,GB,122,188
+Budapest,Budapest,Hungary,Hungary,47.498405,19.040758,BUD,HU,123,76
+Berlin,Berlin,Germany,Germany,52.523407,13.4114,BER,DE,124,65
+Bremen,Bremen,Germany,Germany,53.05297,8.785352,BRE,DE,126,65
+Billund,Billund,Denmark,Denmark,55.747383,9.147874,BLL,DK,127,47
+Barcelona,Barcelona,Spain,Spain,41.387917,2.1699188,BCN,ES,128,166
+Bilbao,Bilbao,Spain,Spain,43.25696,-2.923441,BIO,ES,129,166
+Bologna,Bologna,Italy,Italy,44.49419,11.3465185,BLQ,IT,130,84
+Bergen,Bergen,Norway,Norway,60.391262,5.3220544,BGO,NO,131,131
+Bodø,Bodo,Norway,Norway,67.27262,14.367839,BOO,NO,132,131
+Bydgoszcz,Bydgoszcz,Poland,Poland,53.09667,17.978611,BZG,PL,133,141
+Bucharest,Bucharest,Romania,Romania,44.43771,26.09737,BUH,RO,134,144
+Belgrade,Belgrade,Serbia,Serbia,44.802418,20.465601,BEG,RS,135,155
+Bratislava,Bratislava,Slovakia,Slovakia,48.17,17.21,BTS,SX,136,159
+Bordeaux,Bordeaux,France,France,44.837788,-0.57918,BOD,FR,137,61
+Brno,Brno,Czechia,Czech Republic,49.19098,16.611534,BRQ,CZ,139,45
+Basel,"Basel, Switzerland/Mulhouse",Switzerland,Switzerland,47.752,7.336,BSL,CH,140,171
+Bern,Berne,Switzerland,Switzerland,46.94792,7.4446087,BRN,CH,141,171
+Cardiff,Cardiff,United Kingdom,United Kingdom,51.39877,-3.339075,CWL,GB,142,188
+Cologne,Cologne,Germany,Germany,50.940666,6.9599113,CGN,DE,145,65
+Corfu,Corfu/Kerkyra,Greece,Greece,39.60784,19.914644,CFU,GR,146,67
+Copenhagen,Copenhagen,Denmark,Denmark,55.6934,12.583046,CPH,DK,147,47
+Cork,Cork,Ireland,Ireland,51.846645,-8.48914,ORK,IE,150,82
+Cagliari,Cagliari,Italy,Italy,39.254333,9.060673,CAG,IT,151,84
+Catania,Catania,Italy,Italy,37.47066,15.065877,CTA,IT,152,84
+Cluj-Napoca,Cluj,Romania,Romania,46.782063,23.687014,CLJ,RO,153,144
+Clermont-Ferrand,Clermont-Ferrand,France,France,45.78032,3.163893,CFE,FR,154,61
+Chambéry,Chambery,France,France,45.63799,5.88437,CMF,FR,155,61
+"Durham, England",Durham Tees Valley,United Kingdom,United Kingdom,54.51,-1.43,MME,GB,157,188
+Dortmund,Dortmund,Germany,Germany,51.514828,7.613139,DTM,DE,159,65
+Dresden,Dresden,Germany,Germany,51.13,13.77,DRS,DE,160,65
+Düsseldorf,Dusseldorf,Germany,Germany,51.22494,6.7756524,DUS,DE,161,65
+Dublin,Dublin,Ireland,Ireland,53.42728,-6.24357,DUB,IE,162,82
+Dalaman,Dalaman,Turkey,Turkey,36.716667,28.783333,DLM,TR,163,182
+Dubrovnik,Dubrovnik,Croatia,Croatia,42.56072,18.260616,DBV,HR,164,42
+Edinburgh,Edinburgh,United Kingdom,United Kingdom,55.950176,-3.187536,EDI,GB,166,188
+Exeter,Exeter,United Kingdom,United Kingdom,50.73111,-3.410968,EXT,GB,167,188
+Erfurt,Erfurt,Germany,Germany,50.973736,11.022435,ERF,DE,168,65
+Esbjerg,Esbjerg,Denmark,Denmark,55.476467,8.459405,EBJ,DK,169,47
+Eilat,Eilat,Israel,Israel,29.55562,34.95357,ETH,IL,171,83
+Eindhoven,Eindhoven,Netherlands,Netherlands,51.441643,5.4697223,EIN,NL,172,124
+Frankfurt,Frankfurt,Germany,Germany,50.050735,8.570773,FRA,DE,174,65
+Friedrichshafen,Friedrichshafen,Germany,Germany,47.672775,9.523482,FDH,DE,175,65
+Florence,Florence,Italy,Italy,43.768734,11.256902,FLR,IT,177,84
+Florø,Floro,Norway,Norway,61.58643,5.024577,FRO,NO,178,131
+Faro,Faro,Portugal,Portugal,37.015358,-7.935113,FAO,PT,179,142
+Funchal,Funchal,Portugal,Portugal,32.693123,-16.775635,FNC,PT,180,142
+Graz,Graz,Austria,Austria,46.994125,15.444928,GRZ,AT,181,10
+Glasgow,Glasgow,United Kingdom,United Kingdom,55.865627,-4.2572227,GLA,GB,184,188
+Granada,Granada,Spain,Spain,37.176487,-3.597929,GRX,ES,186,166
+Girona,Girona,Spain,Spain,41.89804,2.766383,GRO,ES,187,166
+Genoa,Genoa,Italy,Italy,44.415066,8.85081,GOA,IT,189,84
+Groningen,Groningen,Netherlands,Netherlands,53.120277,6.575556,GRQ,NL,190,124
+Gdańsk,Gdansk,Poland,Poland,54.380978,18.468655,GDN,PL,191,141
+Geneva,Geneva,Switzerland,Switzerland,46.19839,6.1422963,GVA,CH,192,171
+Gothenburg,Gothenburg,Sweden,Sweden,57.696995,11.9865,GOT,SE,193,170
+Kirmington,Humberside,United Kingdom,United Kingdom,53.583378,-0.34851,HUY,GB,194,188
+Hamburg,Hamburg,Germany,Germany,53.553814,9.991586,HAM,DE,196,65
+Hanover,Hanover,Germany,Germany,52.372066,9.735686,HAJ,DE,197,65
+Heringsdorf,Heringsdorf,Germany,Germany,53.87825,14.138242,HDF,DE,198,65
+Heraklion,Heraklion,Greece,Greece,35.33663,25.174192,HER,GR,200,67
+Helsinki,Helsinki,Finland,Finland,60.29436,25.040243,HEL,FI,201,60
+Innsbruck,Innsbruck,Austria,Austria,47.25745,11.351467,INN,AT,202,10
+Inverness,Inverness,United Kingdom,United Kingdom,57.476696,-4.2314534,INV,GB,203,188
+Debrecen,Debrecen,Hungary,Hungary,47.55,21.7,DEB,HU,204,76
+Ibiza,Ibiza,Spain,Spain,38.876595,1.367803,IBZ,ES,205,166
+İzmir,Izmir,Turkey,Turkey,38.29,27.16,IZM,TR,206,182
+Istanbul,Istanbul,Turkey,Turkey,40.976665,28.815277,IST,TR,207,182
+Klagenfurt,Klagenfurt,Austria,Austria,46.650124,14.324192,KLU,AT,209,10
+Karlsruhe,Karlsruhe/Baden Baden,Germany,Germany,49.008083,8.403756,FKB,DE,210,65
+Kaunas,Kaunas,Lithuania,Lithuania,54.9,23.916668,KUN,LT,212,101
+Katowice,Katowice,Poland,Poland,50.264893,19.02378,KTW,PL,213,141
+Kraków,Krakow,Poland,Poland,50.075493,19.793743,KRK,PL,214,141
+Košice,Kosice,Slovakia,Slovakia,48.666668,21.25,KSC,SX,215,159
+Linz,Linz,Austria,Austria,48.23987,14.193345,LNZ,AT,219,10
+Liège,Liege,Belgium,Belgium,50.63333,5.56666,LGG,BE,220,17
+Liverpool,Liverpool,United Kingdom,United Kingdom,53.337616,-2.854905,LPL,GB,222,188
+Leeds,Leeds,United Kingdom,United Kingdom,53.837128,-1.4722292,LBA,GB,224,188
+London,London,United Kingdom,United Kingdom,51.51,0.06,LON,GB,225,188
+Lubeck,Lubeck,Germany,Germany,NA,NA,LBC,DE,226,65
+Lanzarote,Lanzarote,Spain,Spain,28.950668,-13.609059,ACE,ES,227,166
+Las Palmas,Las Palmas,Spain,Spain,27.938944,-15.389351,LPA,ES,228,166
+Lleida,Lleida,Spain,Spain,NA,NA,QLQ,ES,229,166
+Lamezia Terme,Lamezia-Terme,Italy,Italy,38.91,16.24,SUF,IT,230,84
+Larnaca,Larnaca,Cyprus,Cyprus,34.880867,33.62599,LCA,CY,231,44
+Luxembourg,Luxembourg,Luxembourg,Luxembourg,49.63111,6.209539,LUX,LU,233,102
+Lisbon,Lisbon,Portugal,Portugal,38.706932,-9.1356325,LIS,PT,235,142
+Ljubljana,Ljubljana,Slovenia,Slovenia,46.23102,14.454972,LJU,SI,236,160
+Lappeenranta,Lappeenranta,Finland,Finland,61.046112,28.156668,LPP,FI,237,60
+Lille,Lille,France,France,50.62925,3.057256,LIL,FR,239,61
+Lyon,Lyon,France,France,45.76404,4.835659,LYS,FR,240,61
+Lugano,Lugano,Switzerland,Switzerland,46.01667,8.966667,LUG,CH,241,171
+Luleå,Lulea,Sweden,Sweden,65.54939,22.123587,LLA,SE,242,170
+Manchester,Manchester,United Kingdom,United Kingdom,53.480713,-2.2343764,MAN,GB,243,188
+Mannheim,Mannheim,Germany,Germany,49.47658,8.521081,MHG,DE,244,65
+Memmingen,Memmingen,Germany,Germany,47.98861,10.239444,FMM,DE,245,65
+Münster,Muenster,Germany,Germany,52.09207,7.6105747,FMO,DE,246,65
+Munich,Munich,Germany,Germany,48.139126,11.580186,MUC,DE,247,65
+Madrid,Madrid,Spain,Spain,40.41669,-3.7003455,MAD,ES,248,166
+Málaga,Malaga,Spain,Spain,36.71965,-4.4200163,AGP,ES,249,166
+Murcia,Murcia,Spain,Spain,37.83026,-1.159656,RMU,ES,251,166
+Milan,Milan,Italy,Italy,45.46368,9.188171,MIL,IT,252,84
+Malta,Malta,Malta,Malta,35.849777,14.495401,MLA,MT,253,108
+Monte Carlo,Monte Carlo,Monaco,Monaco,43.733334,7.416667,MCM,MC,254,115
+Maastricht,Maastricht,Netherlands,Netherlands,50.851368,5.6909723,MST,NL,255,124
+Moss,Moss,Norway,Norway,59.45917,10.70083,XKM,NO,256,131
+Marseille,Marseille,France,France,43.296482,5.36978,MRS,FR,259,61
+Metz,Metz/Nancy,France,France,49.119667,6.176905,ETZ,FR,260,61
+Montpellier,Montpellier,France,France,43.610767,3.876716,MPL,FR,261,61
+Malmö,Malmo,Sweden,Sweden,55.61,13.004,MMA,SE,262,170
+Norwich,Norwich,United Kingdom,United Kingdom,52.669533,1.276782,NWI,GB,263,188
+Newcastle upon Tyne,Newcastle,United Kingdom,United Kingdom,55.037064,-1.710629,NCL,GB,264,188
+Newquay,Newquay,United Kingdom,United Kingdom,50.43745,-4.997922,NQY,GB,265,188
+Nuremberg,Nuremberg,Germany,Germany,49.45052,11.08048,NUE,DE,266,65
+Naples,Naples,Italy,Italy,40.840096,14.251636,NAP,IT,267,84
+Constanța,Constanta,Romania,Romania,44.35,28.483334,CND,RO,268,144
+Nantes,Nantes,France,France,47.218372,-1.553621,NTE,FR,269,61
+Nice,Nice,France,France,43.66049,7.205232,NCE,FR,270,61
+Norrköping,Norrkoping,Sweden,Sweden,58.5947,16.183607,NRK,SE,271,170
+Ostend,Ostend,Belgium,Belgium,51.216667,2.9,OST,BE,272,17
+Olbia,Olbia,Italy,Italy,40.903145,9.514823,OLB,IT,275,84
+Ohrid,Ohrid,Republic of North Macedonia,North Macedonia,41.185,20.743055,OHD,MK,276,130
+Oslo,Oslo,Norway,Norway,59.913868,10.752245,OSL,NO,277,131
+Osijek,Osijek,Croatia,Croatia,45.55,18.683332,OSI,HR,278,42
+Ostrava,Ostrava,Czechia,Czech Republic,49.84127,18.290249,OSR,CZ,279,45
+Plovdiv,Plovdiv,Bulgaria,Bulgaria,42.3,24.716667,PDV,BG,280,26
+Paderborn,Paderborn,Germany,Germany,51.610332,8.619832,PAD,DE,282,65
+Rostock,Rostock-Laage,Germany,Germany,53.92,12.266667,RLG,DE,283,65
+"Palma, Majorca",Palma Mallorca,Spain,Spain,39.547653,2.730388,PMI,ES,284,166
+Palermo,Palermo,Italy,Italy,38.186523,13.104779,PMO,IT,285,84
+Pescara,Pescara,Italy,Italy,42.43722,14.187222,PSR,IT,286,84
+Pisa,Pisa,Italy,Italy,43.69871,10.399915,PSA,IT,287,84
+Paphos,Paphos,Cyprus,Cyprus,34.71155,32.489105,PFO,CY,288,44
+Palanga,Palanga,Lithuania,Lithuania,55.7075,21.14278,PLQ,LT,289,101
+Ponta Delgada,Ponta Delgada (Azores),Portugal,Portugal,37.743847,-25.696468,PDL,PT,290,142
+Porto,Porto,Portugal,Portugal,41.149967,-8.610243,OPO,PT,291,142
+Poprad,Poprad/Tatry,Slovakia,Slovakia,49.071945,20.240278,TAT,SX,292,159
+Paris,Paris,France,France,2.09528,49.43028,PAR,FR,293,61
+Pula,Pula,Croatia,Croatia,44.891666,13.923611,PUY,HR,294,42
+Podgorica,Podgorica,Montenegro,Montenegro,42.368023,19.246023,TGD,ME,295,117
+Pardubice,Pardubice,Czechia,Czech Republic,50.037827,15.780833,PED,CZ,296,45
+Prague,Prague,Czechia,Czech Republic,50.08781,14.42046,PRG,CZ,297,45
+Parnu,Parnu,Estonia,Estonia,58.41889,24.47278,EPU,EE,298,56
+Rhodes,Rhodes,Greece,Greece,36.401867,28.090677,RHO,GR,299,67
+Reykjavik,Reykjavik,Iceland,Iceland,64.13534,-21.89521,RKV,IS,300,77
+Reus,Reus,Spain,Spain,41.15482,1.108676,REU,ES,301,166
+Rijeka,Rijeka,Croatia,Croatia,45.21583,14.568333,RJK,HR,302,42
+Rome,Rome,Italy,Italy,41.89052,12.494248,ROM,IT,303,84
+Rimini,Rimini,Italy,Italy,44.022953,12.619594,RMI,IT,304,84
+Riga,Riga,Latvia,Latvia,56.92208,23.979807,RIX,LV,305,95
+Rotterdam,Rotterdam,Netherlands,Netherlands,51.924217,4.481776,RTM,NL,306,124
+Ronneby,Ronneby,Sweden,Sweden,56.27,15.27,RNB,SE,307,170
+Salzburg,Salzburg,Austria,Austria,47.80949,13.05501,SZG,AT,308,10
+Sofia,Sofia,Bulgaria,Bulgaria,42.688343,23.41443,SOF,BG,309,26
+Sarajevo,Sarajevo,Bosnia & Herzegovina,Bosnia and Herzegovina,43.826687,18.336065,SJJ,BA,310,22
+Southampton,Southampton,United Kingdom,United Kingdom,50.950726,-1.361318,SOU,GB,311,188
+Poznań,Poznan,Poland,Poland,52.414326,16.828844,POZ,PL,314,141
+Saarbrücken,Saarbruecken,Germany,Germany,49.23485,6.9944015,SCN,DE,315,65
+Stuttgart,Stuttgart,Germany,Germany,48.777107,9.180769,STR,DE,316,65
+"Shannon, County Clare",Shannon,Ireland,Ireland,52.69248,-8.92039,SNN,IE,318,82
+Santiago de Compostela,Santiago De Compostela,Spain,Spain,42.897316000000004,-8.420327,SCQ,ES,320,166
+Seville,Sevilla,Spain,Spain,37.38264,-5.996295,SVQ,ES,321,166
+Skopje,Skopje,Republic of North Macedonia,North Macedonia,41.95649,21.62872,SKP,MK,323,130
+Stavanger,Stavanger,Norway,Norway,58.969975,5.733107,SVG,NO,325,131
+Strasbourg,Strasbourg,France,France,48.58315,7.747882,SXB,FR,326,61
+Split,Split,Croatia,Croatia,43.536526,16.29946,SPU,HR,327,42
+Stockholm,Stockholm,Sweden,Sweden,59.33279,18.06449,STO,SE,329,170
+Tirana,Tirana,Albania,Albania,41.419132,19.71328,TIA,AL,330,2
+Thessaloniki,Thessaloniki,Greece,Greece,40.520832,22.972221,SKG,GR,331,67
+Tenerife,Tenerife,Spain,Spain,28.291563,-16.629131,TCI,ES,332,166
+Trieste,Trieste,Italy,Italy,45.82078,13.485678,TRS,IT,334,84
+Turin,Turin,Italy,Italy,45.07056,7.686619,TRN,IT,335,84
+Tel Aviv,Tel Aviv,Israel,Israel,32.000454,34.870743,TLV,IL,336,83
+Terceira Island,Terceira,Portugal,Portugal,38.754074,-27.08757,TER,PT,337,142
+Timișoara,Timisoara,Romania,Romania,45.809925,21.32012,TSR,RO,338,144
+Trabzon,Trabzon,Turkey,Turkey,40.99419,39.78168,TZX,TR,339,182
+Tampere,Tampere,Finland,Finland,61.497856,23.759632,TMP,FI,340,60
+Turku,Turku,Finland,Finland,60.512794,22.28098,TKU,FI,341,60
+Toulouse,Toulouse,France,France,43.63007,1.374321,TLS,FR,342,61
+Tivat,Tivat,Montenegro,Montenegro,42.40361,18.725555,TIV,ME,343,117
+Tallinn,Tallinn,Estonia,Estonia,59.43886,24.75447,TLL,EE,345,56
+Umeå,Umea,Sweden,Sweden,63.79333,20.28954,UME,SE,347,170
+Vienna,Vienna,Austria,Austria,48.208176,16.37382,VIE,AT,348,10
+Varna,Varna,Bulgaria,Bulgaria,43.23726,27.829096,VAR,BG,349,26
+Volos,Volos,Greece,Greece,39.38333,22.93111,VOL,GR,350,67
+Valencia,Valencia,Spain,Spain,39.490734,-0.4558824,VLC,ES,351,166
+Valladolid,Valladolid,Spain,Spain,41.652943,-4.728381,VLL,ES,352,166
+Venice,Venice,Italy,Italy,45.434338,12.338784,VCE,IT,353,84
+Verona,Verona,Italy,Italy,45.438328,10.991762,VRN,IT,354,84
+Vilnius,Vilnius,Lithuania,Lithuania,54.643078,25.279606,VNO,LT,356,101
+Iași,Iasi,Romania,Romania,47.176987,27.616993,IAS,RO,357,144
+Växjö,Vaxjo,Sweden,Sweden,56.925095,14.732046,VXO,SE,358,170
+Visby,Visby,Sweden,Sweden,57.660446,18.338154,VBY,SE,359,170
+Westerland,Westerland,Germany,Germany,54.91528,8.343056,GWT,DE,362,65
+Warsaw,Warsaw,Poland,Poland,52.170906,20.97329,WAW,PL,364,141
+Wrocław,Wroclaw,Poland,Poland,51.10482,16.899403,WRO,PL,365,141
+Zaragoza,Zaragoza,Spain,Spain,41.66386,-1.007466,ZAZ,ES,367,166
+Zagreb,Zagreb,Croatia,Croatia,45.733242,16.06152,ZAG,HR,368,42
+Zadar,Zadar,Croatia,Croatia,44.09778,15.356667,ZAD,HR,369,42
+Zürich,Zurich,Switzerland,Switzerland,47.367348,8.550002,ZRH,CH,370,171
+Chișinău,Chisinau,Moldova,Moldova,46.935444,28.934967,KIV,MD,371,114
+NA,Minsk,NA,Belarus,53.9,27.566668,MSQ,BY,372,16
+NA,Moscow,NA,Russia,55.755787,37.617634,MOW,RU,387,145
+NA,Krasnojarsk,NA,Russia,56.18113,92.48286,KJA,RU,398,145
+NA,Nizhniy Novgorod,NA,Russia,56.218613,43.789764,GOJ,RU,411,145
+NA,Naberezhnye Chelny,NA,Russia,55.564125,52.10341,NBC,RU,419,145
+NA,Saratov,NA,Russia,51.566666,46.066666,RTW,RU,433,145
+NA,Kemerovo,NA,Russia,55.280567,86.11623,KEJ,RU,437,145
+NA,Nadym,NA,Russia,65.48333,72.71667,NYM,RU,446,145
+NA,Magnitogorsk,NA,Russia,53.45,59.066666,MQF,RU,447,145
+NA,Neryungri,NA,Russia,56.65,124.6,NER,RU,462,145
+NA,Tiksi,NA,Russia,71.7,128.9,IKS,RU,476,145
+NA,Solovetsky,NA,Russia,65.02944,35.733334,CSH,RU,479,145
+NA,Velikij Ustyug,NA,Russia,60.766666,46.316666,VUS,RU,480,145
+NA,Ust-Kut,NA,Russia,56.85,105.73333,UKX,RU,485,145
+NA,Berezovo,NA,Russia,63.924583,65.04485,EZV,RU,493,145
+NA,Iturup,NA,Russia,45.25611,147.95583,ITU,RU,505,145
+NA,Keperveyem,NA,Russia,67.84056,166.13918,KPW,RU,507,145
+NA,Kotlas,NA,Russia,61.233334,46.7,KSZ,RU,539,145
+NA,Pristina,NA,Kosovo,42.573612,21.035557,PRN,XK,546,91
+Ulaanbaatar,Ulaanbaatar,Mongolia,Mongolia,47.85275,106.76327,ULN,MN,548,116
+Vientiane,Vientiane,Laos,Laos,17.975431,102.56772,VTE,LA,549,94
+NA,Agra,NA,India,27.158333,77.962776,AGR,IN,551,78
+NA,Ahmedabad,NA,India,23.06639,72.62417,AMD,IN,552,78
+NA,Amritsar,NA,India,31.706741,74.8073,ATQ,IN,555,78
+NA,Aurangabad,NA,India,19.866465,75.39721,IXU,IN,556,78
+NA,Bhopal,NA,India,23.284761,77.34177,BHO,IN,561,78
+NA,Bhubaneswar,NA,India,20.252853000000002,85.81738,BBI,IN,562,78
+NA,Bhuj,NA,India,23.2875,69.670555,BHJ,IN,563,78
+NA,Chandigarh,NA,India,30.674921,76.797386,IXC,IN,565,78
+NA,Coimbatore,NA,India,11.031026,77.03893,CJB,IN,566,78
+NA,Dehra Dun,NA,India,30.316668,78.03333,DED,IN,567,78
+NA,Dharamsala,NA,India,32.3,76.26667,DHM,IN,568,78
+NA,Gaya,NA,India,24.746668,84.94583,GAY,IN,572,78
+NA,Gorakhpur,NA,India,26.746862,83.44376,GOP,IN,574,78
+NA,Guwahati,NA,India,26.105982,91.58881,GAU,IN,575,78
+NA,Hyderabad,NA,India,17.385044,78.48667,HYD,IN,578,78
+NA,Imphal,NA,India,24.76457,93.897064,IMF,IN,579,78
+NA,Indore,NA,India,22.728651,75.80944,IDR,IN,580,78
+NA,Jaisalmer,NA,India,26.916668,70.9,JSA,IN,582,78
+NA,Jammu,NA,India,32.68077,74.84283,IXJ,IN,584,78
+NA,Jodhpur,NA,India,26.263948,73.05055,JDH,IN,586,78
+NA,Kochi,NA,India,10.155644,76.39053,COK,IN,593,78
+NA,Kozhikode,NA,India,11.14025,75.950584,CCJ,IN,595,78
+NA,Leh,NA,India,34.14035,77.54746,IXL,IN,597,78
+NA,Lucknow,NA,India,26.764257,80.884186,LKO,IN,599,78
+NA,Madurai,NA,India,9.837471,78.09112,IXM,IN,601,78
+NA,Mangalore,NA,India,12.963543,74.890144,IXE,IN,602,78
+NA,Nagpur,NA,India,21.090036,79.05636,NAG,IN,604,78
+NA,Patna,NA,India,25.59489,85.09067,PAT,IN,609,78
+NA,Port Blair,NA,India,11.650083,92.73227,IXZ,IN,611,78
+NA,Pune,NA,India,18.581388,73.920555,PNQ,IN,613,78
+NA,Raipur,NA,India,21.18456,81.73975,RPR,IN,614,78
+NA,Rajkot,NA,India,22.308674,70.78235,RAJ,IN,616,78
+NA,Ranchi,NA,India,23.318192,85.32285,IXR,IN,617,78
+NA,Silchar,NA,India,24.916018,92.979256,IXS,IN,622,78
+NA,Srinagar,NA,India,34.002308,74.762634,SXR,IN,623,78
+NA,Surat Gujarat,NA,India,21.117659,72.745255,STV,IN,624,78
+NA,Thiruvananthapuram,NA,India,8.476126,76.91907,TRV,IN,626,78
+NA,Tiruchirappalli,NA,India,10.762168,78.70724,TRZ,IN,627,78
+NA,Tirupati,NA,India,13.635721,79.54293,TIR,IN,628,78
+NA,Udaipur,NA,India,24.61919,73.891266,UDR,IN,630,78
+NA,Vadodara,NA,India,22.329077,73.2157,BDQ,IN,631,78
+NA,Varanasi,NA,India,25.449697,82.85373,VNS,IN,632,78
+NA,Vijayawada,NA,India,16.529444,80.79722,VGA,IN,634,78
+Chiang Mai,Chiang Mai,Thailand,Thailand,18.769573,98.96841,CNX,TH,636,176
+Hat Yai,Hat Yai,Thailand,Thailand,6.936764,100.39356,HDY,TH,637,176
+Ko Samui,Koh Samui,Thailand,Thailand,9.555315,100.0628,USM,TH,638,176
+Udon Thani,Udon Thani,Thailand,Thailand,17.38661,102.774506,UTH,TH,639,176
+Chiang Rai Province,Chiang Rai,Thailand,Thailand,19.954609,99.878815,CEI,TH,640,176
+Khon Kaen,Khon Kaen,Thailand,Thailand,16.46467,102.78749,KKC,TH,641,176
+Surat Thani Province,Surat Thani,Thailand,Thailand,9.133865,99.143196,URT,TH,642,176
+Ubon Ratchathani Province,Ubon Ratchathani,Thailand,Thailand,15.246491,104.87068,UBP,TH,643,176
+Nakhon Si Thammarat Province,Nakhon Si Thammarat,Thailand,Thailand,8.466667,99.95,NST,TH,644,176
+Phitsanulok,Phitsanulok,Thailand,Thailand,16.771307,100.2812,PHS,TH,645,176
+NA,Trang,NA,Thailand,7.5,99.61667,TST,TH,646,176
+Roi Et Province,Roi Et,Thailand,Thailand,16.115278,103.77695,ROI,TH,647,176
+Buriram Province,Buri Ram,Thailand,Thailand,15.226944,103.25528,BFV,TH,649,176
+Sakon Nakhon,Sakon Nakhon,Thailand,Thailand,17.283333,104.1,SNO,TH,650,176
+Lampang Province,Lampang,Thailand,Thailand,18.274166,99.507225,LPT,TH,651,176
+NA,Mae Sot,NA,Thailand,16.666668,98.583336,MAQ,TH,652,176
+Chumphon Province,Chumphon,Thailand,Thailand,10.709722,99.36389,CJM,TH,654,176
+Loei Province,Loei,Thailand,Thailand,17.45,101.73333,LOE,TH,655,176
+Narathiwat Province,Narathiwat,Thailand,Thailand,6.516667,101.75,NAW,TH,656,176
+Trat Province,Trat,Thailand,Thailand,12.273953,102.31867,TDX,TH,657,176
+Sukhothai Province,Sukhothai,Thailand,Thailand,17.223057,99.82222,THS,TH,659,176
+Chicago,Chicago,United States,United States,41.87811,-87.6298,CHI,US,663,189
+Houston,Houston,United States,United States,29.76278,-95.38306,QHO,US,664,189
+Phoenix,Phoenix,United States,United States,33.448376,-112.074036,PHX,US,665,189
+Philadelphia,Philadelphia,United States,United States,39.952335,-75.16379,PHL,US,666,189
+San Antonio,San Antonio,United States,United States,29.424122,-98.49363,SAT,US,667,189
+San Diego,San Diego,United States,United States,32.71533,-117.15726,SAN,US,668,189
+Dallas,Dallas,United States,United States,32.802956,-96.76992,DFW,US,669,189
+San Jose,San Jose,United States,United States,37.339386,-121.89496,SJC,US,670,189
+Austin,Austin,United States,United States,30.267153,-97.74306,AUS,US,671,189
+Jacksonville,Jacksonville,United States,United States,30.332184,-81.65565,JAX,US,673,189
+Columbus,Columbus,United States,United States,39.961174,-82.998795,CMH,US,674,189
+Charlotte,Charlotte,United States,United States,35.227085,-80.843124,CLT,US,675,189
+Indianapolis,Indianapolis,United States,United States,39.714516,-86.29805,IND,US,676,189
+Seattle,Seattle,United States,United States,47.60621,-122.33207,SEA,US,677,189
+Denver,Denver,United States,United States,39.739155,-104.9847,DEN,US,678,189
+NA,Washington,NA,United States,38.89511,-77.03637,WAS,US,679,189
+Boston,Boston,United States,United States,42.35843,-71.05978,BOS,US,680,189
+El Paso,El Paso,United States,United States,31.75872,-106.48693,ELP,US,681,189
+Nashville,Nashville,United States,United States,36.13174,-86.668945,BNA,US,682,189
+Detroit,Detroit,United States,United States,42.33143,-83.04575,DTT,US,683,189
+Portland,Portland,United States,United States,45.588997,-122.5929,PDX,US,684,189
+Oklahoma City,Oklahoma City,United States,United States,35.46756,-97.516426,OKC,US,685,189
+Memphis,Memphis,United States,United States,35.149536,-90.04898,MEM,US,686,189
+Louisville,Louisville,United States,United States,38.252666,-85.75845,SDF,US,687,189
+NA,Baltimore,NA,United States,39.28639,-76.615,BWI,US,688,189
+Milwaukee,Milwaukee,United States,United States,43.038902,-87.90647,MKE,US,689,189
+Albuquerque,Albuquerque,United States,United States,35.049625,-106.617195,ABQ,US,690,189
+Tucson,Tucson,United States,United States,32.221745,-110.926476,TUS,US,691,189
+Fresno,Fresno,United States,United States,36.747726,-119.77237,FAT,US,692,189
+Atlanta,Atlanta,United States,United States,33.748997,-84.387985,ATL,US,694,189
+Sacramento,Sacramento,United States,United States,38.57528,-121.48611,SAC,US,695,189
+Kansas City,Kansas City,United States,United States,39.05,-94.58334,MKC,US,696,189
+NA,Colorado Springs,NA,United States,38.83388,-104.821365,COS,US,697,189
+Raleigh,Raleigh/Durham,United States,United States,35.873592,-78.79086,RDU,US,698,189
+Omaha,Omaha,United States,United States,41.252365,-95.997986,OMA,US,699,189
+NA,Long Beach,NA,United States,33.79,-118.16,LGB,US,700,189
+Minneapolis,Minneapolis,United States,United States,44.979965,-93.26384,MSP,US,702,189
+Oakland,Oakland,United States,United States,37.804363,-122.27111,OAK,US,703,189
+Tampa,Tampa,United States,United States,27.949436,-82.46514,TPA,US,704,189
+Tulsa,Tulsa,United States,United States,36.15398,-95.992775,TUL,US,706,189
+New Orleans,New Orleans,United States,United States,29.964722,-90.07056,MSY,US,708,189
+Wichita,Wichita,United States,United States,37.692238,-97.33755,ICT,US,709,189
+Cleveland,Cleveland,United States,United States,41.499496,-81.69541,CLE,US,711,189
+San Juan,San Juan,United States,United States,57.73111,-153.31833,WSJ,US,714,189
+Santa Ana,Santa Ana,United States,United States,33.717472,-117.83115,SNA,US,715,189
+Lexington,Lexington,United States,United States,38.031715,-84.49513,LEX,US,717,189
+Corpus Christi,Corpus Christi,United States,United States,27.800583,-97.39638,CRP,US,718,189
+Cincinnati,Cincinnati,United States,United States,39.08367,-84.50855,CVG,US,721,189
+Greensboro,Greensboro/High Point,United States,United States,36.105324,-79.9373,GSO,US,723,189
+Pittsburgh,Pittsburgh,United States,United States,40.440624,-79.99589,PIT,US,724,189
+NA,Lincoln,NA,United States,40.846176,-96.75471,LNK,US,725,189
+St. Louis,Saint Louis,United States,United States,38.627003,-90.1994,STL,US,726,189
+Anchorage,Anchorage,United States,United States,61.218056,-149.90028,ANC,US,728,189
+Fort Wayne,Fort Wayne,United States,United States,41.079273,-85.13935,FWA,US,734,189
+Laredo,Laredo,United States,United States,27.543667,-99.455124,LRD,US,737,189
+Madison,Madison,United States,United States,43.136375,-89.3465,MSN,US,738,189
+Lubbock,Lubbock,United States,United States,33.57786,-101.85516,LBB,US,740,189
+Reno,Reno,United States,United States,39.505783,-119.775696,RNO,US,741,189
+Buffalo,Buffalo,United States,United States,42.886448,-78.87837,BUF,US,743,189
+Norfolk,Norfolk,United States,United States,36.85077,-76.28587,ORF,US,751,189
+NA,Boise,NA,United States,43.569263,-116.22193,BOI,US,753,189
+Richmond,Richmond,United States,United States,37.54298,-77.46909,RIC,US,755,189
+Spokane,Spokane,United States,United States,47.65878,-117.42605,GEG,US,757,189
+Des Moines,Des Moines,United States,United States,41.532433,-93.64809,DSM,US,761,189
+Baton Rouge,Baton Rouge,United States,United States,30.458282,-91.14032,BTR,US,763,189
+Salt Lake City,Salt Lake City,United States,United States,40.785645,-111.980675,SLC,US,765,189
+Birmingham,Birmingham,United States,United States,33.560833,-86.75219,BHM,US,769,189
+Fayetteville,Fayetteville,United States,United States,35.15,-86.56667,FYM,US,772,189
+Grand Rapids,Grand Rapids,United States,United States,42.88501,-85.52974,GRR,US,773,189
+Rochester,Rochester,United States,United States,43.161,-77.611,ROC,US,775,189
+Charleston,Charleston,United States,United States,32.884354,-80.037155,CHS,US,776,189
+Palm Springs,Palm Springs,United States,United States,33.830296,-116.545296,PSP,US,777,189
+Montreal,Montreal,Canada,Canada,45.50889,-73.55417,YMQ,CA,780,33
+Calgary,Calgary,Canada,Canada,51.131393,-114.01055,YYC,CA,781,33
+Edmonton,Edmonton,Canada,Canada,53.548,-113.49,YEA,CA,782,33
+Ottawa,Ottawa,Canada,Canada,45.41157,-75.6982,YOW,CA,783,33
+Winnipeg,Winnipeg,Canada,Canada,49.88608,-97.15292,YWG,CA,784,33
+Quebec City,Quebec,Canada,Canada,46.803284,-71.2428,YQB,CA,785,33
+Hamilton,Hamilton,Canada,Canada,NA,NA,YHM,CA,786,33
+Waterloo,Kitchener/Waterloo,Canada,Canada,43.455223,-80.37503,YKF,CA,787,33
+London,London,Canada,Canada,42.987,-81.251,YXU,CA,788,33
+Victoria,Victoria,Canada,Canada,48.42861,-123.365555,YYJ,CA,789,33
+Halifax,Halifax,Canada,Canada,44.64888,-63.575314,YHZ,CA,790,33
+Windsor,Windsor,Canada,Canada,42.28,-82.96,YQG,CA,792,33
+Saskatoon,Saskatoon,Canada,Canada,52.169704,-106.69037,YXE,CA,793,33
+Regina,Regina,Canada,Canada,50.433327,-104.65519,YQR,CA,795,33
+St. John s,St. John's,Canada,Canada,47.61282,-52.74334,YYT,CA,796,33
+Kelowna,Kelowna,Canada,Canada,49.95154,-119.38139,YLW,CA,797,33
+Herat,Herat,Afghanistan,Afghanistan,34.212696,62.22599,HEA,AF,1001,1
+Kandahar,Kandahar,Afghanistan,Afghanistan,31.506945,65.8475,KDH,AF,1002,1
+Mazar-i-Sharif,Mazar-I-Sharif,Afghanistan,Afghanistan,36.70919,67.20849,MZR,AF,1003,1
+Durres,Durres,Albania,Albania,NA,NA,NA,AL,1005,2
+Kukës,Kukes,Albania,Albania,42.076668,20.421667,KFZ,AL,1006,2
+NA,Bahia Blanca,NA,Argentina,-38.730556,-62.150555,BHI,AR,1030,7
+NA,Catamarca,NA,Argentina,-28.448334,-65.779724,CTC,AR,1031,7
+NA,Cordoba,NA,Argentina,-31.31548,-64.21377,COR,AR,1032,7
+NA,El Calafate,NA,Argentina,-50.284225,-72.053696,FTE,AR,1033,7
+NA,Esquel,NA,Argentina,-42.90972,-71.1425,EQS,AR,1034,7
+NA,Iguazu,NA,Argentina,-25.731504,-54.47635,IGR,AR,1035,7
+NA,Jujuy,NA,Argentina,-24.4,-65.083336,JUJ,AR,1036,7
+NA,La Rioja,NA,Argentina,-29.383333,-66.78333,IRJ,AR,1037,7
+NA,Mar Del Plata,NA,Argentina,-37.934723,-57.572224,MDQ,AR,1038,7
+NA,Mendoza,NA,Argentina,-32.82789,-68.79891,MDZ,AR,1039,7
+NA,Neuquen,NA,Argentina,-38.95,-68.15222,NQN,AR,1040,7
+NA,Parana,NA,Argentina,-31.795,-60.48,PRA,AR,1041,7
+NA,Posadas,NA,Argentina,-27.383888,-55.9675,PSS,AR,1042,7
+NA,Puerto Madryn,NA,Argentina,-42.733334,-65.066666,PMY,AR,1043,7
+NA,Rio Gallegos,NA,Argentina,-51.61667,-69.28333,RGL,AR,1044,7
+NA,Rio Grande,NA,Argentina,-53.779167,-67.75,RGA,AR,1045,7
+NA,Rosario,NA,Argentina,-32.933334,-60.783333,ROS,AR,1046,7
+NA,Salta,NA,Argentina,-24.844217,-65.47849,SLA,AR,1047,7
+NA,San Carlos de Bariloche,NA,Argentina,-41.145966,-71.16109,BRC,AR,1048,7
+NA,San Martin De Los Andes,NA,Argentina,-40.066666,-71.13333,CPC,AR,1049,7
+NA,Santiago Del Estero,NA,Argentina,-27.765278,-64.32222,SDE,AR,1050,7
+NA,Ushuaia,NA,Argentina,-54.839348,-68.31245,USH,AR,1051,7
+NA,Gyoumri,NA,Armenia,40.716667,43.833332,LWN,AM,1052,8
+NA,Adelaide,NA,Australia,-34.92862,138.59996,ADL,AU,1054,9
+NA,Alice Springs,NA,Australia,-23.70021,133.88062,ASP,AU,1055,9
+NA,Ballina,NA,Australia,-28.837606,153.5564,BNK,AU,1056,9
+NA,Brisbane,NA,Australia,-27.470934,153.0235,BNE,AU,1057,9
+NA,Broome,NA,Australia,-17.95264,122.23429,BME,AU,1058,9
+NA,Bussellton,NA,Australia,-33.716667,115.25,BQB,AU,1059,9
+NA,Cairns,NA,Australia,-16.876537,145.75404,CNS,AU,1060,9
+NA,Canberra,NA,Australia,-35.30735,149.19052,CBR,AU,1061,9
+NA,Coolangatta (Gold Coast),NA,Australia,-28.166164,153.51314,OOL,AU,1062,9
+NA,Darwin,NA,Australia,-12.46282,130.84177,DRW,AU,1063,9
+NA,Emerald,NA,Australia,-23.56861,148.1744,EMD,AU,1064,9
+NA,Gladstone,NA,Australia,-23.87147,151.22351,GLT,AU,1065,9
+NA,Griffith,NA,Australia,-34.255432,146.0627,GFF,AU,1066,9
+NA,Hobart,NA,Australia,-42.837257,147.50519,HBA,AU,1067,9
+NA,Karratha,NA,Australia,-20.70826,116.77006,KTA,AU,1068,9
+NA,Launceston,NA,Australia,-41.54351,147.20532,LST,AU,1069,9
+NA,Learmonth,NA,Australia,-22.239883,114.09427,LEA,AU,1070,9
+NA,Mackay,NA,Australia,-21.176285,149.1818,MKY,AU,1071,9
+NA,Onslow,NA,Australia,-21.666668,115.1,ONS,AU,1072,9
+NA,Perth,NA,Australia,-31.952223,115.85889,PER,AU,1073,9
+NA,Port Hedland,NA,Australia,-20.377945,118.63164,PHE,AU,1074,9
+NA,Roma,NA,Australia,-26.543552,148.77943,RMA,AU,1075,9
+NA,Sunshine Coast,NA,Australia,-26.60538,153.08821,MCY,AU,1076,9
+NA,Tamworth,NA,Australia,-31.0845,150.8485,TMW,AU,1077,9
+NA,Townsville,NA,Australia,-19.256506,146.7708,TSV,AU,1078,9
+Bregenz,Bregenz,Austria,Austria,47.505,9.74917,XGZ,AT,1079,10
+St Anton,St Anton,Austria,Austria,47.15,10.28333,ANT,AT,1080,10
+Villach,Villach,Austria,Austria,NA,NA,NA,AT,1081,10
+Ganja,Ganja,Azerbaijan,Azerbaijan,40.733334,46.316666,GNJ,AZ,1082,11
+NA,Lankaran,NA,Azerbaijan,38.74203,48.824093,LLK,AZ,1083,11
+Nakhchivan,Nakhichevan,Azerbaijan,Azerbaijan,39.190277,45.45889,NAJ,AZ,1084,11
+NA,Bahrain,NA,Bahrain,26.26918,50.62605,BAH,BH,1100,13
+Barisal,Barisal,Bangladesh,Bangladesh,22.8,90.3,BZL,BD,1101,14
+Chittagong,Chittagong,Bangladesh,Bangladesh,22.245201,91.81516,CGP,BD,1102,14
+Cox's Bazar,Coxs Bazar,Bangladesh,Bangladesh,21.45,91.96667,CXB,BD,1103,14
+Jessore,Jessore,Bangladesh,Bangladesh,23.17696,89.160645,JSR,BD,1104,14
+Rajshahi,Rajshahi,Bangladesh,Bangladesh,24.433332,88.61667,RJH,BD,1105,14
+Saidpur,Saidpur,Bangladesh,Bangladesh,25.783333,88.9,SPD,BD,1106,14
+Sylhet,Sylhet,Bangladesh,Bangladesh,24.957598,91.870476,ZYL,BD,1107,14
+Arlon,Arlon,Belgium,Belgium,NA,NA,NA,BE,1109,17
+NA,Bruges,NA,Belgium,51.216667,2.9,OST,BE,1110,17
+Ghent,Ghent,Belgium,Belgium,NA,NA,NA,BE,1111,17
+Hasselt,Hasselt,Belgium,Belgium,NA,NA,NA,BE,1112,17
+Mons,Mons,Belgium,Belgium,50.454956,3.95196,QMO,BE,1113,17
+Paro,Paro,Bhutan,Bhutan,27.433332,89.416664,PBH,BT,1123,20
+Brčko,Brcko,Bosnia & Herzegovina,Bosnia and Herzegovina,NA,NA,NA,BA,1130,22
+Bugojno,Bugojno,Bosnia & Herzegovina,Bosnia and Herzegovina,NA,NA,NA,BA,1131,22
+Kupres,Kupres,Bosnia & Herzegovina,Bosnia and Herzegovina,NA,NA,NA,BA,1132,22
+Livno,Livno,Bosnia & Herzegovina,Bosnia and Herzegovina,NA,NA,NA,BA,1133,22
+Mostar,Mostar,Bosnia & Herzegovina,Bosnia and Herzegovina,43.285557,17.846666,OMO,BA,1134,22
+Srebrenik,Srebrenik,Bosnia & Herzegovina,Bosnia and Herzegovina,NA,NA,NA,BA,1135,22
+Tuzla,Tuzla,Bosnia & Herzegovina,Bosnia and Herzegovina,44.40972,18.709167,TZL,BA,1136,22
+NA,Aracaju,NA,Brazil,-10.987206,-37.072792,AJU,BR,1140,24
+NA,Aracatuba,NA,Brazil,-21.143612,-50.42611,ARU,BR,1141,24
+NA,Barreiras,NA,Brazil,-12.073056,-45.00833,BRA,BR,1142,24
+NA,Belem,NA,Brazil,-1.389865,-48.480003,BEL,BR,1143,24
+NA,Belo Horizonte,NA,Brazil,-19.919067,-43.938576,BHZ,BR,1144,24
+NA,Bonito,NA,Brazil,-21.229445,-56.456112,BYO,BR,1145,24
+NA,Brasilia,NA,Brazil,-15.869807,-47.921486,BSB,BR,1146,24
+NA,Cabo Frio,NA,Brazil,-22.925,-42.07861,CFB,BR,1147,24
+NA,Caxias do Sul,NA,Brazil,-29.166668,-51.183334,CXJ,BR,1148,24
+NA,Cuiaba,NA,Brazil,-15.651725,-56.120266,CGB,BR,1149,24
+NA,Curitiba,NA,Brazil,-25.5322,-49.176544,CWB,BR,1150,24
+NA,Fernando De Noronha,NA,Brazil,-3.85,-32.416668,FEN,BR,1151,24
+NA,Florianopolis,NA,Brazil,-27.664446,-48.5452,FLN,BR,1152,24
+NA,Fortaleza,NA,Brazil,-3.779073,-38.540836,FOR,BR,1153,24
+NA,Goiania,NA,Brazil,-16.632631,-49.226624,GYN,BR,1154,24
+NA,Iguassu Falls,NA,Brazil,-25.597937,-54.488823,IGU,BR,1155,24
+NA,Ji-Parana,NA,Brazil,-10.870556,-61.84667,JPR,BR,1156,24
+NA,Joao Pessoa,NA,Brazil,-7.145357,-34.94816,JPA,BR,1157,24
+NA,Joinville,NA,Brazil,-26.233334,-48.783333,JOI,BR,1158,24
+NA,Macapa,NA,Brazil,0.049895,-51.068382,MCP,BR,1159,24
+NA,Maceio,NA,Brazil,-9.512521,-35.800446,MCZ,BR,1160,24
+NA,Manaus,NA,Brazil,-3.031327,-60.046093,MAO,BR,1161,24
+NA,Maringa,NA,Brazil,-23.383612,-51.933334,MGF,BR,1162,24
+NA,Natal,NA,Brazil,-5.916787,-35.250244,NAT,BR,1163,24
+NA,Navegantes,NA,Brazil,-26.866667,-48.63333,NVT,BR,1164,24
+NA,Petrolina,NA,Brazil,-9.393333,-40.490555,PNZ,BR,1165,24
+NA,Ponta Grossa,NA,Brazil,-25.083332,-50.15,PGZ,BR,1166,24
+NA,Porto Alegre,NA,Brazil,-29.98961,-51.17709,POA,BR,1167,24
+NA,Recife,NA,Brazil,-8.131507,-34.91792,REC,BR,1168,24
+NA,Rio Branco,NA,Brazil,-9.966667,-67.8,RBR,BR,1169,24
+NA,Salvador,NA,Brazil,-12.913988,-38.335197,SSA,BR,1170,24
+NA,Sao Jose Do Rio Preto,NA,Brazil,-20.816668,-49.416668,SJP,BR,1171,24
+NA,Sao Luiz,NA,Brazil,-2.583316,-44.236683,SLZ,BR,1172,24
+NA,Sao Paulo,NA,Brazil,-23.63,-46.66,SAO,BR,1173,24
+NA,Teresina,NA,Brazil,-5.06335,-42.821087,THE,BR,1174,24
+NA,Vitoria,NA,Brazil,-20.25681,-40.289566,VIX,BR,1175,24
+Bansko,Bansko,Bulgaria,Bulgaria,NA,NA,NA,BG,1178,26
+Burgas,Bourgas,Bulgaria,Bulgaria,42.416668,27.283333,BOJ,BG,1179,26
+Dobrinishte,Dobrinishte,Bulgaria,Bulgaria,NA,NA,NA,BG,1180,26
+Haskovo,Haskovo,Bulgaria,Bulgaria,41.93333,25.55,HKV,BG,1181,26
+Karlovo,Karlovo,Bulgaria,Bulgaria,NA,NA,NA,BG,1182,26
+Pazardzhik,Pazardzhik,Bulgaria,Bulgaria,NA,NA,NA,BG,1183,26
+Pernik,Pernik,Bulgaria,Bulgaria,NA,NA,NA,BG,1184,26
+Radomir,Radomir,Bulgaria,Bulgaria,NA,NA,NA,BG,1185,26
+Razlog,Razlog,Bulgaria,Bulgaria,NA,NA,NA,BG,1186,26
+Ruse,Rousse,Bulgaria,Bulgaria,43.68333,26.05,ROU,BG,1187,26
+Sandanski,Sandanski,Bulgaria,Bulgaria,NA,NA,NA,BG,1188,26
+Sopot,Sopot,Bulgaria,Bulgaria,NA,NA,NA,BG,1189,26
+Krong Kampot,Kampot,Cambodia,Cambodia,10.6,104.1667,KMT,KH,1192,31
+Siem Reap,Siem Reap,Cambodia,Cambodia,13.408436,103.815926,REP,KH,1193,31
+Sihanoukville Province,Sihanoukville,Cambodia,Cambodia,10.633333,103.5,KOS,KH,1194,31
+Abbotsford,Abbotsford,Canada,Canada,49.025555,-122.361946,YXX,CA,1197,33
+Azilda,Azilda,Canada,Canada,NA,NA,NA,CA,1198,33
+Bathurst,Bathurst,Canada,Canada,47.629166,-65.73944,ZBF,CA,1199,33
+Brandon,Brandon,Canada,Canada,49.9,-99.95,YBR,CA,1200,33
+NA,Campbell River,NA,Canada,50.029163,-125.27399,YBL,CA,1201,33
+Charlottetown,Charlottetown,Canada,Canada,46.285896,-63.131737,YYG,CA,1202,33
+Chelmsford,Chelmsford,Canada,Canada,NA,NA,NA,CA,1203,33
+Comox,Comox,Canada,Canada,49.705864,-124.907814,YQQ,CA,1204,33
+Cranbrook,Cranbrook,Canada,Canada,49.61437,-115.787025,YXC,CA,1205,33
+Deer Lake,Deer Lake,Canada,Canada,49.21027,-57.399727,YDF,CA,1206,33
+Fort Albany First Nation,Fort Albany,Canada,Canada,52.24167,-81.59167,YFA,CA,1207,33
+Fort McMurray,Fort McMurray,Canada,Canada,56.65659,-111.22395,YMM,CA,1208,33
+Fort St. John,Fort St. John,Canada,Canada,56.247883,-120.73437,YXJ,CA,1209,33
+Fredericton,Fredericton,Canada,Canada,45.87316,-66.52978,YFC,CA,1210,33
+Gander,Gander,Canada,Canada,48.946667,-54.56333,YQX,CA,1211,33
+Grande Prairie,Grande Prairie,Canada,Canada,55.177074,-118.873604,YQU,CA,1212,33
+Gravenhurst,Gravenhurst,Canada,Canada,NA,NA,NA,CA,1213,33
+Kamloops,Kamloops,Canada,Canada,50.70545,-120.442024,YKA,CA,1214,33
+Kapuskasing,Kapuskasing,Canada,Canada,49.4125,-82.47083,YYU,CA,1215,33
+Kashechewan,Kashechewan,Canada,Canada,52.288544,-81.659355,ZKE,CA,1216,33
+Lethbridge,Lethbridge,Canada,Canada,49.631943,-112.791664,YQL,CA,1217,33
+Lloydminster,Lloydminster,Canada,Canada,53.31297,-110.072716,YLL,CA,1218,33
+Longueuil,Longueuil,Canada,Canada,NA,NA,NA,CA,1219,33
+Matheson,Matheson,Canada,Canada,NA,NA,NA,CA,1220,33
+Medicine Hat,Medicine Hat,Canada,Canada,50.015835,-110.72083,YXH,CA,1221,33
+Moncton,Moncton,Canada,Canada,46.115833,-64.803055,YQM,CA,1222,33
+Nanaimo,Nanaimo,Canada,Canada,49.05,-123.86667,YCD,CA,1223,33
+North Bay,North Bay,Canada,Canada,46.356823,-79.42725,YYB,CA,1224,33
+Penticton,Penticton,Canada,Canada,49.46472,-119.6,YYF,CA,1225,33
+Prince George,Prince George,Canada,Canada,53.91848,-122.77658,YXS,CA,1226,33
+NA,Prince Rupert,NA,Canada,54.306145,-130.31088,YPR,CA,1227,33
+Saguenay,Saguenay,Canada,Canada,48.322224,-70.98861,YBG,CA,1228,33
+Saint John,Saint John,Canada,Canada,45.32948,-65.8902,YSJ,CA,1229,33
+Sault Ste. Marie,Sault Ste. Marie,Canada,Canada,46.485302,-84.49995,YAM,CA,1230,33
+Shillington,Shillington,Canada,Canada,NA,NA,NA,CA,1231,33
+South River,South River,Canada,Canada,NA,NA,NA,CA,1232,33
+Greater Sudbury,Sudbury,Canada,Canada,46.63,-80.8,YSB,CA,1233,33
+Sydney,Sydney,Canada,Canada,46.166668,-60.05,YQY,CA,1234,33
+Terrace,Terrace,Canada,Canada,54.465557,-128.57445,YXT,CA,1235,33
+Thunder Bay,Thunder Bay,Canada,Canada,48.37184,-89.31167,YQT,CA,1236,33
+Timmins,Timmins,Canada,Canada,48.566372,-81.37164,YTS,CA,1237,33
+Trout Creek,Trout Creek,Canada,Canada,NA,NA,NA,CA,1238,33
+Washago,Washago,Canada,Canada,NA,NA,NA,CA,1239,33
+Whitehorse,Whitehorse,Canada,Canada,60.716667,-135.06667,YXY,CA,1240,33
+Yellowknife,Yellowknife,Canada,Canada,62.470867,-114.4375,YZF,CA,1241,33
+NA,Aksu,NA,China,41.259983,80.29262,AKU,CN,1265,37
+NA,Altay,NA,China,47.750362,88.08444,AAT,CN,1266,37
+Ankang,Ankang,China,China,32.7091,108.936,AKA,CN,1267,37
+Anqing,Anqing,China,China,30.5825,117.0509,AQG,CN,1268,37
+Baishan,Baishan,China,China,42.083332,127.6,NBS,CN,1269,37
+"Baoshan, Yunnan",Baoshan,China,China,25.055182,99.16143,BSD,CN,1270,37
+Baotou,Baotou,China,China,40.563328,110.0009,BAV,CN,1271,37
+NA,Bayannur,NA,China,40.926388,107.73889,RLK,CN,1272,37
+Beihai,Beihai,China,China,21.540333,109.28785,BHY,CN,1273,37
+NA,Bijie,NA,China,27.3,105.3,BFJ,CN,1274,37
+NA,Buerjin,NA,China,48.22167,86.99611,KJI,CN,1275,37
+Changchun,Changchun,China,China,43.902836,125.217545,CGQ,CN,1276,37
+Changde,Changde,China,China,28.924467,111.63886,CGD,CN,1277,37
+Changsha,Changsha,China,China,28.193336,113.21459,CSX,CN,1278,37
+NA,Changzhi,NA,China,36.24588,113.12158,CIH,CN,1279,37
+Changzhou,Changzhou,China,China,31.914116,119.77976,CZX,CN,1280,37
+NA,Chaoyang,NA,China,41.545082,120.4372,CHG,CN,1281,37
+Chengdu,Chengdu,China,China,30.581135,103.9568,CTU,CN,1282,37
+Chizhou,Chizhou,China,China,19.222221,72.84722,JUH,CN,1283,37
+Chongqing,Chongqing,China,China,29.72034,106.63408,CKG,CN,1284,37
+Dali,Dali City,China,China,25.65135,100.32316,DLU,CN,1285,37
+Dalian,Dalian,China,China,38.96102,121.53999,DLC,CN,1286,37
+Dandong,Dandong,China,China,40.032368,124.28081,DDG,CN,1287,37
+NA,Daocheng,NA,China,28.766666,100.316666,DCY,CN,1288,37
+NA,Daqing,NA,China,46.58736,125.22841,DQA,CN,1289,37
+NA,Datong,NA,China,40.05554,113.48136,DAT,CN,1290,37
+NA,Dayong,NA,China,29.10712,110.44569,DYG,CN,1291,37
+Diqing Tibetan Autonomous Prefecture,Diqing,China,China,27.789722,99.67778,DIG,CN,1292,37
+NA,Dongsheng,NA,China,39.85,110.03333,DSN,CN,1293,37
+Dongying,Dongying,China,China,37.518333,118.78778,DOY,CN,1294,37
+NA,Dunhuang,NA,China,40.2,94.683334,DNH,CN,1295,37
+NA,Enshi,NA,China,30.321934,109.48201,ENH,CN,1296,37
+NA,Eren Hot,NA,China,43.426674,112.09845,ERL,CN,1297,37
+NA,Fuoshan,NA,China,23.021547,113.121414,FUO,CN,1298,37
+Fuyang,Fuyang,China,China,32.86667,115.7,FUG,CN,1299,37
+Fuzhou,Fuzhou,China,China,25.93123,119.66923,FOC,CN,1300,37
+NA,Ganzhou,NA,China,25.851667,114.776665,KOW,CN,1301,37
+NA,Guang Yuan,NA,China,32.395,105.69972,GYS,CN,1302,37
+Guiyang,Guiyang,China,China,26.544216,106.79598,KWE,CN,1303,37
+NA,Guyuan,NA,China,36.0158,106.2426,GYU,CN,1304,37
+Haikou,Haikou,China,China,19.941612,110.45717,HAK,CN,1305,37
+Hailar,Hailar,China,China,49.209873,119.80654,HLD,CN,1306,37
+NA,Hami,NA,China,42.916668,93.416664,HMI,CN,1307,37
+Handan,Handan,China,China,36.525833,114.425,HDG,CN,1308,37
+Hangzhou,Hangzhou,China,China,30.236935,120.43236,HGH,CN,1309,37
+NA,Hanzhong,NA,China,32.983334,107.183334,HZG,CN,1310,37
+Harbin,Harbin,China,China,45.620853,126.23644,HRB,CN,1311,37
+Hefei,Hefei,China,China,31.85,117.28333,HFE,CN,1312,37
+NA,Heihe,NA,China,50.216667,127.433334,HEK,CN,1313,37
+Hengyang,Hengyang,China,China,26.85,112.5,HNY,CN,1314,37
+NA,Heze,NA,China,35.2343,115.4796,HZA,CN,1315,37
+Hohhot,Hohhot,China,China,40.854713,111.814156,HET,CN,1316,37
+NA,Hotan,NA,China,37.040436,79.87245,HTN,CN,1317,37
+Huai an,Huai'an,China,China,33.7875,119.12778,HIA,CN,1318,37
+NA,Huaihua,NA,China,27.44139,109.69972,HJJ,CN,1319,37
+Huangshan City,Huangshan City/Tunxi,China,China,29.72962,118.25646,TXN,CN,1320,37
+NA,Huizhou,NA,China,23.083332,114.36667,HUZ,CN,1321,37
+Ji an,Ji'An,China,China,26.899721,114.7375,JGS,CN,1322,37
+NA,Jiagedaqi District,NA,China,50.370556,124.11667,JGD,CN,1323,37
+Jiamusi,Jiamusi,China,China,46.845394,130.45541,JMU,CN,1324,37
+Shantou,Jieyang,China,China,23.430237,116.75859,SWA,CN,1325,37
+Jinan,Jinan,China,China,36.85769,117.20688,TNA,CN,1326,37
+Jingdezhen,Jingdezhen,China,China,29.33549,117.17879,JDZ,CN,1327,37
+Jinghong,Jinghong,China,China,21.973421,100.76646,JHG,CN,1328,37
+Jining,Jining,China,China,35.416668,116.53333,JNG,CN,1329,37
+Quanzhou,Jinjiang,China,China,24.802809,118.587296,JJN,CN,1330,37
+NA,Jinzhou,NA,China,41.11667,121.01667,JNZ,CN,1331,37
+NA,Jixi,NA,China,45.306084,130.99675,JXA,CN,1332,37
+NA,Karamay,NA,China,45.579887,84.889206,KRY,CN,1333,37
+NA,Kashi,NA,China,39.534973,76.01107,KHG,CN,1334,37
+NA,Koktokay,NA,China,47.21417,89.813614,FYN,CN,1335,37
+NA,Korla,NA,China,41.689896,86.12434,KRL,CN,1336,37
+Kunming,Kunming,China,China,25.101944,102.92917,KMG,CN,1337,37
+Lancang Lahu Autonomous County,Lancang Lahu Autonomous County,China,China,NA,NA,JMJ,CN,1338,37
+Lanzhou,Lanzhou,China,China,36.033333,103.86667,LHW,CN,1339,37
+Lianyungang,Lianyungang,China,China,34.565937,118.87698,LYG,CN,1340,37
+Lijiang,Lijiang,China,China,26.683332,100.25,LJG,CN,1341,37
+Linfen,Linfen,China,China,36.13222,111.64158,LFQ,CN,1342,37
+Linyi,Linyi,China,China,35.047478,118.40707,LYI,CN,1343,37
+Liuzhou,Liuzhou,China,China,24.206156,109.39843,LZH,CN,1344,37
+NA,Longnan,NA,China,33.3702,104.9603,LNL,CN,1345,37
+NA,Longyan,NA,China,25.675556,116.74556,LCX,CN,1346,37
+Luoyang,Luoyang,China,China,34.736362,112.38541,LYA,CN,1347,37
+Luzhou,Luzhou,China,China,28.844757,105.37902,LZO,CN,1348,37
+Mang City,Mang City (Mangshi),China,China,24.40528,98.5319,LUM,CN,1349,37
+NA,Mangshi,NA,China,24.40528,98.5319,LUM,CN,1350,37
+Manzhouli,Manzhouli,China,China,49.57059,117.33163,NZH,CN,1351,37
+NA,Mei Xian,NA,China,24.266811,116.10449,MXZ,CN,1352,37
+NA,Mian Yang,NA,China,31.43111,104.73805,MIG,CN,1353,37
+Mudanjiang,Mudanjiang,China,China,44.534943,129.58385,MDG,CN,1354,37
+Nanchang,Nanchang,China,China,28.859901,115.907845,KHN,CN,1355,37
+Nanchong,Nanchong,China,China,30.8,106.066666,NAO,CN,1356,37
+Nanjing,Nanjing,China,China,31.735737,118.86652,NKG,CN,1357,37
+Nanning,Nanning,China,China,22.61321,108.1675,NNG,CN,1358,37
+Nantong,Nantong,China,China,32.07292,120.9756,NTG,CN,1359,37
+Nanyang,Nanyang,China,China,32.9837,112.61305,NNY,CN,1360,37
+Ningbo,Ningbo,China,China,29.820415,121.462395,NGB,CN,1361,37
+NA,Nyingchi,NA,China,29.309076,94.335884,LZY,CN,1362,37
+NA,Pu'er,NA,China,22.79657,100.96222,SYM,CN,1363,37
+Qingdao,Qingdao,China,China,36.265884,120.38236,TAO,CN,1364,37
+Qingyang,Qingyang,China,China,35.8001,107.6044,IQN,CN,1365,37
+NA,Qinhuangdao,NA,China,39.965214,119.71656,SHP,CN,1366,37
+Qionghai,Qionghai,China,China,35.98383,96.1532,QHX,CN,1367,37
+NA,Qiqihar,NA,China,47.316666,123.916664,NDG,CN,1368,37
+NA,"Quzhou, Zhejiang Province",NA,China,28.966667,118.833336,JUZ,CN,1369,37
+Rizhao,Rizhao,China,China,NA,NA,RIZ,CN,1370,37
+Sanya,Sanya,China,China,18.31063,109.409706,SYX,CN,1371,37
+NA,Sanyuanpu,NA,China,41.75,125.95,TNH,CN,1372,37
+Shangrao,Shangrao,China,China,NA,NA,SQD,CN,1373,37
+Jingzhou,Shashi/Jingzhou,China,China,30.316668,112.23333,SHS,CN,1374,37
+Shenyang,Shenyang,China,China,41.861084,123.426926,SHE,CN,1375,37
+NA,Shihezi,NA,China,44.3054,86.0804,SHF,CN,1376,37
+Shijiazhuang,Shijiazhuang,China,China,38.274376,114.69443,SJW,CN,1377,37
+NA,Shiyan,NA,China,32.629,110.7987,WDS,CN,1378,37
+NA,Song Pan,NA,China,32.856667,103.68306,JZH,CN,1379,37
+Taiyuan,Taiyuan,China,China,37.754997,112.62585,TYN,CN,1380,37
+Taizhou,Taizhou,China,China,28.558096,121.41675,HYN,CN,1381,37
+NA,Tangshan,NA,China,39.724,117.99345,TVS,CN,1382,37
+Tengchong,Tengchong,China,China,24.939379,98.482025,TCZ,CN,1383,37
+Tianjin,Tianjin,China,China,39.08416,117.20098,TSN,CN,1384,37
+NA,Tongliao,NA,China,43.55701,122.204605,TGO,CN,1385,37
+NA,Tongren,NA,China,27.88369,109.29902,TEN,CN,1386,37
+NA,Tunxi,NA,China,29.72962,118.25646,TXN,CN,1387,37
+NA,Ulanhot,NA,China,46.19349,122.00148,HLH,CN,1388,37
+Ürümqi,Urumqi,China,China,43.90126,87.47515,URC,CN,1389,37
+NA,Wanxian,NA,China,30.799679,108.42695,WXN,CN,1390,37
+NA,Weifang,NA,China,36.641075,119.11347,WEF,CN,1391,37
+Weihai,Weihai,China,China,37.18814,122.23607,WEH,CN,1392,37
+NA,Wenshan,NA,China,23.374907,104.24256,WNH,CN,1393,37
+Wenzhou,Wenzhou,China,China,27.91566,120.84738,WNZ,CN,1394,37
+NA,Wu Hai,NA,China,39.794724,106.799164,WUA,CN,1395,37
+Wuhan,Wuhan,China,China,30.776598,114.209625,WUH,CN,1396,37
+NA,Wuhu,NA,China,31.366667,118.36667,WHU,CN,1397,37
+Wuxi,Wuxi,China,China,31.49289,120.42438,WUX,CN,1398,37
+NA,Wuyishan,NA,China,27.716667,117.96667,WUS,CN,1399,37
+Xiamen,Xiamen,China,China,24.536882,118.1275,XMN,CN,1400,37
+NA,Xian,NA,China,34.44104,108.75874,SIA,CN,1401,37
+Xiangyang,Xiangyang,China,China,32.151558,112.28627,XFN,CN,1402,37
+NA,Xichang,NA,China,27.981922,102.187645,XIC,CN,1403,37
+NA,Xingyi,NA,China,25.085556,104.95944,ACX,CN,1404,37
+Xining,Xining,China,China,36.525322,102.03754,XNN,CN,1405,37
+NA,Xinzhou,NA,China,38.416,112.734,WUT,CN,1406,37
+Xuzhou,Xuzhou,China,China,34.052925,117.55408,XUZ,CN,1407,37
+NA,Yan'an,NA,China,36.639366,109.55148,ENY,CN,1408,37
+Yancheng,Yancheng,China,China,33.43468,120.20418,YNZ,CN,1409,37
+Yangzhou,Yangzhou,China,China,32.563057,119.71889,YTY,CN,1410,37
+Yanji,Yanji,China,China,42.885662,129.43936,YNJ,CN,1411,37
+Yantai,Yantai,China,China,37.407326,121.3711,YNT,CN,1412,37
+Yibin,Yibin,China,China,28.797659,104.54395,YBP,CN,1413,37
+Yichang,Yichang,China,China,30.549934,111.478935,YIH,CN,1414,37
+NA,Yichun,NA,China,27.816,114.417,YIC,CN,1415,37
+Yinchuan,Yinchuan,China,China,38.35,106.35,INC,CN,1416,37
+NA,Yining,NA,China,43.952,81.33144,YIN,CN,1417,37
+Yiwu,Yiwu,China,China,29.344563,120.02880999999999,YIW,CN,1418,37
+NA,Yongzhou,NA,China,26.345556,111.61222,LLF,CN,1419,37
+NA,Yulin,NA,China,38.274155,109.73038,UYN,CN,1420,37
+Yuncheng,Yuncheng,China,China,35.018,110.993,YCU,CN,1421,37
+Zhangjiajie,Zhangjiajie,China,China,29.10712,110.44569,DYG,CN,1422,37
+NA,Zhangjiakou,NA,China,40.73861,114.930275,ZQZ,CN,1423,37
+NA,Zhangye,NA,China,38.8075,100.660835,YZY,CN,1424,37
+Zhanjiang,Zhanjiang,China,China,21.214727,110.36272,ZHA,CN,1425,37
+Zhaotong,Zhaotong,China,China,27.316668,103.8,ZAT,CN,1426,37
+Zhengzhou,Zhengzhou,China,China,34.52752,113.84024,CGO,CN,1427,37
+Zhoushan,Zhoushan,China,China,29.935259,122.35691,HSN,CN,1428,37
+Zunyi,Zunyi,China,China,27.666668,106.833336,ZYI,CN,1429,37
+Brač,Brac (Bol),Croatia,Croatia,43.283333,16.683332,BWK,HR,1451,42
+Brestova,Brestova,Croatia,Croatia,NA,NA,NA,HR,1452,42
+Brseč,Brsec,Croatia,Croatia,NA,NA,NA,HR,1453,42
+Buje,Buje,Croatia,Croatia,NA,NA,NA,HR,1454,42
+Donji Miholjac,Donji Miholjac,Croatia,Croatia,NA,NA,NA,HR,1455,42
+Labin,Labin,Croatia,Croatia,NA,NA,NA,HR,1456,42
+Porec,Porec,Croatia,Croatia,NA,NA,NA,HR,1457,42
+Raša,Rasa,Croatia,Croatia,NA,NA,NA,HR,1458,42
+Rovinj,Rovinj,Croatia,Croatia,NA,NA,NA,HR,1459,42
+Bohumín,Bohumin,Czechia,Czech Republic,NA,NA,NA,CZ,1468,45
+Břeclav,Breclav,Czechia,Czech Republic,NA,NA,NA,CZ,1469,45
+Bystřice,Bystrice,Czechia,Czech Republic,NA,NA,NA,CZ,1470,45
+České Budějovice,Ceske Budejovice,Czechia,Czech Republic,NA,NA,NA,CZ,1471,45
+Český Těšín,Cesky Tesin,Czechia,Czech Republic,NA,NA,NA,CZ,1472,45
+Cheb,Cheb,Czechia,Czech Republic,NA,NA,NA,CZ,1473,45
+Děčín,Decin,Czechia,Czech Republic,NA,NA,NA,CZ,1474,45
+Pavlice,Pavlice,Czechia,Czech Republic,NA,NA,NA,CZ,1475,45
+Plzeň,Plzen,Czechia,Czech Republic,NA,NA,NA,CZ,1476,45
+Třinec,Trinec,Czechia,Czech Republic,NA,NA,NA,CZ,1477,45
+Uherske Hradiste,Uherske Hradiste,Czechia,Czech Republic,49.06667,17.45,UHE,CZ,1478,45
+Ústí nad Labem,Usti nad Labem,Czechia,Czech Republic,NA,NA,NA,CZ,1479,45
+Vranovská Ves,Vranovska Ves,Czechia,Czech Republic,NA,NA,NA,CZ,1480,45
+Znojmo,Znojmo,Czechia,Czech Republic,NA,NA,NA,CZ,1481,45
+Anholt,Anholt,Denmark,Denmark,NA,NA,AHX,DK,1485,47
+Bornholm,Bornholm,Denmark,Denmark,55.065556,14.757778,RNN,DK,1486,47
+Helsingør,Helsingor,Denmark,Denmark,NA,NA,NA,DK,1487,47
+Karup,Karup,Denmark,Denmark,56.3,9.116667,KRP,DK,1488,47
+Køge,Koge,Denmark,Denmark,NA,NA,NA,DK,1489,47
+Kolding,Kolding,Denmark,Denmark,39.122627,117.3399,ZBT,DK,1490,47
+Laeso,Laeso Island,Denmark,Denmark,57.27756,11.005083,BYR,DK,1491,47
+Nykoebing Falster,Nykoebing Falster,Denmark,Denmark,NA,NA,NA,DK,1492,47
+Odense,Odense,Denmark,Denmark,NA,NA,ZIM,DK,1493,47
+Sønderborg,Sonderborg,Denmark,Denmark,54.91381,9.792178,SGD,DK,1494,47
+Vejle,Vejle,Denmark,Denmark,55.70833,9.53333,XVX,DK,1495,47
+NA,Abu Simbel,NA,Egypt,22.367567,31.609774,ABS,EG,1514,52
+NA,Alexandria,NA,Egypt,31.2135,29.9443,ALY,EG,1515,52
+NA,Assiut,NA,Egypt,27.033333,31,ATZ,EG,1516,52
+NA,Aswan,NA,Egypt,23.968021,32.824818,ASW,EG,1517,52
+NA,Luxor,NA,Egypt,25.67492,32.699684,LXR,EG,1518,52
+NA,Marsa Alam,NA,Egypt,25.555786,34.592777,RMF,EG,1519,52
+NA,Sharm el Sheikh,NA,Egypt,27.979357,34.385254,SSH,EG,1520,52
+NA,Sohag,NA,Egypt,26.338877,31.737167,HMB,EG,1521,52
+Ivalo,Ivalo,Finland,Finland,68.611115,27.415556,IVL,FI,1539,60
+Joensuu,Joensuu,Finland,Finland,62.656788,29.61354,JOE,FI,1540,60
+Jyväskylä,Jyvaskyla,Finland,Finland,62.40362,25.68143,JYV,FI,1541,60
+Kajaani,Kajaani,Finland,Finland,64.27778,27.688889,KAJ,FI,1542,60
+Kemi,Kemi/Tornio,Finland,Finland,65.78006,24.57677,KEM,FI,1543,60
+Kittilä,Kittila,Finland,Finland,67.695946,24.859028,KTT,FI,1544,60
+Kokkola,Kokkola/Pietarsaari,Finland,Finland,63.718838,23.133068,KOK,FI,1545,60
+Kuopio,Kuopio,Finland,Finland,63.008907,27.788696,KUO,FI,1546,60
+Kuusamo,Kuusamo,Finland,Finland,65.99028,29.233889,KAO,FI,1547,60
+Oulu,Oulu,Finland,Finland,64.93012,25.375425,OUL,FI,1548,60
+Rovaniemi,Rovaniemi,Finland,Finland,66.559044,25.829609,RVN,FI,1549,60
+Savonlinna,Savonlinna,Finland,Finland,61.95,28.95,SVL,FI,1550,60
+Vaasa,Vaasa,Finland,Finland,63.04355,21.760122,VAA,FI,1551,60
+Ajaccio,Ajaccio,France,France,41.91987,8.794013,AJA,FR,1552,61
+Annecy,Annecy,France,France,NA,NA,NA,FR,1553,61
+Avignon,Avignon,France,France,43.94932,4.805528,AVN,FR,1554,61
+Bastia,Bastia,France,France,42.547615,9.480124,BIA,FR,1555,61
+Bayonne,Bayonne,France,France,NA,NA,NA,FR,1556,61
+Bergerac,Bergerac,France,France,44.85,0.483333,EGC,FR,1557,61
+Béziers,Beziers,France,France,43.324165,3.354444,BZR,FR,1558,61
+Biarritz,Biarritz,France,France,43.472416,-1.531242,BIQ,FR,1559,61
+Brest,Brest,France,France,48.445374,-4.415827,BES,FR,1560,61
+Brive-la-Gaillarde,Brive-La-Gaillarde,France,France,45.166668,1.533333,BVE,FR,1561,61
+Caen,Caen,France,France,49.183437,-0.459276,CFR,FR,1562,61
+Calais,Calais,France,France,50.95129,1.858686,CQF,FR,1563,61
+"Calvi, Haute-Corse",Calvi,France,France,42.52778,8.791667,CLY,FR,1564,61
+Cannes,Cannes,France,France,43.55285,7.017369,CEQ,FR,1565,61
+Carcassonne,Carcassonne,France,France,43.216667,2.316667,CCF,FR,1566,61
+Castres,Castres,France,France,43.555832,2.284167,DCM,FR,1567,61
+Chamonix,Chamonix,France,France,NA,NA,NA,FR,1568,61
+Colmar,Colmar,France,France,48.08333,7.366667,CMR,FR,1569,61
+Deauville,Deauville,France,France,49.362778,0.164167,DOL,FR,1570,61
+Dijon,Dijon,France,France,47.27083,5.088889,DIJ,FR,1571,61
+Disneyland Paris,Disneyland Paris,France,France,48.8704,2.782799,XED,FR,1572,61
+Dole,Dole,France,France,47.05,5.433333,DLE,FR,1573,61
+Figari,Figari,France,France,41.498634,9.098223,FSC,FR,1574,61
+Fort-de-France,Fort-de-France,France,France,NA,NA,FDF,FR,1575,61
+Grenoble,Grenoble,France,France,NA,NA,GNB,FR,1576,61
+Hendaye,Hendaye,France,France,NA,NA,NA,FR,1577,61
+Hyeres,Hyeres,France,France,NA,NA,XZV,FR,1578,61
+La Roche sur Foron,La Roche sur Foron,France,France,NA,NA,NA,FR,1579,61
+La Rochelle,La Rochelle,France,France,46.180557,-1.185833,LRH,FR,1580,61
+Limoges,Limoges,France,France,45.86218,1.176245,LIG,FR,1581,61
+Lourdes,Lourdes,France,France,43.18651,0.003368,LDE,FR,1582,61
+Mulhouse,Mulhouse,France,France,NA,NA,NA,FR,1583,61
+Narbonne,Narbonne,France,France,NA,NA,NA,FR,1584,61
+Nîmes,Nimes,France,France,43.8367,4.360054,FNI,FR,1585,61
+"Pau, Pyrénées-Atlantiques",Pau,France,France,43.382347,-0.413573,PUF,FR,1586,61
+Perpignan,Perpignan,France,France,42.741016,2.868183,PGF,FR,1587,61
+Poitiers,Poitiers,France,France,46.580223,0.340375,PIS,FR,1588,61
+NA,Quimper,NA,France,47.974445,-4.170833,UIP,FR,1589,61
+Reims,Reims,France,France,49.25833,4.031696,RHE,FR,1590,61
+Rennes,Rennes,France,France,48.113476,-1.675708,RNS,FR,1591,61
+Rodez,Rodez,France,France,44.410595,2.483866,RDZ,FR,1592,61
+Saint-Étienne,Saint Etienne,France,France,45.54139,4.296944,EBU,FR,1593,61
+Saint Jean de Luz,Saint Jean de Luz,France,France,NA,NA,NA,FR,1594,61
+Thionville,Thionville,France,France,NA,NA,NA,FR,1595,61
+Toulon,Toulon,France,France,43.12054,6.128639,TLN,FR,1596,61
+Tours,Tours,France,France,47.394142,0.68484,TUF,FR,1597,61
+Valence,Valence,France,France,NA,NA,NA,FR,1598,61
+Batumi,Batumi,Georgia,Georgia,41.610832,41.600555,BUS,GE,1607,64
+Kobuleti,Kobuleti,Georgia,Georgia,NA,NA,NA,GE,1608,64
+Kutaisi,Kutaisi,Georgia,Georgia,42.25,42.7,KUT,GE,1609,64
+Aachen,Aachen,Germany,Germany,50.77544,6.08151,AAH,DE,1610,65
+Bielefeld,Bielefeld,Germany,Germany,52.01667,8.55,BFE,DE,1611,65
+Bochum,Bochum,Germany,Germany,51.48333,7.21667,QBO,DE,1612,65
+Duisburg,Duisburg,Germany,Germany,51.43222,6.76111,DUI,DE,1613,65
+Essen,Essen,Germany,Germany,51.40389,6.941667,NA,DE,1614,65
+Freiburg,Freiburg,Germany,Germany,47.99472,7.84972,QFB,DE,1615,65
+Gelsenkirchen,Gelsenkirchen,Germany,Germany,51.51667,7.1,ZEJ,DE,1616,65
+Guetersloh,Guetersloh,Germany,Germany,51.90491,8.39275,GUT,DE,1617,65
+Kassel,Kassel,Germany,Germany,51.415855,9.380858,KSF,DE,1618,65
+Leipzig,Leipzig/Halle,Germany,Germany,51.43,12.24,LEJ,DE,1619,65
+Passau,Passau,Germany,Germany,48.56667,13.46667,ZPF,DE,1620,65
+Regensburg,Regensburg,Germany,Germany,49.01667,12.08333,ZPM,DE,1621,65
+Simbach am Inn,Simbach am Inn,Germany,Germany,NA,NA,NA,DE,1622,65
+Singen,Singen,Germany,Germany,NA,NA,NA,DE,1623,65
+Trier,Trier,Germany,Germany,49.864,6.787,ZQF,DE,1624,65
+Ulm,Ulm,Germany,Germany,48.4,9.98333,QUL,DE,1625,65
+Chania,Chania,Greece,Greece,35.5402,24.140373,CHQ,GR,1630,67
+Chios,Chios,Greece,Greece,38.345795,26.142336,JKH,GR,1631,67
+Icaria,Ikaria Island,Greece,Greece,37.666668,26.333332,JIK,GR,1632,67
+Ioannina,Ioannina,Greece,Greece,39.696667,20.825832,IOA,GR,1633,67
+Kalamata,Kalamata,Greece,Greece,37.069443,22.027779,KLX,GR,1634,67
+Karpathos,Karpathos,Greece,Greece,35.420685,27.146729,AOK,GR,1635,67
+Kasos,Kasos Island,Greece,Greece,35.42139,26.916668,KSJ,GR,1636,67
+NA,Kastellorizo,NA,Greece,36.083332,29.333332,KZS,GR,1637,67
+NA,Kastoria,NA,Greece,40.450832,21.273333,KSO,GR,1638,67
+Kavala,Kavala,Greece,Greece,40.912994,24.619675,KVA,GR,1639,67
+Cephalonia,Kefallinia,Greece,Greece,38.118057,20.505556,EFL,GR,1640,67
+NA,Kerkyra,NA,Greece,39.60784,19.914644,CFU,GR,1641,67
+Kythira,Kithira,Greece,Greece,36.291668,23.025,KIT,GR,1642,67
+Kos,Kos,Greece,Greece,36.793056,27.095278,KGS,GR,1643,67
+NA,Kozani,NA,Greece,40.288612,21.841944,KZI,GR,1644,67
+Larisa,Larisa,Greece,Greece,39.65111,22.46389,LRA,GR,1645,67
+Leros,Leros,Greece,Greece,37.516666,26.783333,LRS,GR,1646,67
+Lemnos,Limnos,Greece,Greece,39.923904,25.233446,LXS,GR,1647,67
+Mykonos,Mikonos,Greece,Greece,37.43611,25.344444,JMK,GR,1648,67
+"Plaka, Milos",Milos,Greece,Greece,36.69611,24.475,MLO,GR,1649,67
+Mytilene,Mytilene,Greece,Greece,39.05611,26.599443,MJT,GR,1650,67
+Naxos,"Naxos, Cyclades Islands",Greece,Greece,37.1,25.383333,JNX,GR,1651,67
+Parikia,Parikia,Greece,Greece,37.066666,25.1,PAS,GR,1652,67
+NA,Paros,NA,Greece,37.066666,25.1,PAS,GR,1653,67
+Patras,Patras,Greece,Greece,38.25,21.733334,GPA,GR,1654,67
+Preveza,Preveza,Greece,Greece,38.926388,20.765833,PVK,GR,1655,67
+Samos,Samos,Greece,Greece,37.69145,26.914417,SMI,GR,1656,67
+Serres,Serres,Greece,Greece,NA,NA,NA,GR,1657,67
+Sitia,Sitia,Greece,Greece,35.216667,26.116667,JSH,GR,1658,67
+Skiathos,Skiathos,Greece,Greece,39.180557,23.505556,JSI,GR,1659,67
+Skyros,Skiros,Greece,Greece,38.916668,24.566668,SKU,GR,1660,67
+Syros,Syros Island,Greece,Greece,37.42361,24.95,JSY,GR,1661,67
+Santorini,Thira,Greece,Greece,36.4,25.483334,JTR,GR,1662,67
+Zakynthos Island,Zakinthos,Greece,Greece,37.755833,20.888332,ZTH,GR,1663,67
+Gyor,Gyor,Hungary,Hungary,NA,NA,NA,HU,1707,76
+Hegyeshalom,Hegyeshalom,Hungary,Hungary,NA,NA,NA,HU,1708,76
+Mosonmagyaróvár,Mosonmagyarovar,Hungary,Hungary,NA,NA,NA,HU,1709,76
+Siofok,Siofok,Hungary,Hungary,NA,NA,NA,HU,1710,76
+Szeged,Szeged,Hungary,Hungary,46.2537,20.14603,QZD,HU,1711,76
+Akureyri,Akureyri,Iceland,Iceland,65.654564,-18.075068,AEY,IS,1712,77
+NA,Egilsstadir,NA,Iceland,65.27778,-14.402778,EGS,IS,1713,77
+Grimsey,Grimsey,Iceland,Iceland,66.566666,-18.016666,REK,IS,1714,77
+Ísafjörður,Isafjordur,Iceland,Iceland,66.05972,-23.132778,IFJ,IS,1715,77
+Vestmannaeyjar,Vestmannaeyjar,Iceland,Iceland,63.426388,-20.277779,VEY,IS,1716,77
+Vopnafjorður,Vopnafjordur,Iceland,Iceland,65.75694,-14.829444,VPN,IS,1717,77
+NA,Vishakhapatnam,NA,India,17.728151,83.22675,VTZ,IN,2700,78
+NA,Bengaluru,NA,India,13.198889,77.70556,BLR,IN,2701,78
+NA,Kannur,NA,India,11.86889,75.35556,CNN,IN,2702,78
+NA,Goa,NA,India,15.384534,73.83983,GOI,IN,2703,78
+NA,Ambon,NA,Indonesia,-3.704996,128.08888,AMQ,ID,1718,79
+Balikpapan,Balikpapan,Indonesia,Indonesia,-1.260623,116.90082,BPN,ID,1719,79
+Banda Aceh,Banda Aceh,Indonesia,Indonesia,5.518021,95.41833,BTJ,ID,1720,79
+Bandar Lampung,Bandar Lampung,Indonesia,Indonesia,-5.242783,105.1758,TKG,ID,1721,79
+Bandung,Bandung,Indonesia,Indonesia,-6.904648,107.58178,BDO,ID,1722,79
+Banjarmasin,Banjarmasin,Indonesia,Indonesia,-3.43804,114.75425,BDJ,ID,1723,79
+NA,Banyuwangi,NA,Indonesia,-8.21861,114.36694,BWX,ID,1724,79
+Bengkulu,Bengkulu,Indonesia,Indonesia,-3.866159,102.34349,BKS,ID,1725,79
+NA,Gorontalo,NA,Indonesia,0.639039,122.850876,GTO,ID,1726,79
+Jambi City,Jambi,Indonesia,Indonesia,-1.630432,103.63936,DJB,ID,1727,79
+NA,Jayapura,NA,Indonesia,-2.569887,140.51299,DJJ,ID,1728,79
+Kertajati,Kertajati,Indonesia,Indonesia,NA,NA,KJT,ID,1729,79
+NA,Kuala Namu,NA,Indonesia,3.561111,98.672775,MES,ID,1730,79
+Kupang,Kupang,Indonesia,Indonesia,-10.168536,123.66725,KOE,ID,1731,79
+Labuan Bajo,Labuan Bajo,Indonesia,Indonesia,-8.516667,119.88333,LBJ,ID,1732,79
+Makassar,Makassar,Indonesia,Indonesia,-5.058312,119.54589,UPG,ID,1733,79
+NA,Malang,NA,Indonesia,-7.930615,112.71099,MLG,ID,1734,79
+Manado,Manado,Indonesia,Indonesia,1.543533,124.92203,MDC,ID,1735,79
+Medan,Medan,Indonesia,Indonesia,NA,NA,KNO,ID,1736,79
+Padang,Padang,Indonesia,Indonesia,-0.786667,100.280556,PDG,ID,1737,79
+NA,Palangkaraya,NA,Indonesia,-2.223958,113.945786,PKY,ID,1738,79
+Palembang,Palembang,Indonesia,Indonesia,-2.900146,104.69861,PLM,ID,1739,79
+NA,Palu,NA,Indonesia,-0.917945,119.90671,PLW,ID,1740,79
+Pangkal Pinang,Pangkal Pinang,Indonesia,Indonesia,-2.164017,106.13707,PGK,ID,1741,79
+Pekanbaru,Pekanbaru,Indonesia,Indonesia,0.464563,101.446884,PKU,ID,1742,79
+Pontianak,Pontianak,Indonesia,Indonesia,-0.14735,109.40533,PNK,ID,1743,79
+"Praya, Lombok",Praya,Indonesia,Indonesia,-8.757322,116.27667,LOP,ID,1744,79
+Semarang,Semarang,Indonesia,Indonesia,-6.979155,110.37855,SRG,ID,1745,79
+Sorong,Sorong,Indonesia,Indonesia,-0.890214,131.29059,SOQ,ID,1746,79
+Surabaya,Surabaya,Indonesia,Indonesia,-7.38387,112.77724,SUB,ID,1747,79
+Surakarta,Surakarta,Indonesia,Indonesia,-7.51583,110.75667,SOC,ID,1748,79
+Tanjung Pandan,Tanjung Pandan,Indonesia,Indonesia,-2.75,107.65,TJQ,ID,1749,79
+NA,Tanjung Pinang,NA,Indonesia,0.919167,104.53611,TNJ,ID,1750,79
+NA,Ujung Pandang,NA,Indonesia,-5.058312,119.54589,UPG,ID,1751,79
+Yogyakarta,Yogyakarta,Indonesia,Indonesia,-7.785572,110.43706,JOG,ID,1752,79
+NA,Abadan,NA,Iran,30.363905,48.226597,ABD,IR,1753,80
+Bandar Abbas,Bandar Abbas,Iran,Iran,27.21059,56.368385,BND,IR,1754,80
+NA,Bushehr,NA,Iran,28.958284,50.825424,BUZ,IR,1755,80
+Isfahan,Isfahan,Iran,Iran,32.745686,51.87638,IFN,IR,1756,80
+NA,Kish Island,NA,Iran,26.532276,53.972084,KIH,IR,1757,80
+Lar,Lar,Iran,Iran,27.66969,54.38276,LRR,IR,1758,80
+Mashhad,Mashad,Iran,Iran,36.227173,59.64165,MHD,IR,1759,80
+NA,Nazluy-ye Jonubi,NA,Iran,37.662525,45.05877,OMH,IR,1760,80
+Shiraz,Shiraz,Iran,Iran,29.54613,52.58997,SYZ,IR,1761,80
+Tabriz,Tabriz,Iran,Iran,38.12285,46.244274,TBZ,IR,1762,80
+Urmia,Urmia,Iran,Iran,37.662525,45.05877,OMH,IR,1763,80
+Najaf,Al-Najaf,Iraq,Iraq,31.993563,44.389187,NJF,IQ,1764,81
+Basra,Basra,Iraq,Iraq,30.555555,47.79139,BSR,IQ,1765,81
+Erbil,Erbil,Iraq,Iraq,36.2375,43.963055,EBL,IQ,1766,81
+Kirkuk,Kirkuk,Iraq,Iraq,35.516666,44.283333,KIK,IQ,1767,81
+Sulaymaniyah,Sulaimaniyah,Iraq,Iraq,35.5608,45.314716,ISU,IQ,1768,81
+Donegal,Donegal,Ireland,Ireland,55.041668,-8.340278,CFN,IE,1769,82
+County Kerry,Kerry County,Ireland,Ireland,52.181477,-9.535666,KIR,IE,1770,82
+"Knock, County Mayo",Knock,Ireland,Ireland,53.914,-8.810468,NOC,IE,1771,82
+Alghero,Alghero,Italy,Italy,40.630405,8.295891,AHO,IT,1773,84
+Bari,Bari,Italy,Italy,41.126,16.868378,BRI,IT,1774,84
+Bolzano,Bolzano,Italy,Italy,46.496716,11.358005,BZO,IT,1775,84
+Brescia,Brescia,Italy,Italy,NA,NA,NA,IT,1776,84
+Brindisi,Brindisi,Italy,Italy,40.636177000000004,17.938992,BDS,IT,1777,84
+Brixen,Brixen,Italy,Italy,NA,NA,NA,IT,1778,84
+Comiso,Comiso,Italy,Italy,36.99167,14.606944,CIY,IT,1779,84
+Como,Como,Italy,Italy,NA,NA,NA,IT,1780,84
+Crotone,Crotone,Italy,Italy,39,17.083332,CRV,IT,1781,84
+Cuneo,Cuneo,Italy,Italy,44.53528,7.6175,CUF,IT,1782,84
+Domodossola,Domodossola,Italy,Italy,NA,NA,NA,IT,1783,84
+Foggia,Foggia,Italy,Italy,41.46229,15.544745,FOG,IT,1784,84
+Forli,Forli,Italy,Italy,44.19857,12.07076,FRL,IT,1785,84
+Fortezza,Fortezza,Italy,Italy,NA,NA,NA,IT,1786,84
+Gorizia,Gorizia,Italy,Italy,NA,NA,NA,IT,1787,84
+Monfalcone,Monfalcone,Italy,Italy,NA,NA,NA,IT,1788,84
+Padova,Padova,Italy,Italy,45.4175,11.880278,QPA,IT,1789,84
+Pantelleria,Pantelleria,Italy,Italy,36.81361,11.966111,PNL,IT,1790,84
+Parma,Parma,Italy,Italy,44.48053,10.19408,PMF,IT,1791,84
+Perugia,Perugia,Italy,Italy,43.13333,12.366667,PEG,IT,1792,84
+Reggio Calabria,Reggio Calabria,Italy,Italy,38.07,15.65,REG,IT,1793,84
+Trapani,Trapani,Italy,Italy,37.901386,12.495865,TPS,IT,1794,84
+Trento,Trento,Italy,Italy,NA,NA,NA,IT,1795,84
+Udine,Udine,Italy,Italy,46.033333,13.183333,UDN,IT,1796,84
+Akita,Akita,Japan,Japan,39.61177,140.22015,AXT,JP,1801,86
+Amami,Amami O Shima,Japan,Japan,28.431522,129.70793,ASJ,JP,1802,86
+Aomori,Aomori,Japan,Japan,40.738758,140.68922,AOJ,JP,1803,86
+Asahikawa,Asahikawa,Japan,Japan,43.67109,142.45454,AKJ,JP,1804,86
+NA,Fukushima,NA,Japan,37.226665,140.43279,FKS,JP,1805,86
+Hachijō-jima,Hachijo Jima,Japan,Japan,33.117947,139.78122,HAC,JP,1806,86
+Hakodate,Hakodate,Japan,Japan,41.776127,140.81581,HKD,JP,1807,86
+Hanamaki,Hanamaki,Japan,Japan,39.426926,141.13077,HNA,JP,1808,86
+Hiroshima,Hiroshima,Japan,Japan,34.385204,132.45529,HIJ,JP,1809,86
+"Ishigaki, Okinawa",Ishigaki,Japan,Japan,24.336945,124.16889,ISG,JP,1810,86
+Izumo,Izumo,Japan,Japan,35.41485,132.88576,IZO,JP,1811,86
+Kagoshima,Kagoshima,Japan,Japan,31.801224,130.71562,KOJ,JP,1812,86
+Kikai,Kikai,Japan,Japan,28.321388,129.92805,KKX,JP,1813,86
+Kitakyushu,Kitakyushu,Japan,Japan,33.834373,130.9435,KKJ,JP,1814,86
+Kobe,Kobe,Japan,Japan,NA,NA,UKB,JP,1815,86
+Kochi,Kochi,Japan,Japan,33.547688,133.67485,KCZ,JP,1816,86
+Komatsu,Komatsu,Japan,Japan,36.40237,136.41342,KMQ,JP,1817,86
+Kumamoto,Kumamoto,Japan,Japan,32.834133,130.85799,KMJ,JP,1818,86
+NA,Kushiro,NA,Japan,43.04565,144.19682,KUH,JP,1819,86
+NA,Masuda,NA,Japan,34.676388,131.79028,IWJ,JP,1820,86
+Matsuyama,Matsuyama,Japan,Japan,33.822224,132.70416,MYJ,JP,1821,86
+NA,Memanbetsu,NA,Japan,43.9,144.16722,MMB,JP,1822,86
+Misawa,Misawa,Japan,Japan,40.696316,141.3869,MSJ,JP,1823,86
+Miyakojima,Miyako,Japan,Japan,24.779198,125.29778,MMY,JP,1824,86
+Miyazaki,Miyazaki,Japan,Japan,31.872498,131.44147,KMI,JP,1825,86
+Nagasaki,Nagasaki,Japan,Japan,32.9144,129.92258,NGS,JP,1826,86
+Nagoya,Nagoya,Japan,Japan,34.8867,136.8324,NGO,JP,1827,86
+NA,Nakashibetsu,NA,Japan,43.572197,144.95613,SHB,JP,1828,86
+Niigata,Niigata,Japan,Japan,37.951992,139.11325,KIJ,JP,1829,86
+Odate,Odate Noshiro,Japan,Japan,40.196415,140.37383,ONJ,JP,1830,86
+Oita,Oita,Japan,Japan,33.477238,131.73236,OIT,JP,1831,86
+Okayama,Okayama,Japan,Japan,34.76022,133.85277,OKJ,JP,1832,86
+Okinawa Island,Okinawa,Japan,Japan,26.22853,127.68911,OKA,JP,1833,86
+NA,Rishiri,NA,Japan,45.183334,141.25,RIS,JP,1834,86
+Saga,Saga,Japan,Japan,33.153828,130.30278,HSG,JP,1835,86
+Sapporo,Sapporo,Japan,Japan,43.0621,141.3544,SPK,JP,1836,86
+Sendai,Sendai,Japan,Japan,38.135555,140.92389,SDJ,JP,1837,86
+Shimojishima,Shimojishima,Japan,Japan,24.816668,125.15,SHI,JP,1838,86
+Shirahama,Shirahama,Japan,Japan,33.66139,135.35806,SHM,JP,1839,86
+Shizuoka,Shizuoka,Japan,Japan,34.796112,138.18944,FSZ,JP,1840,86
+Shonai,Shonai,Japan,Japan,38.809444,139.79056,SYO,JP,1841,86
+Takamatsu,Takamatsu,Japan,Japan,34.219017,134.01825,TAK,JP,1842,86
+Tokushima,Tokushima,Japan,Japan,34.139023,134.59483,TKS,JP,1843,86
+Toyama,Toyama,Japan,Japan,36.64245,137.18945,TOY,JP,1844,86
+Hyogo Prefecture,Toyooka/Hyogo Prefecture,Japan,Japan,35.509167,134.78972,TJH,JP,1845,86
+NA,Tsushima,NA,Japan,34.28615,129.32637,TSJ,JP,1846,86
+Ube,Ube,Japan,Japan,33.933395,131.27489,UBJ,JP,1847,86
+Wakkanai,Wakkanai,Japan,Japan,45.39943,141.7974,WKJ,JP,1848,86
+NA,Yakushima,NA,Japan,30.385555,130.65916000000001,KUM,JP,1849,86
+Yamagata,Yamagata,Japan,Japan,38.410645,140.36583,GAJ,JP,1850,86
+Yonago,Yonago,Japan,Japan,35.500652,133.24448,YGJ,JP,1851,86
+Aqaba,Aqaba,Jordan,Jordan,29.610073,35.02151,AQJ,JO,1853,87
+Aktau,Aktau,Kazakhstan,Kazakhstan,43.86667,51.1,SCO,KZ,1854,88
+Aktobe,Aktyubinsk,Kazakhstan,Kazakhstan,50.249336,57.211403,AKX,KZ,1855,88
+Almaty,Almaty,Kazakhstan,Kazakhstan,43.25506,76.91263,ALA,KZ,1856,88
+Atyrau,Atyrau,Kazakhstan,Kazakhstan,47.122814,51.829556,GUW,KZ,1857,88
+Karaganda,Karaganda,Kazakhstan,Kazakhstan,49.67526,73.32836,KGF,KZ,1858,88
+NA,Kokshetau,NA,Kazakhstan,53.316666,69.4,KOV,KZ,1859,88
+Kostanay,Kostanay,Kazakhstan,Kazakhstan,53.2,63.55,KSN,KZ,1860,88
+Kyzylorda,Kzyl-Orda,Kazakhstan,Kazakhstan,44.712223,65.59288,KZO,KZ,1861,88
+Oral,Oral,Kazakhstan,Kazakhstan,51.15371,51.538563,URA,KZ,1862,88
+Pavlodar,Pavlodar,Kazakhstan,Kazakhstan,52.183334,77.066666,PWQ,KZ,1863,88
+NA,Petropavlovsk,NA,Kazakhstan,54.783333,69.183334,PPK,KZ,1864,88
+Semey,Semey,Kazakhstan,Kazakhstan,50.333332,80.25,PLX,KZ,1865,88
+Shymkent,Shymkent,Kazakhstan,Kazakhstan,42.3,69.6,CIT,KZ,1866,88
+NA,Taldykorgan,NA,Kazakhstan,45.15,78.433334,TDK,KZ,1867,88
+NA,Taraz,NA,Kazakhstan,42.9,71.36667,DMB,KZ,1868,88
+Turkistan,Turkistan,Kazakhstan,Kazakhstan,43.295536,68.26165,HSA,KZ,1869,88
+NA,Uralsk,NA,Kazakhstan,51.15371,51.538563,URA,KZ,1870,88
+NA,Urzhar,NA,Kazakhstan,47.087776,81.62972,UZR,KZ,1871,88
+NA,Usharal,NA,Kazakhstan,46.189995,80.813,USJ,KZ,1872,88
+Oskemen,Ust-Kamenogorsk (Oskemen),Kazakhstan,Kazakhstan,50.025723,82.5056,UKK,KZ,1873,88
+Jezkazgan,Zhezkazgan,Kazakhstan,Kazakhstan,47.7,67.73333,DZN,KZ,1874,88
+Osh,Osh,Kyrgyzstan,Kyrgyzstan,40.60769,72.78648,OSS,KG,1879,93
+NA,Tamchy,NA,Kyrgyzstan,42.56,76.65,IKU,KG,1880,93
+Luang Namtha,Luang Namtha,Laos,Laos,21.05,101.46667,LXG,LA,1881,94
+Luang Prabang,Luang Prabang,Laos,Laos,19.897055,102.16371,LPQ,LA,1882,94
+Pakse,Pakse,Laos,Laos,15.136257,105.781296,PKZ,LA,1883,94
+Phonsavan,Phonsavan/Xieng Khouang,Laos,Laos,19.3,103.36667,XKH,LA,1884,94
+Xam Neua,Sam Neua,Laos,Laos,20.416668,104.066666,NEU,LA,1885,94
+Savannakhet,Savannakhet,Laos,Laos,16.553612,104.7625,ZVK,LA,1886,94
+Bauska,Bauska,Latvia,Latvia,NA,NA,NA,LV,1887,95
+Jelgava,Jelgava,Latvia,Latvia,NA,NA,NA,LV,1888,95
+Druskininkai,Druskininkai,Lithuania,Lithuania,NA,NA,NA,LT,1892,101
+Marijampolė,Marijampole,Lithuania,Lithuania,NA,NA,NA,LT,1893,101
+Pasvalys,Pasvalys,Lithuania,Lithuania,NA,NA,NA,LT,1894,101
+Esch sur Alzette,Esch sur Alzette,Luxembourg,Luxembourg,NA,NA,NA,LU,1895,102
+Alor Setar,Alor Setar,Malaysia,Malaysia,6.201171,100.405266,AOR,MY,1901,105
+Ba kelalan,Bakalalan,Malaysia,Malaysia,3.966667,115.61667,BKM,MY,1902,105
+Bario,Bario,Malaysia,Malaysia,3.683333,115.46667,BBN,MY,1903,105
+Bintulu,Bintulu,Malaysia,Malaysia,3.171772,113.04346,BTU,MY,1904,105
+Butterworth,Butterworth,Malaysia,Malaysia,5.466667,100.3925,BWH,MY,1905,105
+Gelugor,Gelugor,Malaysia,Malaysia,NA,NA,NA,MY,1906,105
+Ipoh,Ipoh,Malaysia,Malaysia,4.566944,101.09583,IPH,MY,1907,105
+Kota Bharu,Kota Bharu,Malaysia,Malaysia,6.17057,102.29092,KBR,MY,1908,105
+Kota Kinabalu,Kota Kinabalu,Malaysia,Malaysia,5.923961,116.05075,BKI,MY,1909,105
+Kuala Terengganu,Kuala Terengganu,Malaysia,Malaysia,5.380504,103.10642,TGG,MY,1910,105
+Kuantan,Kuantan,Malaysia,Malaysia,3.780765,103.21518,KUA,MY,1911,105
+Kuching,Kuching,Malaysia,Malaysia,1.484167,110.340836,KCH,MY,1912,105
+Labuan,Labuan,Malaysia,Malaysia,5.294355,115.24916,LBU,MY,1913,105
+Langkawi,Langkawi,Malaysia,Malaysia,6.342174,99.7314,LGK,MY,1914,105
+NA,Lawas,NA,Malaysia,4.916667,115.416664,LWY,MY,1915,105
+Miri,Miri,Malaysia,Malaysia,4.325261,113.983116,MYY,MY,1916,105
+Penang,Penang,Malaysia,Malaysia,5.292961,100.265175,PEN,MY,1917,105
+Sandakan,Sandakan,Malaysia,Malaysia,5.896877,118.06184,SDK,MY,1918,105
+Sibu,Sibu,Malaysia,Malaysia,2.254997,111.98657,SBW,MY,1919,105
+Tawau,Tawau,Malaysia,Malaysia,4.26275,117.884865,TWU,MY,1920,105
+Dharavandhoo,Dharavandhoo Island,Maldives,Maldives,5.156111,73.13028,DRV,MV,1921,106
+Gan,Gan Island,Maldives,Maldives,-0.690003,73.15654,GAN,MV,1922,106
+Kudahuvadhoo,Kudahuvadhoo,Maldives,Maldives,2.67054,72.89476,DDD,MV,1923,106
+Acapulco,Acapulco,Mexico,Mexico,16.762403,-99.75459,ACA,MX,1931,112
+Aguascalientes,Aguascalientes,Mexico,Mexico,21.701416,-102.31374,AGU,MX,1932,112
+Campeche,Campeche,Mexico,Mexico,19.835,-90.509445,CPE,MX,1933,112
+Chetumal,Chetumal,Mexico,Mexico,18.481943,-88.333336,CTM,MX,1934,112
+Chihuahua,Chihuahua,Mexico,Mexico,28.704048,-105.96952,CUU,MX,1935,112
+Ciudad del Carmen,Ciudad Del Carmen,Mexico,Mexico,18.65103,-91.802734,CME,MX,1936,112
+Ciudad Juárez,Ciudad Juarez,Mexico,Mexico,31.63593,-106.4361,CJS,MX,1937,112
+Ciudad Obregón,Ciudad Obregon,Mexico,Mexico,27.391945,-109.839165,CEN,MX,1938,112
+Cozumel,Cozumel,Mexico,Mexico,20.5112,-86.930466,CZM,MX,1939,112
+Culiacán,Culiacan,Mexico,Mexico,24.76643,-107.46958,CUL,MX,1940,112
+Durango,Durango,Mexico,Mexico,24.125,-104.525,DGO,MX,1941,112
+Guadalajara,Guadalajara,Mexico,Mexico,20.525198,-103.29921,GDL,MX,1942,112
+Gutiérrez Zamora,Gutierrez Zamora,Mexico,Mexico,NA,NA,NA,MX,1943,112
+Hermosillo,Hermosillo,Mexico,Mexico,29.089905,-111.051704,HMO,MX,1944,112
+Huatulco,Huatulco,Mexico,Mexico,15.768333,-96.23556,HUX,MX,1945,112
+Ixtapa,Ixtapa/Zihuatanejo,Mexico,Mexico,17.606783,-101.464066,ZIH,MX,1946,112
+La Paz,La Paz,Mexico,Mexico,24.076088,-110.367836,LAP,MX,1947,112
+León,Leon/Guanajuato,Mexico,Mexico,20.985699,-101.479,BJX,MX,1948,112
+Loreto,Loreto,Mexico,Mexico,25.983334,-111.35,LTO,MX,1949,112
+Los Mochis,Los Mochis,Mexico,Mexico,25.816668,-108.98333,LMM,MX,1950,112
+Manzanillo,Manzanillo,Mexico,Mexico,19.113333,-104.350555,ZLO,MX,1951,112
+Mazatlán,Mazatlan,Mexico,Mexico,23.167315,-106.27015,MZT,MX,1952,112
+Mérida,Merida,Mexico,Mexico,20.933823,-89.66375,MID,MX,1953,112
+Mexicali,Mexicali,Mexico,Mexico,32.6282,-115.248215,MXL,MX,1954,112
+Mexico City,Mexico City,Mexico,Mexico,19.42705,-99.12757,MEX,MX,1955,112
+Minatitlán,Minatitlan,Mexico,Mexico,17.983334,-94.51667,MTT,MX,1956,112
+Monterrey,Monterrey,Mexico,Mexico,25.67321,-100.309204,MTY,MX,1957,112
+Morelia,Morelia,Mexico,Mexico,19.84351,-101.02693,MLM,MX,1958,112
+Nuevo Laredo,Nuevo Laredo,Mexico,Mexico,27.434723,-99.566666,NLD,MX,1959,112
+Oaxaca,Oaxaca,Mexico,Mexico,17.000883,-96.721634,OAX,MX,1960,112
+Playa del Carmen,Playa del Carmen,Mexico,Mexico,20.6,-87.1,PCM,MX,1961,112
+Puebla,Puebla,Mexico,Mexico,19.135,-98.3675,PBC,MX,1962,112
+"Puerto Escondido, Oaxaca",Puerto Escondido,Mexico,Mexico,15.85,-97.083336,PXM,MX,1963,112
+Puerto Vallarta,Puerto Vallarta,Mexico,Mexico,20.678297,-105.24898,PVR,MX,1964,112
+Santiago de Querétaro,Queretaro,Mexico,Mexico,20.6,-100.38333,QRO,MX,1965,112
+Reynosa,Reynosa,Mexico,Mexico,26.0125,-98.23,REX,MX,1966,112
+San José del Cabo,San Jose del Cabo,Mexico,Mexico,23.076216,-109.71548,SJD,MX,1967,112
+San Luis Potosí,San Luis Potosi,Mexico,Mexico,22.255466,-100.936806,SLP,MX,1968,112
+Tampico,Tampico,Mexico,Mexico,22.289082,-97.87016,TAM,MX,1969,112
+Tapachula,Tapachula,Mexico,Mexico,14.909722,-92.25306,TAP,MX,1970,112
+Tecolutla,Tecolutla,Mexico,Mexico,NA,NA,NA,MX,1971,112
+Tijuana,Tijuana,Mexico,Mexico,32.546284,-116.97466,TIJ,MX,1972,112
+Toluca,Toluca,Mexico,Mexico,NA,NA,TLC,MX,1973,112
+Torreón,Torreon,Mexico,Mexico,25.563066,-103.39874,TRC,MX,1974,112
+Tuxtla Gutiérrez,Tuxtla Gutierrez,Mexico,Mexico,16.56361,-93.0225,TGZ,MX,1975,112
+Uruapan,Uruapan,Mexico,Mexico,19.411112,-102.04722,UPN,MX,1976,112
+Veracruz,Veracruz,Mexico,Mexico,19.142275,-96.18321,VER,MX,1977,112
+Villahermosa,Villahermosa,Mexico,Mexico,17.99243,-92.818985,VSA,MX,1978,112
+Zacatecas,Zacatecas,Mexico,Mexico,22.8,-102.55,ZCL,MX,1979,112
+Moron,Moron,Mongolia,Mongolia,49.63333,100.166664,MXV,MN,1981,116
+Budva,Budva,Montenegro,Montenegro,NA,NA,NA,ME,1982,117
+Herceg Novi,Herceg Novi,Montenegro,Montenegro,NA,NA,NA,ME,1983,117
+Kotor,Kotor,Montenegro,Montenegro,NA,NA,NA,ME,1984,117
+NA,Agadir,NA,Morocco,30.378326,-9.555895,AGA,MA,1985,118
+NA,Casablanca,NA,Morocco,33.533333,-7.583333,CMN,MA,1986,118
+NA,Dakhla,NA,Morocco,23.713333,-15.935,VIL,MA,1987,118
+NA,Errachidia,NA,Morocco,31.95,-4.4,ERH,MA,1988,118
+NA,Essaouira,NA,Morocco,31.3975,-9.681667,ESU,MA,1989,118
+NA,Fez,NA,Morocco,33.93079,-4.982138,FEZ,MA,1990,118
+NA,Goulimime,NA,Morocco,29.016666,-10.066667,GLN,MA,1991,118
+NA,Laayoune,NA,Morocco,27.133333,-13.216667,EUN,MA,1992,118
+NA,Nador,NA,Morocco,34.988888,-3.028333,NDR,MA,1993,118
+NA,Ouarzazate,NA,Morocco,30.916668,-6.916667,OZZ,MA,1994,118
+NA,Oujda,NA,Morocco,34.783333,-1.933333,OUD,MA,1995,118
+NA,Rabat,NA,Morocco,34.036137,-6.748619,RBA,MA,1996,118
+NA,Tan Tan,NA,Morocco,28.45,-11.083333,TTA,MA,1997,118
+NA,Tangier,NA,Morocco,35.726288,-5.912898,TNG,MA,1998,118
+NA,Zagora,NA,Morocco,30.267143,-5.852456,OZG,MA,1999,118
+Ann,Ann,Myanmar (Burma),Myanmar,19.768888,94.02611,VBA,MM,2006,120
+Bagan,Bagan,Myanmar (Burma),Myanmar,21.175343,94.92832,NYU,MM,2007,120
+Bhamo,Bhamo,Myanmar (Burma),Myanmar,24.27389,97.25166,BMO,MM,2008,120
+Bokpyin,Bokpyin,Myanmar (Burma),Myanmar,NA,NA,VBP,MM,2009,120
+Dawei Township,Dawe,Myanmar (Burma),Myanmar,14.1,98.2,TVY,MM,2010,120
+Heho,Heho,Myanmar (Burma),Myanmar,20.743862,96.79341,HEH,MM,2011,120
+Kalay,Kalay,Myanmar (Burma),Myanmar,23.183332,94.05,KMV,MM,2012,120
+Kawthaung Township,Kawthaung,Myanmar (Burma),Myanmar,10.05,98.51667,KAW,MM,2013,120
+Kengtung,Keng Tung,Myanmar (Burma),Myanmar,21.3,99.61667,KET,MM,2014,120
+Lashio,Lashio,Myanmar (Burma),Myanmar,22.966667,97.75,LSH,MM,2015,120
+Magway,Magway,Myanmar (Burma),Myanmar,20.166668,94.94111,MWQ,MM,2016,120
+Mandalay,Mandalay,Myanmar (Burma),Myanmar,21.940052,96.0875,MDL,MM,2017,120
+Monywa,Monywa,Myanmar (Burma),Myanmar,NA,NA,NYW,MM,2018,120
+"Myeik, Myanmar",Myeik,Myanmar (Burma),Myanmar,12.45,98.61667,MGZ,MM,2019,120
+Myitkyina,Myitkyina,Myanmar (Burma),Myanmar,25.354168,97.29889,MYT,MM,2020,120
+Putao,Putao,Myanmar (Burma),Myanmar,27.333332,97.416664,PBU,MM,2021,120
+Sittwe,Sittwe,Myanmar (Burma),Myanmar,20.130278,92.88028,AKY,MM,2022,120
+Tachileik,Tachilek,Myanmar (Burma),Myanmar,20.45,99.95,THL,MM,2023,120
+Thandwe,Thandwe,Myanmar (Burma),Myanmar,18.453876,94.30038,SNW,MM,2024,120
+Yangon,Yangon,Myanmar (Burma),Myanmar,16.900068,96.134155,RGN,MM,2025,120
+NA,Lukla,NA,Nepal,27.683332,86.73333,LUA,NP,2027,123
+NA,Pokhara,NA,Nepal,28.197222,83.986115,PKR,NP,2028,123
+Siddharthanagar,Siddharthanagar,Nepal,Nepal,27.504168,83.42,BWA,NP,2029,123
+"Simara, Bara",Simara,Nepal,Nepal,27.163563,84.979195,SIF,NP,2030,123
+Bonaire,Bonaire,Netherlands,Netherlands,NA,NA,BON,NL,2031,124
+Breda,Breda,Netherlands,Netherlands,51.58333,4.75,GLZ,NL,2032,124
+Enschede,Enschede,Netherlands,Netherlands,52.22034,6.895964,ENS,NL,2033,124
+Saba,Saba,Netherlands,Netherlands,NA,NA,SAB,NL,2034,124
+Sint Eustatius,Saint Eustatius,Netherlands,Netherlands,17.493055,-62.97778,EUX,NL,2035,124
+The Hague,The Hague,Netherlands,Netherlands,52.0503,4.1903,HAG,NL,2036,124
+Venlo,Venlo,Netherlands,Netherlands,NA,NA,NA,NL,2037,124
+NA,Christchurch,NA,New Zealand,-43.488655,172.5389,CHC,NZ,2039,125
+NA,Dunedin,NA,New Zealand,-45.92387,170.19905,DUD,NZ,2040,125
+NA,Hamilton,NA,New Zealand,-37.86622,175.33603,HLZ,NZ,2041,125
+NA,Napier,NA,New Zealand,-39.46667,176.87225,NPE,NZ,2042,125
+NA,Nelson,NA,New Zealand,-41.299976,173.22498,NSN,NZ,2043,125
+NA,Queenstown,NA,New Zealand,-45.022038,168.7391,ZQN,NZ,2044,125
+NA,Tauranga,NA,New Zealand,-37.67093,176.19772,TRG,NZ,2045,125
+NA,Wellington,NA,New Zealand,-41.329037,174.81216,WLG,NZ,2046,125
+NA,Whangarei,NA,New Zealand,-35.76742,174.36403,WRE,NZ,2047,125
+Ålesund,Aalesund,Norway,Norway,62.559643,6.116605,AES,NO,2058,131
+Alta,Alta,Norway,Norway,69.977165,23.355808,ALF,NO,2059,131
+NA,Andenes,NA,Norway,69.30492,16.133326,ANX,NO,2060,131
+Andselv,Andselv,Norway,Norway,69.056114,18.54,BDU,NO,2061,131
+Båtsfjord,Batsfjord,Norway,Norway,70.6,29.666668,BJF,NO,2062,131
+Berlevåg,Berlevag,Norway,Norway,70.86667,29,BVG,NO,2063,131
+Førde,Forde,Norway,Norway,61.39178,5.762073,FDE,NO,2064,131
+Hammerfest,Hammerfest,Norway,Norway,70.67999,23.675867,HFT,NO,2065,131
+Narvik,Harstad-Narvik,Norway,Norway,68.496666,16.679722,EVE,NO,2066,131
+Hasvik,Hasvik,Norway,Norway,70.46667,22.15,HAA,NO,2067,131
+Haugesund,Haugesund,Norway,Norway,59.344765,5.215903,HAU,NO,2068,131
+NA,Honningsvag,NA,Norway,70.98333,25.833332,HVG,NO,2069,131
+Kirkenes,Kirkenes,Norway,Norway,69.7235,29.891184,KKN,NO,2070,131
+Kristiansand,Kristiansand,Norway,Norway,58.15,7.99,KRS,NO,2071,131
+Lakselv,Lakselv,Norway,Norway,70.06778,24.973612,LKL,NO,2072,131
+NA,Mo i Rana,NA,Norway,66.36465,14.302748,MQN,NO,2073,131
+Molde,Molde,Norway,Norway,62.747303,7.262118,MOL,NO,2074,131
+Volda,Orsta-Volda,Norway,Norway,62.179787,6.078802,HOV,NO,2075,131
+Røros,Roros,Norway,Norway,62.579166,11.345556,RRS,NO,2076,131
+Sandane,Sandane,Norway,Norway,61.766666,6.216667,SDN,NO,2077,131
+Sarpsborg,Sarpsborg,Norway,Norway,59.28,11.09,XKQ,NO,2078,131
+Sogndal,Sogndal,Norway,Norway,61.158127,7.136988,SOG,NO,2079,131
+Sørkjosen,Sorkjosen,Norway,Norway,69.78333,20.933332,SOJ,NO,2080,131
+Tromsø,Tromso,Norway,Norway,69.67983,18.907343,TOS,NO,2081,131
+Trondheim,Trondheim,Norway,Norway,63.430515,10.395053,TRD,NO,2082,131
+Vadsø,Vadso,Norway,Norway,70.065,29.845278,VDS,NO,2083,131
+NA,Vardoe,NA,Norway,70.35472,31.045555,VAW,NO,2084,131
+Duqm,Duqm,Oman,Oman,19.65,57.7,DQM,OM,2085,132
+Khasab,Khasab,Oman,Oman,26.163939,56.23506,KHS,OM,2086,132
+Masirah,Masirah,Oman,Oman,20.680555,58.891666,MSH,OM,2087,132
+Salalah,Salalah,Oman,Oman,17.038124,54.106937,SLL,OM,2088,132
+Sohar,Sohar,Oman,Oman,24.38892,56.62312,OHS,OM,2089,132
+Bahawalpur,Bahawalpur,Pakistan,Pakistan,29.4,71.683334,BHV,PK,2090,133
+Chitral,Chitral,Pakistan,Pakistan,35.886112,71.79444,CJL,PK,2091,133
+Faisalabad District,Faisalabad,Pakistan,Pakistan,31.363043,72.98757,LYP,PK,2092,133
+Gwadar,Gwadar,Pakistan,Pakistan,25.230556,62.33889,GWD,PK,2093,133
+Karachi,Karachi,Pakistan,Pakistan,24.899986,67.16828,KHI,PK,2094,133
+Lahore,Lahore,Pakistan,Pakistan,31.520832,74.40278,LHE,PK,2095,133
+Multan,Multan,Pakistan,Pakistan,30.199507,71.41498,MUX,PK,2096,133
+Peshawar,Peshawar,Pakistan,Pakistan,33.989082,71.51925,PEW,PK,2097,133
+Quetta,Quetta,Pakistan,Pakistan,30.249266,66.949036,UET,PK,2098,133
+Rahim Yar Khan,Rahim Yar Khan,Pakistan,Pakistan,28.39178,70.28662,RYK,PK,2099,133
+Sialkot,Sialkot,Pakistan,Pakistan,32.533333,74.5,SKT,PK,2100,133
+Sukkur,Sukkur,Pakistan,Pakistan,27.72336,68.7958,SKZ,PK,2101,133
+Turbat,Turbat,Pakistan,Pakistan,25.983334,63.066666,TUK,PK,2102,133
+NA,Arequipa,NA,Peru,-16.344812,-71.56799,AQP,PE,2118,139
+NA,Ayacucho,NA,Peru,-13.197222,-74.24722,AYP,PE,2119,139
+NA,Cuzco,NA,Peru,-13.538429,-71.94371,CUZ,PE,2120,139
+NA,Iquitos,NA,Peru,-3.785098,-73.30284,IQT,PE,2121,139
+NA,Pucallpa,NA,Peru,-8.333333,-74.63333,PCL,PE,2122,139
+NA,Tarapoto,NA,Peru,-6.511111,-76.39861,TPP,PE,2123,139
+NA,Trujillo,NA,Peru,-8.09,-79.115,TRU,PE,2124,139
+NA,Tumbes,NA,Peru,-3.566667,-80.416664,TBP,PE,2125,139
+Angeles,Angeles/Luzon Island,Philippines,Philippines,16,121,CRK,PH,2126,140
+Bacolod,Bacolod,Philippines,Philippines,10.644815,122.93359,BCD,PH,2127,140
+NA,Basco,NA,Philippines,20.453056,121.977776,BSO,PH,2128,140
+"Busuanga, Palawan",Busuanga,Philippines,Philippines,12.1,120.166664,USU,PH,2129,140
+Butuan,Butuan,Philippines,Philippines,8.947999,125.48123,BXU,PH,2130,140
+Cagayan de Oro,Cagayan De Oro,Philippines,Philippines,8.407744,124.61157,CGY,PH,2131,140
+NA,Catarman,NA,Philippines,12.483333,124.583336,CRM,PH,2132,140
+Caticlan,Caticlan,Philippines,Philippines,11.925263,121.9521,MPH,PH,2133,140
+"Cauayan, Isabela",Cauayan,Philippines,Philippines,16.93,121.75584,CYZ,PH,2134,140
+Cotabato City,Cotabato,Philippines,Philippines,7.161412,124.21464,CBO,PH,2135,140
+Davao,Davao,Philippines,Philippines,7.130696,125.6447,DVO,PH,2136,140
+Del Carmen,Del Carmen,Philippines,Philippines,9.858889,126.013885,IAO,PH,2137,140
+Dipolog,Dipolog,Philippines,Philippines,8.599978,123.34418,DPL,PH,2138,140
+Dumaguete,Dumaguete,Philippines,Philippines,9.332543,123.29601,DGT,PH,2139,140
+NA,El Nido,NA,Philippines,11.205556,119.41278,ENI,PH,2140,140
+General Santos,General Santos City,Philippines,Philippines,6.108066,125.23424,GES,PH,2141,140
+Iloilo City,Iloilo,Philippines,Philippines,10.714312,122.543884,ILO,PH,2142,140
+Kalibo,Kalibo,Philippines,Philippines,11.687152,122.38183,KLO,PH,2143,140
+Laoag,Laoag,Philippines,Philippines,18.182407,120.53413,LAO,PH,2144,140
+Legazpi,Legaspi,Philippines,Philippines,13.15213,123.7302,LGP,PH,2145,140
+NA,Luzon Island,NA,Philippines,16,121,CRK,PH,2146,140
+Masbate City,Masbate,Philippines,Philippines,12.366667,123.066666,MBT,PH,2147,140
+"Naga, Camarines Sur",Naga,Philippines,Philippines,13.587222,123.27,WNP,PH,2148,140
+Ozamiz,Ozamis City,Philippines,Philippines,8.181967,123.84541,OZC,PH,2149,140
+Pagadian,Pagadian,Philippines,Philippines,7.826667,123.4575,PAG,PH,2150,140
+Panglao,Panglao,Philippines,Philippines,NA,NA,NA,PH,2151,140
+Puerto Princesa,Puerto Princesa,Philippines,Philippines,9.740198,118.75674,PPS,PH,2152,140
+"Roxas, Capiz",Roxas City,Philippines,Philippines,11.60066,122.74882,RXS,PH,2153,140
+"San Jose, Occidental Mindoro",San Jose,Philippines,Philippines,12.359764,121.04569,SJI,PH,2154,140
+NA,Sayak (Siargao),NA,Philippines,9.858889,126.013885,IAO,PH,2155,140
+Surigao City,Surigao,Philippines,Philippines,9.758889,125.479164,SUG,PH,2156,140
+Tacloban,Tacloban,Philippines,Philippines,11.22684,125.02592,TAC,PH,2157,140
+NA,Tagbilaran,NA,Philippines,9.657587,123.853615,TAG,PH,2158,140
+Tawi-Tawi,Tawitawi,Philippines,Philippines,5.044958,119.74403,TWT,PH,2159,140
+Tuguegarao,Tuguegarao,Philippines,Philippines,17.641111,121.73167,TUG,PH,2160,140
+"Virac, Catanduanes",Virac,Philippines,Philippines,13.583333,124.2,VRC,PH,2161,140
+Zamboanga City,Zamboanga,Philippines,Philippines,6.919294,122.062256,ZAM,PH,2162,140
+Białka Tatrzańska,Bialka Tatrzanska,Poland,Poland,NA,NA,NA,PL,2163,141
+Bielsko Biała,Bielsko Biala,Poland,Poland,NA,NA,NA,PL,2164,141
+Boleslawiec,Boleslawiec,Poland,Poland,NA,NA,NA,PL,2165,141
+Duszniki-Zdroj,Duszniki-Zdroj,Poland,Poland,NA,NA,NA,PL,2166,141
+Gorzów Wielkopolski,Gorzow Wielkopolski,Poland,Poland,NA,NA,NA,PL,2167,141
+Jastrzębie Zdrój,Jastrzebie Zdroj,Poland,Poland,NA,NA,NA,PL,2168,141
+Jelenia Gora,Jelenia Gora,Poland,Poland,NA,NA,NA,PL,2169,141
+Kudowa Zdrój,Kudowa Zdroj,Poland,Poland,NA,NA,NA,PL,2170,141
+Legnica,Legnica,Poland,Poland,NA,NA,NA,PL,2171,141
+Łódź,Lodz,Poland,Poland,51.721943,19.398333,LCJ,PL,2172,141
+Myślenice,Myslenice,Poland,Poland,NA,NA,NA,PL,2173,141
+Mysłowice,Myslowice,Poland,Poland,NA,NA,NA,PL,2174,141
+Opole,Opole,Poland,Poland,NA,NA,NA,PL,2175,141
+Polanica-Zdroj,Polanica-Zdroj,Poland,Poland,NA,NA,NA,PL,2176,141
+Radom,Radom,Poland,Poland,51.389168,21.213612,RDO,PL,2177,141
+Rybnik,Rybnik,Poland,Poland,NA,NA,NA,PL,2178,141
+Rzeszów,Rzeszow,Poland,Poland,50.11525,22.03133,RZE,PL,2179,141
+Słubice,Slubice,Poland,Poland,NA,NA,NA,PL,2180,141
+Suwalki,Suwalki,Poland,Poland,NA,NA,NA,PL,2181,141
+Lublin,Swidnik,Poland,Poland,51.231945,22.690277,LUZ,PL,2182,141
+Swiebodzin,Swiebodzin,Poland,Poland,NA,NA,NA,PL,2183,141
+Szczecin,Szczecin,Poland,Poland,53.428543,14.552812,SZZ,PL,2184,141
+Szklarska Poręba,Szklarska Poreba,Poland,Poland,NA,NA,NA,PL,2185,141
+"Szymany, Szczytno County",Szymany,Poland,Poland,52.43611,20.938334,SZY,PL,2186,141
+Toruń,Torun,Poland,Poland,NA,NA,NA,PL,2187,141
+Tychy,Tychy,Poland,Poland,NA,NA,NA,PL,2188,141
+Wałbrzych,Walbrzych,Poland,Poland,NA,NA,NA,PL,2189,141
+Zielona Góra,Zielona Gora,Poland,Poland,51.933334,15.516667,IEG,PL,2190,141
+Zory,Zory,Poland,Poland,NA,NA,NA,PL,2191,141
+Zywiec,Zywiec,Poland,Poland,NA,NA,NA,PL,2192,141
+Aguim,Aguim,Portugal,Portugal,NA,NA,NA,PT,2193,142
+Bragança,Braganca,Portugal,Portugal,41.81667,-6.75,BGC,PT,2194,142
+Caminha,Caminha,Portugal,Portugal,NA,NA,NA,PT,2195,142
+Celorico da Beira,Celorico da Beira,Portugal,Portugal,NA,NA,NA,PT,2196,142
+Coimbra,Coimbra,Portugal,Portugal,40.2,-8.416667,CBP,PT,2197,142
+Corvo Island,Corvo Island (Azores),Portugal,Portugal,39.7,-31.1,CVU,PT,2198,142
+Covilha,Covilha,Portugal,Portugal,40.28333,-7.5,COV,PT,2199,142
+Esposende,Esposende,Portugal,Portugal,NA,NA,NA,PT,2200,142
+Flores Island,Flores Island (Azores),Portugal,Portugal,39.466667,-31.15,FLW,PT,2201,142
+Fundao,Fundao,Portugal,Portugal,NA,NA,NA,PT,2202,142
+Graciosa,Graciosa Island (Azores),Portugal,Portugal,39.090954,-28.027958,GRW,PT,2203,142
+Guarda,Guarda,Portugal,Portugal,NA,NA,NA,PT,2204,142
+"Horta, Azores",Horta (Azores),Portugal,Portugal,38.52,-28.717222,HOR,PT,2205,142
+Macedo de Cavaleiros,Macedo de Cavaleiros,Portugal,Portugal,NA,NA,NA,PT,2206,142
+Mangualde,Mangualde,Portugal,Portugal,NA,NA,NA,PT,2207,142
+Mirandela,Mirandela,Portugal,Portugal,NA,NA,NA,PT,2208,142
+Mogofores,Mogofores,Portugal,Portugal,NA,NA,NA,PT,2209,142
+Monção,Moncao,Portugal,Portugal,NA,NA,NA,PT,2210,142
+Pico Island,Pico Island (Azores),Portugal,Portugal,38.466667,-28.3,PIX,PT,2211,142
+Vila Baleira,Porto Santo (Madeira),Portugal,Portugal,33.070023,-16.345015,PXO,PT,2212,142
+Póvoa de Varzim,Povoa de Varzim,Portugal,Portugal,NA,NA,NA,PT,2213,142
+Santa Maria Island,Santa Maria (Azores),Portugal,Portugal,36.966667,-25.1,SMA,PT,2214,142
+São Jorge Island,Sao Jorge Island,Portugal,Portugal,38.664616,-28.16843,SJZ,PT,2215,142
+Tamengos,Tamengos,Portugal,Portugal,NA,NA,NA,PT,2216,142
+Tavira,Tavira,Portugal,Portugal,NA,NA,NA,PT,2217,142
+Valença,Valenca,Portugal,Portugal,NA,NA,NA,PT,2218,142
+Vila Real,Vila Real,Portugal,Portugal,41.3,-7.75,VRL,PT,2219,142
+Vilar Formoso,Vilar Formoso,Portugal,Portugal,NA,NA,NA,PT,2220,142
+Viseu,Viseu,Portugal,Portugal,40.65,-7.916667,VSE,PT,2221,142
+Arad,Arad,Romania,Romania,46.18333,21.26667,ARW,RO,2228,144
+Bacău,Bacau,Romania,Romania,46.59861,26.881945,BCM,RO,2229,144
+Baia Mare,Baia Mare,Romania,Romania,47.65,23.466667,BAY,RO,2230,144
+Brasov,Brasov,Romania,Romania,45.79,25.28,XHV,RO,2231,144
+Buzău,Buzau,Romania,Romania,NA,NA,NA,RO,2232,144
+Calafat,Calafat,Romania,Romania,NA,NA,NA,RO,2233,144
+Craiova,Craiova,Romania,Romania,44.31889,23.886389,CRA,RO,2234,144
+Oradea,Oradea,Romania,Romania,47.0275,21.903055,OMR,RO,2235,144
+Satu Mare,Satu Mare,Romania,Romania,47.7,22.883333,SUJ,RO,2236,144
+Sebeș,Sebes,Romania,Romania,NA,NA,NA,RO,2237,144
+Sibiu,Sibiu,Romania,Romania,45.789757,24.093529,SBZ,RO,2238,144
+Suceava,Suceava,Romania,Romania,47.689445,26.356112,SCV,RO,2239,144
+Târgu Mureș,Tirgu Mures,Romania,Romania,46.533333,24.533333,TGM,RO,2240,144
+NA,Kirovsk,NA,Russia,67.583336,33.583332,KVK,RU,2241,145
+NA,Salekhard,NA,Russia,66.583336,66.6,SLY,RU,2242,145
+NA,Udachnyj,NA,Russia,66.416664,112.05,PYJ,RU,2243,145
+NA,Ulan-Ude,NA,Russia,51.833332,107.5,UUD,RU,2244,145
+Abha,Abha,Saudi Arabia,Saudi Arabia,18.23429,42.657574,AHB,SA,2255,153
+NA,Al Ula,NA,Saudi Arabia,26.616667,37.866665,ULH,SA,2256,153
+Al Bahah,Al-Baha,Saudi Arabia,Saudi Arabia,20.29401,41.64002,ABT,SA,2257,153
+NA,Arar,NA,Saudi Arabia,30.903028,41.137115,RAE,SA,2258,153
+Bisha,Bisha,Saudi Arabia,Saudi Arabia,19.994509,42.618484,BHH,SA,2259,153
+NA,Dawadmi,NA,Saudi Arabia,24.445545,44.1287,DWD,SA,2260,153
+Al-Qassim Region,Gassim,Saudi Arabia,Saudi Arabia,26.305029,43.768177,ELQ,SA,2261,153
+Ha il,Hail,Saudi Arabia,Saudi Arabia,27.438158,41.690483,HAS,SA,2262,153
+Hofuf,Hofuf,Saudi Arabia,Saudi Arabia,25.294783,49.48746,HOF,SA,2263,153
+Jizan,Jazan,Saudi Arabia,Saudi Arabia,16.898949000000002,42.582344,GIZ,SA,2264,153
+Jeddah,Jeddah,Saudi Arabia,Saudi Arabia,21.670233,39.150578,JED,SA,2265,153
+Al Jawf Region,Jouf,Saudi Arabia,Saudi Arabia,29.788668,40.101486,AJF,SA,2266,153
+Najran,Nejran,Saudi Arabia,Saudi Arabia,17.613281,44.414646,EAM,SA,2267,153
+Neom,Neom,Saudi Arabia,Saudi Arabia,NA,NA,NUM,SA,2268,153
+Qaisumah,Qaisumah,Saudi Arabia,Saudi Arabia,28.334408,46.121315,AQI,SA,2269,153
+NA,Rafha,NA,Saudi Arabia,29.623463,43.488785,RAH,SA,2270,153
+Tabuk,Tabuk,Saudi Arabia,Saudi Arabia,28.375784,36.608288,TUU,SA,2271,153
+Ta if,Taif,Saudi Arabia,Saudi Arabia,21.480364,40.552685,TIF,SA,2272,153
+NA,Turaif,NA,Saudi Arabia,31.68873,38.73383,TUI,SA,2273,153
+NA,Wadi Ad Dawasir,NA,Saudi Arabia,20.498444,45.20445,WAE,SA,2274,153
+Yanbu,Yanbu,Saudi Arabia,Saudi Arabia,24.140734,38.06302,YNB,SA,2275,153
+Kragujevac,Kragujevac,Serbia,Serbia,NA,NA,NA,RS,2278,155
+Kraljevo,Kraljevo,Serbia,Serbia,43.72611,20.679945,KVO,RS,2279,155
+Niš,Nis,Serbia,Serbia,43.33389,21.851667,INI,RS,2280,155
+Novi Sad,Novi Sad,Serbia,Serbia,NA,NA,NA,RS,2281,155
+Uzice,Uzice,Serbia,Serbia,43.89883,19.6974,UZC,RS,2282,155
+Seletar,Seletar,Singapore,Singapore,NA,NA,XSP,SG,2286,158
+Banska Bystrica,Banska Bystrica,Slovakia,Slovakia,NA,NA,NA,SX,2289,159
+Čadca,Cadca,Slovakia,Slovakia,NA,NA,NA,SX,2290,159
+Dolný Kubín,Dolny Kubin,Slovakia,Slovakia,NA,NA,NA,SX,2291,159
+Martin,Martin,Slovakia,Slovakia,NA,NA,NA,SX,2292,159
+Nitra,Nitra,Slovakia,Slovakia,NA,NA,NA,SX,2293,159
+Nové Mesto nad Váhom,Nove Mesto nad Vahom,Slovakia,Slovakia,NA,NA,NA,SX,2294,159
+Piestany,Piestany,Slovakia,Slovakia,48.63333,17.83333,PZY,SX,2295,159
+Považská Bystrica,Povazska Bystrica,Slovakia,Slovakia,NA,NA,NA,SX,2296,159
+Púchov,Puchov,Slovakia,Slovakia,NA,NA,NA,SX,2297,159
+Trenčianske Teplice,Trencianske Teplice,Slovakia,Slovakia,NA,NA,NA,SX,2298,159
+Trenčín,Trencin,Slovakia,Slovakia,NA,NA,NA,SX,2299,159
+Vrútky,Vrutky,Slovakia,Slovakia,NA,NA,NA,SX,2300,159
+Zilina,Zilina,Slovakia,Slovakia,49.23333,18.76667,ILZ,SX,2301,159
+Zvolen,Zvolen,Slovakia,Slovakia,NA,NA,NA,SX,2302,159
+Koper,Koper,Slovenia,Slovenia,NA,NA,NA,SI,2303,160
+Maribor,Maribor,Slovenia,Slovenia,46.55,15.65,MBX,SI,2304,160
+Postojna,Postojna,Slovenia,Slovenia,NA,NA,NA,SI,2305,160
+NA,Bloemfontein,NA,South Africa,-29.095854,26.297516,BFN,ZA,2310,163
+NA,Cape Town,NA,South Africa,-33.968906,18.596489,CPT,ZA,2311,163
+NA,Durban,NA,South Africa,-29.857876,31.02758,DUR,ZA,2312,163
+NA,East London,NA,South Africa,-33.038437,27.82892,ELS,ZA,2313,163
+NA,George,NA,South Africa,-34.00148,22.382235,GRJ,ZA,2314,163
+NA,Hoedspruit,NA,South Africa,-24.35,30.95,HDS,ZA,2315,163
+NA,Kimberley,NA,South Africa,-28.805834,24.76639,KIM,ZA,2316,163
+NA,Nelspruit,NA,South Africa,-25.465834,30.985277,NLP,ZA,2317,163
+NA,Pietermaritzburg,NA,South Africa,-29.643047,30.396738,PZB,ZA,2318,163
+NA,Polokwane,NA,South Africa,-23.916668,29.966667,PTG,ZA,2319,163
+NA,Port Elizabeth,NA,South Africa,-33.98371,25.611422,PLZ,ZA,2320,163
+NA,Richards Bay,NA,South Africa,-28.740557,32.093056,RCB,ZA,2321,163
+Busan,Busan,South Korea,South Korea,35.179317,128.94873,PUS,KR,2322,164
+Cheongju,Cheongju,South Korea,South Korea,36.7224,127.49509,CJJ,KR,2323,164
+Daegu,Daegu,South Korea,South Korea,35.899254,128.63788,TAE,KR,2324,164
+Gwangju,Gwangju,South Korea,South Korea,35.140175,126.81021,KWJ,KR,2325,164
+Ulsan,Ulsan,South Korea,South Korea,35.59367,129.35597,USN,KR,2326,164
+Yeosu,Yeosu,South Korea,South Korea,34.8419,127.61267,RSU,KR,2327,164
+Asturias,Asturias,Spain,Spain,43.55891,-6.032094,OVD,ES,2329,166
+Bagá,Baga,Spain,Spain,NA,NA,NA,ES,2330,166
+Bellver de Cerdanya,Bellver de Cerdanya,Spain,Spain,NA,NA,NA,ES,2331,166
+Cartaya,Cartaya,Spain,Spain,NA,NA,NA,ES,2332,166
+Castellón de la Plana,Castellon de la Plana,Spain,Spain,39.97,-0.05,CDT,ES,2333,166
+NA,Corvera,NA,Spain,37.83026,-1.159656,RMU,ES,2334,166
+Cubelles,Cubelles,Spain,Spain,NA,NA,NA,ES,2335,166
+Cunit,Cunit,Spain,Spain,NA,NA,NA,ES,2336,166
+Elda,Elda,Spain,Spain,NA,NA,NA,ES,2337,166
+Figueres,Figueres,Spain,Spain,NA,NA,NA,ES,2338,166
+Fuenlabrada,Fuenlabrada,Spain,Spain,NA,NA,NA,ES,2339,166
+Huelva,Huelva,Spain,Spain,37.266666,-6.95,NA,ES,2340,166
+Igualada,Igualada,Spain,Spain,NA,NA,NA,ES,2341,166
+Jerez de la Frontera,Jerez De La Frontera,Spain,Spain,36.68656,-6.1371727,XRY,ES,2342,166
+A Coruña,La Coruna,Spain,Spain,43.370872,-8.395835,LCG,ES,2343,166
+Leganes,Leganes,Spain,Spain,NA,NA,NA,ES,2344,166
+NA,Leon,NA,Spain,42.599876,-5.571752,LEN,ES,2345,166
+Lepe,Lepe,Spain,Spain,NA,NA,NA,ES,2346,166
+Lloret de Mar,Lloret de Mar,Spain,Spain,NA,NA,NA,ES,2347,166
+Manresa,Manresa,Spain,Spain,NA,NA,NA,ES,2348,166
+Melilla,Melilla,Spain,Spain,35.277077,-2.957473,MLN,ES,2349,166
+Menorca,Menorca,Spain,Spain,39.864746,4.226256,MAH,ES,2350,166
+Pamplona,Pamplona,Spain,Spain,42.81799,-1.6441835,PNA,ES,2351,166
+Pontedeume,Pontedeume,Spain,Spain,NA,NA,NA,ES,2352,166
+Fuerteventura,Puerto del Rosario,Spain,Spain,28.450605,-13.869893,FUE,ES,2353,166
+Redondela,Redondela,Spain,Spain,NA,NA,NA,ES,2354,166
+Donostia / San Sebastián,San Sebastian,Spain,Spain,43.320812,-1.9844474,EAS,ES,2355,166
+NA,San Sebastian de la Gomera,NA,Spain,28.016666,-17.2,GMZ,ES,2356,166
+Santa Cruz de La Palma,Santa Cruz De La Palma,Spain,Spain,28.626389,-17.755556,SPC,ES,2357,166
+Santander,Santander,Spain,Spain,43.46096,-3.8079336,SDR,ES,2358,166
+Solsona,Solsona,Spain,Spain,NA,NA,NA,ES,2359,166
+Vielha,Vielha,Spain,Spain,NA,NA,NA,ES,2360,166
+Vigo,Vigo,Spain,Spain,42.231358,-8.712447,VGO,ES,2361,166
+Vila-real,Vila-real,Spain,Spain,NA,NA,NA,ES,2362,166
+Vitoria-Gasteiz,Vitoria,Spain,Spain,42.833332,-2.5,VIT,ES,2363,166
+Batticaloa,Batticaloa,Sri Lanka,Sri Lanka,7.71,81.68,BTC,LK,2364,167
+Ella,Ella,Sri Lanka,Sri Lanka,NA,NA,NA,LK,2365,167
+Galle,Galle,Sri Lanka,Sri Lanka,NA,NA,NA,LK,2366,167
+NA,Hambantota,NA,Sri Lanka,6.288889,81.12361,HRI,LK,2367,167
+Hatton,Hatton,Sri Lanka,Sri Lanka,6.858,80.586,NUF,LK,2368,167
+Jaffna,Jaffna,Sri Lanka,Sri Lanka,9.791667,80.075,JAF,LK,2369,167
+Kandy,Kandy,Sri Lanka,Sri Lanka,7.3,80.63333,KDW,LK,2370,167
+Koggala,Koggala,Sri Lanka,Sri Lanka,5.983056,80.33305,KCT,LK,2371,167
+Nanu Oya,Nanu Oya,Sri Lanka,Sri Lanka,NA,NA,NA,LK,2372,167
+Sigiriya,Sigiriya,Sri Lanka,Sri Lanka,7.9564085,80.759575,GIU,LK,2373,167
+Sri Jayawardenepura Kotte,Sri Jayawardenepura Kotte,Sri Lanka,Sri Lanka,NA,NA,DWO,LK,2374,167
+Trincomalee,Trincomalee,Sri Lanka,Sri Lanka,8.569151,81.23291,TRR,LK,2375,167
+Weerawila,Wirawila,Sri Lanka,Sri Lanka,6.251667,81.238335,WRZ,LK,2376,167
+Ängelholm,Angelholm/Helsingborg,Sweden,Sweden,56.2432,12.861509,AGH,SE,2381,170
+Arvidsjaur,Arvidsjaur,Sweden,Sweden,65.59139,19.285557,AJR,SE,2382,170
+Bergåsa,Bergasa,Sweden,Sweden,NA,NA,NA,SE,2383,170
+Gällivare,Gallivare,Sweden,Sweden,67.134445,20.816668,GEV,SE,2384,170
+Kalmar,Kalmar,Sweden,Sweden,56.685,16.287222,KLR,SE,2385,170
+Kiruna,Kiruna,Sweden,Sweden,67.82222,20.345833,KRN,SE,2386,170
+Linköping,Linkoping,Sweden,Sweden,58.406944,15.656944,LPI,SE,2387,170
+Lund,Lund,Sweden,Sweden,55.705276,13.187222,XGC,SE,2388,170
+Örebro,Orebro,Sweden,Sweden,59.273754,15.20754,ORB,SE,2389,170
+Östersund,Ostersund,Sweden,Sweden,63.198612,14.494444,OSD,SE,2390,170
+Pajala,Pajala,Sweden,Sweden,67.246666,23.075,PJA,SE,2391,170
+Ramlösa,Ramlosa,Sweden,Sweden,NA,NA,NA,SE,2392,170
+Skellefteå,Skelleftea,Sweden,Sweden,64.62251,21.068548,SFT,SE,2393,170
+Sundsvall,Sundsvall,Sweden,Sweden,62.390835,17.306915,SDL,SE,2394,170
+Bellinzona,Bellinzona,Switzerland,Switzerland,46.19555,9.02381,ZDI,CH,2395,171
+Chiasso,Chiasso,Switzerland,Switzerland,45.8337,9.02536,ZDS,CH,2396,171
+Fribourg,Fribourg,Switzerland,Switzerland,46.8,7.15,ZHF,CH,2397,171
+Lausanne,Lausanne,Switzerland,Switzerland,46.53333,6.63333,QLS,CH,2398,171
+Mendrisio,Mendrisio,Switzerland,Switzerland,NA,NA,NA,CH,2399,171
+Olten,Olten,Switzerland,Switzerland,47.35306,7.90778,ZJU,CH,2400,171
+St Gallen,St Gallen,Switzerland,Switzerland,47.42333,9.37722,QGL,CH,2401,171
+NA,Hualien,NA,Taiwan,24.025764,121.613434,HUN,TW,2404,173
+Kaohsiung,Kaohsiung,Taiwan,Taiwan,22.5725,120.345276,KHH,TW,2405,173
+Kinmen,Kinmen,Taiwan,Taiwan,24.420555,118.344444,KNH,TW,2406,173
+NA,Makung,NA,Taiwan,23.569166,119.618614,MZG,TW,2407,173
+NA,Matsu,NA,Taiwan,26.166668,119.916664,MFK,TW,2408,173
+NA,Shalu,NA,Taiwan,24.249294,120.60131,RMQ,TW,2409,173
+Taichung,Taichung,Taiwan,Taiwan,24.249294,120.60131,RMQ,TW,2410,173
+Tainan,Tainan,Taiwan,Taiwan,22.948706,120.21571,TNN,TW,2411,173
+NA,Taitung City,NA,Taiwan,22.75,121.1,TTT,TW,2412,173
+Khujand,Khujand,Tajikistan,Tajikistan,40.219887,69.6965,LBD,TJ,2413,174
+NA,Kulyab,NA,Tajikistan,37.988335,69.80666,TJU,TJ,2414,174
+NA,Kurgon-Tyube (Bokhtar),NA,Tajikistan,37.859610000000004,68.86117,KQT,TJ,2415,174
+Bang Tao Beach,Bang Tao Beach,Thailand,Thailand,NA,NA,NA,TH,2424,176
+Thalang,Thalang,Thailand,Thailand,NA,NA,NA,TH,2425,176
+NA,Utapao,NA,Thailand,12.683333,101.01667,UTP,TH,2426,176
+Adana,Adana,Turkey,Turkey,37,35.321335,ADA,TR,2437,182
+Adıyaman,Adiyaman,Turkey,Turkey,37.75,38.266666,ADF,TR,2438,182
+Ağrı,Agri,Turkey,Turkey,39.65,43.025,AJI,TR,2439,182
+NA,Antakya,NA,Turkey,36.364544,36.28057,HTY,TR,2440,182
+Hatay Province,Antakya/Hatay Province,Turkey,Turkey,36.364544,36.28057,HTY,TR,2441,182
+Batman,Batman,Turkey,Turkey,37.916668,41.083332,BAL,TR,2442,182
+Bingöl,Bingol,Turkey,Turkey,40.5925,38.86111,BGG,TR,2443,182
+Bodrum,Bodrum,Turkey,Turkey,37.25,27.66,BJV,TR,2444,182
+NA,Bursa,NA,Turkey,40.233334,29.55,YEI,TR,2445,182
+Çanakkale,Canakkale,Turkey,Turkey,40.13333,26.4,CKZ,TR,2446,182
+Corlu,Corlu,Turkey,Turkey,NA,NA,NA,TR,2447,182
+Denizli,Denizli,Turkey,Turkey,37.787224,29.703333,DNZ,TR,2448,182
+Diyarbakır,Diyarbakir,Turkey,Turkey,37.903873,40.20458,DIY,TR,2449,182
+Edirne,Edirne,Turkey,Turkey,NA,NA,NA,TR,2450,182
+Edremit,Edremit,Turkey,Turkey,39.583332,27.033333,EDO,TR,2451,182
+Elazığ,Elazig,Turkey,Turkey,38.608334,39.291668,EZS,TR,2452,182
+Erzincan,Erzincan,Turkey,Turkey,39.711666,39.516945,ERC,TR,2453,182
+Erzurum,Erzurum,Turkey,Turkey,39.955555,41.17361,ERZ,TR,2454,182
+Eskişehir,Eskisehir,Turkey,Turkey,39.7843,30.51922,ESK,TR,2455,182
+Gaziantep,Gaziantep,Turkey,Turkey,36.944935,37.473747,GZT,TR,2456,182
+Gazipaşa,Gazipasa,Turkey,Turkey,36.2993,32.3014,GZP,TR,2457,182
+Şanlıurfa,Golgen,Turkey,Turkey,37.15,38.8,GNY,TR,2458,182
+NA,Hakkari,NA,Turkey,37.57639,43.736668,YKO,TR,2459,182
+Iğdır,Igdir,Turkey,Turkey,39.974445,43.879723,IGD,TR,2460,182
+NA,Isparta,NA,Turkey,37.86611,30.382221,ISE,TR,2461,182
+Kahramanmaraş,Kahramanmaras,Turkey,Turkey,37.534443,36.950558,KCM,TR,2462,182
+Kars,Kars,Turkey,Turkey,40.551666,43.085835,KSY,TR,2463,182
+Kastamonu,Kastamonu,Turkey,Turkey,41.316944,33.796112,KFS,TR,2464,182
+Kayseri,Kayseri,Turkey,Turkey,38.7742,35.490707,ASR,TR,2465,182
+Konya,Konya,Turkey,Turkey,37.979168,32.56222,KYA,TR,2466,182
+Kütahya,Kutahya,Turkey,Turkey,39.120277,30.116945,KZR,TR,2467,182
+Malatya,Malatya,Turkey,Turkey,38.354443,38.253613,MLX,TR,2468,182
+Mardin,Mardin,Turkey,Turkey,37.2233,40.6317,MQM,TR,2469,182
+Amasya,Merzifon,Turkey,Turkey,40.88333,35.533333,MZH,TR,2470,182
+Muş,Mus,Turkey,Turkey,38.725,41.625,MSR,TR,2471,182
+Nevşehir,Nevsehir,Turkey,Turkey,38.63333,34.716667,NAV,TR,2472,182
+Giresun,Ordu/Giresun,Turkey,Turkey,37.835964,40.99364,OGU,TR,2473,182
+Rize,Rize,Turkey,Turkey,41.024826,40.519913,RZV,TR,2474,182
+Samsun,Samsun,Turkey,Turkey,41.25738,36.555058,SZF,TR,2475,182
+Şırnak,Shirnak,Turkey,Turkey,37.516388,42.46111,NKT,TR,2476,182
+Sinop,Sinop,Turkey,Turkey,42.0175,35.06889,NOP,TR,2477,182
+Sivas,Sivas,Turkey,Turkey,39.81389,36.904167,VAS,TR,2478,182
+Tekirdağ,Tekirdag,Turkey,Turkey,40.966667,27.5,TEQ,TR,2479,182
+Tokat,Tokat,Turkey,Turkey,40.302223,36.36778,TJK,TR,2480,182
+Van,Van,Turkey,Turkey,38.45861,43.332222,VAN,TR,2481,182
+Zonguldak,Zonguldak,Turkey,Turkey,41.516666,32.1,ONQ,TR,2482,182
+Türkmenbaşy,Turkmanbashi,Turkmenistan,Turkmenistan,40.083332,53.083332,KRW,TM,2483,183
+Al Ain,Al Ain,United Arab Emirates,United Arab Emirates,24.2075,55.74472,AAN,AE,2490,187
+Fujairah,Al-fujairah,United Arab Emirates,United Arab Emirates,25.109444,56.330555,FJR,AE,2491,187
+Ras al-Khaimah,Ras al-Khaimah,United Arab Emirates,United Arab Emirates,25.616198,55.943695,RKT,AE,2492,187
+NA,Sharjah,NA,United Arab Emirates,25.320873,55.52029,SHJ,AE,2493,187
+NA,Barra,NA,United Kingdom,57.023335,-7.440278,BRR,GB,2494,188
+Bermuda,Bermuda,United Kingdom,United Kingdom,NA,NA,BDA,GB,2495,188
+NA,Derry,NA,United Kingdom,55.039566,-7.155835,LDY,GB,2496,188
+NA,Dundee,NA,United Kingdom,56.46143,-2.9681108,DND,GB,2497,188
+Eday,Eday,United Kingdom,United Kingdom,59.183334,-2.783333,EOI,GB,2498,188
+Kirkwall,Kirkwall,United Kingdom,United Kingdom,58.958057,-2.900556,KOI,GB,2499,188
+NA,Leicestershire,NA,United Kingdom,52.955116,-1.1491718,NQT,GB,2500,188
+North Ronaldsay,North Ronaldsay,United Kingdom,United Kingdom,59.370277,-2.433333,NRL,GB,2501,188
+Nottingham,Nottingham,United Kingdom,United Kingdom,NA,NA,EMA,GB,2502,188
+Papa Westray,Papa Westray,United Kingdom,United Kingdom,59.351265,-2.898974,PPW,GB,2503,188
+"Sanday, Orkney",Sanday,United Kingdom,United Kingdom,59.25,-2.583333,NDY,GB,2504,188
+NA,Shetland Islands,NA,United Kingdom,60.344162,-1.2564251,SDZ,GB,2505,188
+NA,"Stornoway, Outer Stat Hebrides",NA,United Kingdom,58.213627,-6.321995,SYY,GB,2506,188
+Stronsay,Stronsay,United Kingdom,United Kingdom,59.154053,-2.640495,SOY,GB,2507,188
+NA,"Tiree, Inner Hebrides",NA,United Kingdom,56.500557,-6.871389,TRE,GB,2508,188
+Watford,Watford,United Kingdom,United Kingdom,NA,NA,NA,GB,2509,188
+Westray,Westray,United Kingdom,United Kingdom,59.35,-2.95,WRY,GB,2510,188
+NA,Abilene,NA,United States,32.44874,-99.73315,ABI,US,2511,189
+Aguadilla,Aguadilla,United States,United States,NA,NA,BQN,US,2512,189
+NA,Akron,NA,United States,40.914963,-81.43583,CAK,US,2513,189
+Albany,Albany,United States,United States,42.65258,-73.75623,ALB,US,2514,189
+Alexandria,Alexandria,United States,United States,31.311293,-92.44514,AEX,US,2515,189
+Allentown,Allentown,United States,United States,40.651573,-75.434364,ABE,US,2516,189
+Amarillo,Amarillo,United States,United States,35.221996,-101.8313,AMA,US,2517,189
+Appleton,Appleton,United States,United States,44.26011,-88.50994,ATW,US,2518,189
+NA,Arcata,NA,United States,40.970913,-124.106926,ACV,US,2519,189
+Asheville,Asheville,United States,United States,35.43508,-82.537315,AVL,US,2520,189
+Atlantic City,Atlantic City,United States,United States,39.36,-74.45722,AIY,US,2521,189
+NA,Augusta,NA,United States,44.318054,-69.79667,AUG,US,2522,189
+NA,Bangor,NA,United States,44.812298,-68.82102,BGR,US,2523,189
+Beckley,Beckley,United States,United States,37.781944,-81.12417,BKW,US,2524,189
+Bozeman,Belgrade,United States,United States,45.777687,-111.16033,BZN,US,2525,189
+Bellingham,Bellingham,United States,United States,48.79573,-122.53267,BLI,US,2526,189
+NA,Billings,NA,United States,45.803417,-108.53723,BIL,US,2527,189
+NA,Bishop,NA,United States,37.373333,-118.365,BIH,US,2528,189
+NA,Bismarck,NA,United States,46.77448,-100.75821,BIS,US,2529,189
+Bloomington,Bloomington,United States,United States,40.48401,-88.91483,BMI,US,2530,189
+Burbank,Burbank,United States,United States,34.19619,-118.35411,BUR,US,2531,189
+NA,Burlington,NA,United States,40.78611,-91.12334,BRL,US,2532,189
+Burlington,Burlington,United States,United States,44.469013,-73.15527,BTV,US,2533,189
+NA,Casper,NA,United States,42.90861,-106.4625,CPR,US,2534,189
+Cedar Rapids,Cedar Rapids,United States,United States,41.889423,-91.7003,CID,US,2535,189
+NA,Champaign,NA,United States,40.039665,-88.26905,CMI,US,2536,189
+Charlottesville,Charlottesville,United States,United States,38.139416,-78.44928,CHO,US,2537,189
+Chattanooga,Chattanooga,United States,United States,35.04563,-85.30968,CHA,US,2538,189
+NA,Cody,NA,United States,44.515835,-109.0275,COD,US,2539,189
+Columbia,Columbia,United States,United States,34.00071,-81.03481,COU,US,2540,189
+Culebra,Culebra,United States,United States,NA,NA,CPX,US,2541,189
+Dayton,Dayton,United States,United States,39.75895,-84.191605,DAY,US,2542,189
+Daytona Beach,Daytona Beach,United States,United States,29.185192,-81.06083,DAB,US,2543,189
+NA,Dickinson,NA,United States,46.833332,-102.9,DIK,US,2544,189
+Edmonds,Edmonds,United States,United States,NA,NA,NA,US,2545,189
+NA,Erie,NA,United States,42.08314,-80.18203,ERI,US,2546,189
+NA,Eugene,NA,United States,44.119198,-123.21197,EUG,US,2547,189
+Evansville,Evansville,United States,United States,38.046165,-87.52796,EVV,US,2548,189
+Everett,Everett,United States,United States,47.90972,-122.28445,PAE,US,2549,189
+NA,Fairbanks,NA,United States,64.837776,-147.71638,FAI,US,2550,189
+NA,Fargo,NA,United States,46.91953,-96.82551,FAR,US,2551,189
+Fort Lauderdale,Fort Lauderdale,United States,United States,26.122309,-80.14338,FLL,US,2552,189
+Fort Myers,Fort Myers,United States,United States,26.64063,-81.87231,FMY,US,2553,189
+Destin,Fort Walton Beach,United States,United States,30.495913,-86.54946,VPS,US,2554,189
+Green Bay,Green Bay,United States,United States,44.492847,-88.121895,GRB,US,2555,189
+Greenville,Greenville,United States,United States,34.85262,-82.39401,GSP,US,2556,189
+NA,Gunnison,NA,United States,38.53389,-106.93889,GUC,US,2557,189
+Haines,Haines,United States,United States,59.245834,-135.51889,HNS,US,2558,189
+Harrisburg,Harrisburg,United States,United States,37.73333,-88.53333,HSB,US,2559,189
+Hartford,Hartford,United States,United States,41.92953,-72.6847,BDL,US,2560,189
+Hayden,Hayden,United States,United States,40.48481,-107.220764,HDN,US,2561,189
+NA,Helena,NA,United States,46.61052,-111.99018,HLN,US,2562,189
+Hilo,Hilo,United States,United States,19.714565,-155.03963,ITO,US,2563,189
+Hoʻolehua,Hoolehua,United States,United States,21.152779,-157.1,MKK,US,2564,189
+NA,Huntington,NA,United States,38.366943,-82.556114,HTS,US,2565,189
+Huntsville,Huntsville,United States,United States,34.73037,-86.586105,HSV,US,2566,189
+Hyannis,Hyannis,United States,United States,41.665833,-70.280556,HYA,US,2567,189
+NA,Idaho Falls,NA,United States,43.514854,-112.06751,IDA,US,2568,189
+Jackson,Jackson,United States,United States,32.298756,-90.18481,JAN,US,2569,189
+NA,Johnstown,NA,United States,40.316666,-78.83444,JST,US,2570,189
+NA,Juneau,NA,United States,58.35932,-134.58339,JNU,US,2571,189
+Kahului,Kahului,United States,United States,20.892883,-156.43863,OGG,US,2572,189
+Kailua,Kailua-Kona,United States,United States,19.736174,-156.04108,KOA,US,2573,189
+NA,Kalispell,NA,United States,48.307304,-114.25315,FCA,US,2574,189
+NA,Kapalua,NA,United States,20.962194,-156.67569,JHM,US,2575,189
+Kauai,Kauai Island,United States,United States,21.981112,-159.37111,LIH,US,2576,189
+NA,Ketchikan,NA,United States,55.34222,-131.64612,KTN,US,2577,189
+Key West,Key West,United States,United States,24.555702,-81.78259,EYW,US,2578,189
+Knoxville,Knoxville,United States,United States,35.80565,-83.98973,TYS,US,2579,189
+Lafayette,Lafayette,United States,United States,30.20851,-91.99327,LFT,US,2580,189
+Lake Charles,Lake Charles,United States,United States,30.226595,-93.21738,LCH,US,2581,189
+Lanai,Lanai,United States,United States,20.790085,-156.95049,LNY,US,2582,189
+NA,Lansing,NA,United States,42.774185,-84.58958,LAN,US,2583,189
+NA,Laramie,NA,United States,41.31361,-105.67306,LAR,US,2584,189
+NA,Laurel,NA,United States,31.694052,-89.130615,LUL,US,2585,189
+NA,Lebanon,NA,United States,43.62936,-72.310005,LEB,US,2586,189
+Little Rock,Little Rock,United States,United States,34.727432,-92.221375,LIT,US,2587,189
+Manchester,Manchester,United States,United States,42.92786,-71.43844,MHT,US,2588,189
+Marquette,Marquette,United States,United States,46.35361,-87.39528,MQT,US,2589,189
+Martha's Vineyard,Martha's Vineyard,United States,United States,41.389336,-70.61182,MVY,US,2590,189
+Mayagüez,Mayaguez,United States,United States,NA,NA,MAZ,US,2591,189
+NA,McAllen,NA,United States,26.181295,-98.23978,MFE,US,2592,189
+Melbourne,Melbourne,United States,United States,28.1025,-80.63028,MLB,US,2593,189
+NA,Middletown,NA,United States,40.21611,-76.85222,HAR,US,2594,189
+Midland,Midland,United States,United States,31.997345,-102.07791,MAF,US,2595,189
+Mobile,Mobile,United States,United States,30.694357,-88.04305,MOB,US,2596,189
+Moline,Moline,United States,United States,41.453896,-90.50611,MLI,US,2597,189
+NA,Monterey,NA,United States,36.60024,-121.89468,MRY,US,2598,189
+Montgomery,Montgomery,United States,United States,32.361668,-86.27917,MGM,US,2599,189
+Mount Vernon,Mount Vernon,United States,United States,38.32305,-88.85861,MVN,US,2600,189
+Myrtle Beach,Myrtle Beach,United States,United States,33.68906,-78.886696,MYR,US,2601,189
+Nantucket,Nantucket,United States,United States,41.256668,-70.05972,ACK,US,2602,189
+NA,Newburgh,NA,United States,41.49843,-74.10104,SWF,US,2603,189
+Ontario,Ontario,United States,United States,34.05,-117.64,ONT,US,2604,189
+Panama City,Panama City,United States,United States,30.158813,-85.6602,ECP,US,2605,189
+Parkersburg,Parkersburg,United States,United States,39.345554,-81.43889,PKB,US,2606,189
+NA,Pendleton,NA,United States,45.698334,-118.83611,PDT,US,2607,189
+Pensacola,Pensacola,United States,United States,30.421309,-87.21691,PNS,US,2608,189
+NA,Petersburg,NA,United States,56.80417,-132.9425,PSG,US,2609,189
+Plattsburgh,Plattsburgh,United States,United States,44.7,-73.48333,PBG,US,2610,189
+Ponce,Ponce,United States,United States,NA,NA,PSE,US,2611,189
+Providence,Providence,United States,United States,41.82399,-71.412834,PVD,US,2612,189
+NA,Pullman,NA,United States,46.74472,-117.105,PUW,US,2613,189
+NA,Rapid City,NA,United States,44.080544,-103.23102,RAP,US,2614,189
+NA,Redding,NA,United States,40.58654,-122.39168,RDD,US,2615,189
+NA,Redmond,NA,United States,44.254272,-121.162895,RDM,US,2616,189
+NA,Richlands,NA,United States,34.83044,-77.605835,OAJ,US,2617,189
+Roanoke,Roanoke,United States,United States,37.32051,-79.97038,ROA,US,2618,189
+Rouses Point,Rouses Point,United States,United States,44.98472,-73.35222,RSX,US,2619,189
+NA,Saginaw,NA,United States,43.53339,-84.090744,MBS,US,2620,189
+NA,San Luis Obispo,NA,United States,37.345776,-120.47137,SBP,US,2621,189
+NA,Santa Barbara,NA,United States,34.42083,-119.69819,SBA,US,2622,189
+Santa Rosa,Santa Rosa,United States,United States,38.50889,-122.81167,STS,US,2623,189
+NA,Saranac Lake,NA,United States,44.38278,-74.206665,SLK,US,2624,189
+Sarasota,Sarasota,United States,United States,27.38748,-82.55328,SRQ,US,2625,189
+Savannah,Savannah,United States,United States,32.08354,-81.09983,SAV,US,2626,189
+Shreveport,Shreveport,United States,United States,32.52515,-93.750175,SHV,US,2627,189
+Sioux Falls,Sioux Falls,United States,United States,43.580296,-96.73115,FSD,US,2628,189
+NA,Sitka,NA,United States,57.04861,-135.23334,SIT,US,2629,189
+Skagway,Skagway,United States,United States,59.460556,-135.31555,SGY,US,2630,189
+Springfield,Springfield,United States,United States,37.24237,-93.38226,SGF,US,2631,189
+Stanwood,Stanwood,United States,United States,NA,NA,NA,US,2632,189
+NA,State College,NA,United States,40.85372,-77.84823,SCE,US,2633,189
+NA,Stillwater,NA,United States,36.15889,-97.085556,SWO,US,2634,189
+Syracuse,Syracuse,United States,United States,43.048122,-76.14742,SYR,US,2635,189
+Tallahassee,Tallahassee,United States,United States,30.395782,-84.34444,TLH,US,2636,189
+Trenton,Trenton,United States,United States,40.08333,-93.61667,TRX,US,2637,189
+NA,Tyler,NA,United States,32.351597,-95.41012,TYR,US,2638,189
+Vieques,Vieques,United States,United States,NA,NA,VQS,US,2639,189
+NA,Walla Walla,NA,United States,46.094723,-118.291115,ALW,US,2640,189
+"Washington, D.C.","Washington, D.C.",United States,United States,38.89511,-77.03637,WAS,US,2641,189
+NA,Waterloo,NA,United States,42.55611,-92.39972,ALO,US,2642,189
+NA,Wausau,NA,United States,44.923332,-89.623055,AUW,US,2643,189
+NA,Wenatchee,NA,United States,47.399723,-120.20778,EAT,US,2644,189
+West Palm Beach,West Palm Beach,United States,United States,26.715342,-80.053375,PBI,US,2645,189
+Westport,West Point,United States,United States,57.766945,-153.55,KWP,US,2646,189
+Westchester County,Westchester County,United States,United States,41.068672,-73.70389,HPN,US,2647,189
+Wilmington,Wilmington,United States,United States,34.26705,-77.91063,ILM,US,2648,189
+NA,Yakutat,NA,United States,59.509167,-139.65973,YAK,US,2649,189
+NA,Yuma,NA,United States,32.69265,-114.62769,YUM,US,2650,189
+Bukhara,Bukhara,Uzbekistan,Uzbekistan,39.76037,64.47479,BHK,UZ,2653,191
+Fergana,Fergana,Uzbekistan,Uzbekistan,40.350277,71.73361,FEG,UZ,2654,191
+Qarshi,Karshi,Uzbekistan,Uzbekistan,38.80981,65.77531,KSQ,UZ,2655,191
+Namangan,Namangan,Uzbekistan,Uzbekistan,40.983334,71.6,NMA,UZ,2656,191
+NA,Navoi,NA,Uzbekistan,40.115,65.159164,NVI,UZ,2657,191
+Nukus,Nukus,Uzbekistan,Uzbekistan,42.483334,59.63333,NCU,UZ,2658,191
+Samarkand,Samarkand,Uzbekistan,Uzbekistan,39.696217,66.99085,SKD,UZ,2659,191
+Termez,Termez,Uzbekistan,Uzbekistan,37.280502,67.318954,TMJ,UZ,2660,191
+Urgench,Urgench,Uzbekistan,Uzbekistan,41.584835,60.63303,UGC,UZ,2661,191
+Buon Ma Thuot,Banmethuot,Vietnam,Vietnam,12.666667,108.05,BMV,VN,2669,194
+Can Tho,Can Tho,Vietnam,Vietnam,10.047222,105.76639,VCA,VN,2670,194
+Côn Sơn Island,Con Dao,Vietnam,Vietnam,10.371389,106.63333,VCS,VN,2671,194
+Da Nang,Da Nang,Vietnam,Vietnam,16.055399,108.20298,DAD,VN,2672,194
+Da Lat,Dalat,Vietnam,Vietnam,11.749689,108.37603,DLI,VN,2673,194
+Dien Khanh,Dien Khanh,Vietnam,Vietnam,NA,NA,NA,VN,2674,194
+Đồng Hới,Dong Hoi,Vietnam,Vietnam,17.515,106.59055,VDH,VN,2675,194
+Haiphong,Haiphong,Vietnam,Vietnam,20.823315,106.727325,HPH,VN,2676,194
+Hue,Hue,Vietnam,Vietnam,16.398224,107.700874,HUI,VN,2677,194
+Ca Mau Province,Kamau,Vietnam,Vietnam,9.175556,105.17944,CAH,VN,2678,194
+Lao Cai,Lao Cai,Vietnam,Vietnam,NA,NA,NA,VN,2679,194
+Nha Trang,Nha Trang,Vietnam,Vietnam,12.238791,109.1967,NHA,VN,2680,194
+Phú Quốc,Phu Quoc,Vietnam,Vietnam,10.223722,103.96324,PQC,VN,2681,194
+Pleiku,Pleiku,Vietnam,Vietnam,14.006346,108.00896,PXU,VN,2682,194
+Qui Nhơn,Qui Nhon,Vietnam,Vietnam,13.766111,109.22639,UIH,VN,2683,194
+Rạch Giá,Rach Gia,Vietnam,Vietnam,10.083333,105.083336,VKG,VN,2684,194
+Sa Pa,Sa Pa,Vietnam,Vietnam,NA,NA,NA,VN,2685,194
+Chu Lai,Tamky-Chulai Airport,Vietnam,Vietnam,15.422222,108.70389,VCL,VN,2686,194
+Thanh Hoa Province,Thanh Hoa,Vietnam,Vietnam,19.8075,105.77639,THD,VN,2687,194
+Tuy Hòa,Tuy Hoa,Vietnam,Vietnam,13.044167,109.33972,TBB,VN,2688,194
+Ha Long,Van Don,Vietnam,Vietnam,21.1155,107.41607,VDO,VN,2689,194
+Vinh,Vinh City,Vietnam,Vietnam,18.7,105.63333,VII,VN,2690,194
+Aden,Aden,Yemen,Yemen,12.826116,45.037537,ADE,YE,2692,195
+NA,Mariehamn,NA,Åland Islands,60.123333,19.896667,MHQ,AX,1004,NA
+NA,Adrar,NA,Algeria,27.883333,-0.283333,AZR,DZ,1007,NA
+NA,Algiers,NA,Algeria,36.70058,3.21167,ALG,DZ,1008,NA
+NA,Annaba,NA,Algeria,36.821392,7.811857,AAE,DZ,1009,NA
+NA,Bejaia,NA,Algeria,36.75,5.083333,BJA,DZ,1010,NA
+NA,Chlef,NA,Algeria,36.212223,1.331667,CFK,DZ,1011,NA
+NA,Constantine,NA,Algeria,36.286476,6.618425,CZL,DZ,1012,NA
+NA,Djanet,NA,Algeria,24.465279,9.488889,DJG,DZ,1013,NA
+NA,El Golea,NA,Algeria,30.5675,2.864722,ELG,DZ,1014,NA
+NA,El Oued,NA,Algeria,33.516666,6.783333,ELU,DZ,1015,NA
+NA,Hassi Messaoud,NA,Algeria,31.675303,6.145436,HME,DZ,1016,NA
+NA,Illizi,NA,Algeria,26.533333,8.55,VVZ,DZ,1017,NA
+NA,Oran,NA,Algeria,35.696945,-0.6330556,ORN,DZ,1018,NA
+NA,Tebessa,NA,Algeria,35.466667,8.15,TEE,DZ,1019,NA
+Andorra la Vella,Andorra la Vella,Andorra,Andorra,NA,NA,NA,AD,1020,NA
+Pas de la Casa,Pas de la Casa,Andorra,Andorra,NA,NA,NA,AD,1021,NA
+Sant Julià de Lòria,Sant Julia de Loria,Andorra,Andorra,NA,NA,NA,AD,1022,NA
+Soldeu,Soldeu,Andorra,Andorra,NA,NA,NA,AD,1023,NA
+NA,Huambo,NA,Angola,-12.805556,15.757222,NOV,AO,1024,NA
+NA,Luanda,NA,Angola,-8.847951,13.234862,LAD,AO,1025,NA
+NA,Saurimo,NA,Angola,-9.75,20.55,VHC,AO,1026,NA
+Anguilla,Anguilla,Anguilla,Anguilla,18.216667,-63.066666,AXA,AI,1027,NA
+NA,The Valley,NA,Anguilla,18.216667,-63.066666,AXA,AI,1028,NA
+Antigua,Antigua,Antigua & Barbuda,Antigua and Barbuda,17.108334,-61.76389,ANU,AG,1029,NA
+Aruba,Aruba,Aruba,Aruba,12.502222,-70.013885,AUA,AW,1053,NA
+Almeirim,Almeirim,Bahamas,Bahamas,NA,NA,MEU,BS,1085,NA
+Bimini,Bimini,Bahamas,Bahamas,25.742847,-79.250755,BIM,BS,1086,NA
+Breves,Breves,Bahamas,Bahamas,NA,NA,BVS,BS,1087,NA
+Deadman's Cay Settlement,Deadmans Cay,Bahamas,Bahamas,23.179443,-75.09055,LGI,BS,1088,NA
+Freeport,Freeport,Bahamas,Bahamas,26.547293,-78.7052,FPO,BS,1089,NA
+George Town,George Town,Bahamas,Bahamas,23.564018,-75.872475,GGT,BS,1090,NA
+Governor's Harbour,Governor's Harbour,Bahamas,Bahamas,25.280489,-76.32488,GHB,BS,1091,NA
+Berry Islands,Great Harbour/Berry Islands,Bahamas,Bahamas,25.738056,-77.84028,GHC,BS,1092,NA
+Marsh Harbour,Marsh Harbour,Bahamas,Bahamas,26.513428,-77.07712,MHH,BS,1093,NA
+Monte Alegre,Monte Alegre,Bahamas,Bahamas,NA,NA,MTE,BS,1094,NA
+Nassau,Nassau,Bahamas,Bahamas,25.06,-77.345,NAS,BS,1095,NA
+North Eleuthera,North Eleuthera,Bahamas,Bahamas,25.476917,-76.68192,ELH,BS,1096,NA
+Porot de Moz,Porot de Moz,Bahamas,Bahamas,NA,NA,PTQ,BS,1097,NA
+Rock Sound,Rock Sound,Bahamas,Bahamas,24.891666,-76.178055,RSD,BS,1098,NA
+San Salvador Island,San Salvador,Bahamas,Bahamas,24.06,-74.53306,ZSA,BS,1099,NA
+Bridgetown,Bridgetown,Barbados,Barbados,13.080732,-59.487835,BGI,BB,1108,NA
+Belize City,Belize City,Belize,Belize,17.49771,-88.18665,BZE,BZ,1114,NA
+Caye Caulker,Caye Caulker,Belize,Belize,17.766666,-88,CUK,BZ,1115,NA
+Corozal Town,Corozal,Belize,Belize,18.383333,-88.416664,CZH,BZ,1116,NA
+Dangriga,Dangriga,Belize,Belize,17.183332,-88.566666,DGA,BZ,1117,NA
+Placencia,Placencia,Belize,Belize,16.533333,-88.352776,PLJ,BZ,1118,NA
+Punta Gorda,Punta Gorda,Belize,Belize,16.1,-88.816666,PND,BZ,1119,NA
+San Pedro Town,San Pedro,Belize,Belize,17.911112,-87.96861,SPR,BZ,1120,NA
+NA,Cotonou,NA,Benin,6.353097,2.385271,COO,BJ,1121,NA
+NA,Bermuda,NA,Bermuda,32.35828,-64.68068,BDA,BM,1122,NA
+NA,Cochabamba,NA,Bolivia,-17.413954,-66.178894,CBB,BO,1124,NA
+NA,La Paz,NA,Bolivia,-16.50889,-68.1769,LPB,BO,1125,NA
+NA,Santa Cruz,NA,Bolivia,-17.78879,-63.19742,SRZ,BO,1126,NA
+NA,Sucre,NA,Bolivia,-19.007778,-65.30167,SRE,BO,1127,NA
+NA,Trinidad,NA,Bolivia,-14.822613,-64.91931,TDD,BO,1128,NA
+NA,Uyuni,NA,Bolivia,-20.4463,-66.8484,UYU,BO,1129,NA
+NA,Gaborone,NA,Botswana,-24.557981,25.92451,GBE,BW,1137,NA
+NA,Kasane,NA,Botswana,-17.816668,25.15,BBK,BW,1138,NA
+NA,Maun,NA,Botswana,-19.970833,23.430555,MUB,BW,1139,NA
+Tortola,Tortola,British Virgin Islands,British Virgin Islands,18.44389,-64.54278,EIS,VG,1176,NA
+Virgin Gorda,Virgin Gorda,British Virgin Islands,British Virgin Islands,18.45027,-64.427734,VIJ,VG,1177,NA
+NA,Ouagadougou,NA,Burkina Faso,12.355019,-1.514283,OUA,BF,1190,NA
+NA,Bujumbura,NA,Burundi,-3.383333,29.366667,BJM,BI,1191,NA
+NA,Douala,NA,Cameroon,4.01346,9.717018,DLA,CM,1195,NA
+NA,Yaounde,NA,Cameroon,3.8666668,11.516666,YAO,CM,1196,NA
+NA,Boa Vista,NA,Cape Verde,16.083332,-22.833332,BVC,CV,1242,NA
+NA,Praia,NA,Cape Verde,14.945321,-23.486567,RAI,CV,1243,NA
+NA,Sal,NA,Cape Verde,16.734695,-22.943613,SID,CV,1244,NA
+NA,Sao Vicente,NA,Cape Verde,16.835613,-25.057571,VXE,CV,1245,NA
+NA,Bonaire,NA,Caribbean Netherlands,12.133403,-68.27687,BON,BQ,1246,NA
+NA,Saba,NA,Caribbean Netherlands,17.65,-63.216667,SAB,BQ,1247,NA
+Cayman Brac,Cayman Brac Island,Cayman Islands,Cayman Islands,19.690191,-79.87941,CYB,KY,1248,NA
+Grand Cayman,Grand Cayman Island,Cayman Islands,Cayman Islands,19.29637,-81.35779,GCM,KY,1249,NA
+Little Cayman,Little Cayman,Cayman Islands,Cayman Islands,19.6592,-80.08472,LYB,KY,1250,NA
+NA,Bangui,NA,Central African Republic,4.396111,18.520279,BGF,CF,1251,NA
+NA,Ndjamena,NA,Chad,12.129056,15.034215,NDJ,TD,1252,NA
+NA,Arica,NA,Chile,-18.349766,-70.335556,ARI,CL,1253,NA
+NA,Calama,NA,Chile,-22.495085,-68.90843,CJC,CL,1254,NA
+NA,Concepcion,NA,Chile,-36.777122,-73.05944,CCP,CL,1255,NA
+NA,Copiapo,NA,Chile,-27.29892,-70.414406,CPO,CL,1256,NA
+NA,Easter Island,NA,Chile,-27.116667,-109.36667,IPC,CL,1257,NA
+NA,Iquique,NA,Chile,-20.547937,-70.17848,IQQ,CL,1258,NA
+NA,La Serena,NA,Chile,-29.917297,-71.20369,LSC,CL,1259,NA
+NA,Puerto Montt,NA,Chile,-41.433727,-73.09831,PMC,CL,1260,NA
+NA,Puerto Natales,NA,Chile,-51.683334,-72.51667,PNT,CL,1261,NA
+NA,Punta Arenas,NA,Chile,-53.005356,-70.84307,PUQ,CL,1262,NA
+NA,Santiago,NA,Chile,-33.416668,-70.55,SCL,CL,1263,NA
+NA,Temuco,NA,Chile,-38.770355,-72.63845,ZCO,CL,1264,NA
+NA,Armenia,NA,Colombia,4.452869,-75.76804,AXM,CO,1430,NA
+NA,Barranquilla,NA,Colombia,10.886398,-74.77618,BAQ,CO,1431,NA
+NA,Bogota,NA,Colombia,4.698602,-74.143135,BOG,CO,1432,NA
+NA,Bucaramanga,NA,Colombia,7.128045,-73.1814,BGA,CO,1433,NA
+NA,Cali,NA,Colombia,3.543056,-76.381386,CLO,CO,1434,NA
+NA,Cartagena,NA,Colombia,10.445704,-75.51659,CTG,CO,1435,NA
+NA,Cucuta,NA,Colombia,7.927108,-72.50815,CUC,CO,1436,NA
+NA,Leticia,NA,Colombia,-4.196389,-69.939445,LET,CO,1437,NA
+NA,Medellin,NA,Colombia,6.235925,-75.575134,MDE,CO,1438,NA
+NA,San Andres Island,NA,Colombia,12.586047,-81.70221,ADZ,CO,1439,NA
+NA,Santa Marta,NA,Colombia,11.117132,-74.232704,SMR,CO,1440,NA
+NA,Moroni,NA,Comoros,-11.531944,43.261112,YVA,KM,1441,NA
+NA,Rarotonga,NA,Cook Islands,-21.19992,-159.79852,RAR,CK,1442,NA
+Liberia,Liberia,Costa Rica,Costa Rica,10.600005,-85.53839,LIR,CR,1443,NA
+Nosara,Nosara,Costa Rica,Costa Rica,9.976398,-85.65305,NOB,CR,1444,NA
+Puerto Jiménez,Puerto Jimenez,Costa Rica,Costa Rica,8.583333,-83.333336,PJM,CR,1445,NA
+Puerto Limón,Puerto Limon,Costa Rica,Costa Rica,9.955833,-83.02111,LIO,CR,1446,NA
+Quepos,Quepos,Costa Rica,Costa Rica,9.439146,-84.13335,XQP,CR,1447,NA
+San José,San Jose,Costa Rica,Costa Rica,9.998238,-84.20408,SJO,CR,1448,NA
+Tamarindo,Tamarindo,Costa Rica,Costa Rica,10.314033,-85.815475,TNO,CR,1449,NA
+Tambor,Tambor,Costa Rica,Costa Rica,9.733333,-85.01667,TMU,CR,1450,NA
+NA,Camaguey,NA,Cuba,21.418612,-77.849724,CMW,CU,1460,NA
+NA,Cayo Coco,NA,Cuba,22.5125,-78.50833,CCC,CU,1461,NA
+NA,Havana,NA,Cuba,22.99845,-82.40818,HAV,CU,1462,NA
+NA,Holguin,NA,Cuba,20.785278,-76.315,HOG,CU,1463,NA
+NA,Santa Clara,NA,Cuba,22.491943,-79.94194,SNU,CU,1464,NA
+NA,Santiago,NA,Cuba,19.969168,-75.83583,SCU,CU,1465,NA
+NA,Varadero,NA,Cuba,23.039896,-81.43694,VRA,CU,1466,NA
+Willemstad,Curacao (Willemstad),Curaçao,Curaçao,12.184615,-68.95706,CUR,CW,1467,NA
+NA,Goma,NA,Democratic Republic of the Congo,-1.67,29.235,GOM,CD,1482,NA
+NA,Kinshasa,NA,Democratic Republic of the Congo,-4.320836,15.29866,FIH,CD,1483,NA
+NA,Lubumbashi,NA,Democratic Republic of the Congo,-11.590833,27.529167,FBM,CD,1484,NA
+NA,Djibouti,NA,Djibouti,11.552361,43.149677,JIB,DJ,1496,NA
+NA,Dominica,NA,Dominica,15.414999,-61.370975,DOM,DM,1497,NA
+Saint Andrew Parish,Saint Andrew Parish,Dominica,Dominica,15.414999,-61.370975,DOM,DM,1498,NA
+NA,El Catey,NA,Dominican Republic,19.270555,-69.736946,AZS,DO,1499,NA
+La Romana,La Romana,Dominican Republic,Dominican Republic,18.416668,-68.9,LRM,DO,1500,NA
+Puerto Plata,Puerto Plata,Dominican Republic,Dominican Republic,19.754942,-70.56315,POP,DO,1501,NA
+Punta Cana,Punta Cana,Dominican Republic,Dominican Republic,18.562477,-68.364,PUJ,DO,1502,NA
+Samaná,Samana El Catey,Dominican Republic,Dominican Republic,19.270555,-69.736946,AZS,DO,1503,NA
+NA,Santiago,NA,Dominican Republic,19.401829,-70.60208,STI,DO,1504,NA
+Santiago de los Caballeros,Santiago de los Caballeros,Dominican Republic,Dominican Republic,19.401829,-70.60208,STI,DO,1505,NA
+Santo Domingo,Santo Domingo,Dominican Republic,Dominican Republic,18.5,-69.98333,SDQ,DO,1506,NA
+NA,Dili,NA,East Timor,-8.549616,125.525,DIL,TL,1507,NA
+NA,Cuenca,NA,Ecuador,-2.889343,-78.98689,CUE,EC,1508,NA
+NA,Galapagos Islands,NA,Ecuador,-0.434722,-90.282776,GPS,EC,1509,NA
+NA,Guayaquil,NA,Ecuador,-2.142654,-79.88032,GYE,EC,1510,NA
+NA,Manta,NA,Ecuador,-0.953035,-80.684,MEC,EC,1511,NA
+NA,Quito,NA,Ecuador,-0.145528,-78.49053,UIO,EC,1512,NA
+NA,San Cristobal,NA,Ecuador,-0.833333,-89.433334,SCY,EC,1513,NA
+San Salvador,San Salvador,El Salvador,El Salvador,13.445126,-89.05723,SAL,SV,1522,NA
+NA,Malabo,NA,Equatorial Guinea,3.757791,8.716096,SSG,GQ,1523,NA
+NA,Asmara,NA,Eritrea,15.291111,38.91028,ASM,ER,1524,NA
+NA,Manzini,NA,Eswatini,-26.52033,31.314133000000002,MTS,SZ,1525,NA
+NA,Addis Ababa,NA,Ethiopia,8.983759,38.7959,ADD,ET,1526,NA
+NA,Bahar Dar,NA,Ethiopia,11.603292,37.32324,BJR,ET,1527,NA
+NA,Gode/Iddidole,NA,Ethiopia,5.902222,43.628334,GDE,ET,1528,NA
+NA,Gondar,NA,Ethiopia,12.514444,37.445557,GDQ,ET,1529,NA
+NA,Jijiga,NA,Ethiopia,9.366667,42.766666,JIJ,ET,1530,NA
+NA,Semera,NA,Ethiopia,11.5,41.083332,SZE,ET,1531,NA
+NA,Mount Pleasant,NA,Falkland Islands,-51.816666,-58.45,MPN,FK,1532,NA
+NA,Faroe Islands,NA,Faroe Islands,62.066666,-7.266667,FAE,FO,1533,NA
+NA,Labasa,NA,Fiji,-16.466215,179.33766,LBS,FJ,1534,NA
+NA,Nadi,NA,Fiji,-17.75327,177.45161,NAN,FJ,1535,NA
+NA,Savusavu,NA,Fiji,-16.798828,179.33913,SVU,FJ,1536,NA
+NA,Suva,NA,Fiji,-18.045885,178.55981,SUV,FJ,1537,NA
+NA,Taveuni,NA,Fiji,-16.693056,179.87416,TVU,FJ,1538,NA
+NA,Cayenne,NA,French Guiana,4.816667,-52.36667,CAY,GF,1599,NA
+NA,Bora Bora,NA,French Polynesia,-16.446207,-151.75447,BOB,PF,1600,NA
+NA,Fakarava,NA,French Polynesia,-16.053486,-145.65225,FAV,PF,1601,NA
+NA,Huahine,NA,French Polynesia,-16.689682,-151.02826,HUH,PF,1602,NA
+NA,Moorea,NA,French Polynesia,-17.490433,-149.76414,MOZ,PF,1603,NA
+NA,Papeete,NA,French Polynesia,-17.55963,-149.60938,PPT,PF,1604,NA
+NA,Libreville,NA,Gabon,0.456963,9.409852,LBV,GA,1605,NA
+NA,Banjul,NA,Gambia,13.34406,-16.6522,BJL,GM,1606,NA
+NA,Accra,NA,Ghana,5.60737,-0.171769,ACC,GH,1626,NA
+NA,Kumasi,NA,Ghana,6.7125,-1.591111,KMS,GH,1627,NA
+NA,Tamale,NA,Ghana,9.406944,-0.879167,TML,GH,1628,NA
+NA,Gibraltar,NA,Gibraltar,36.153763,-5.349271,GIB,GI,1629,NA
+Aasiaat,Aasiaat,Greenland,Greenland,68.7,-52.75,JEG,GL,1664,NA
+Ilulissat,Ilulissat,Greenland,Greenland,69.23444,-51.05111,JAV,GL,1665,NA
+Ittoqqortoormiit,Ittoqqortoormiit (Neerlerit Inaat),Greenland,Greenland,70.74306,-22.658333,CNP,GL,1666,NA
+Kangerlussuaq,Kangerlussuaq,Greenland,Greenland,67.01222,-50.719723,SFJ,GL,1667,NA
+Kulusuk,Kulusuk,Greenland,Greenland,65.566666,-37.11667,KUS,GL,1668,NA
+Maniitsoq,Maniitsoq,Greenland,Greenland,65.416664,-52.9,JSU,GL,1669,NA
+Nanortalik,Nanortalik,Greenland,Greenland,60.134167,-45.233612,JNN,GL,1670,NA
+Narsaq,Narsaq,Greenland,Greenland,60.916668,-46.05,JNS,GL,1671,NA
+Narsarsuaq,Narsarsuaq,Greenland,Greenland,61.166668,-45.316666,UAK,GL,1672,NA
+Nuuk,Nuuk,Greenland,Greenland,64.181946,-51.725,GOH,GL,1673,NA
+Paamiut,Paamiut,Greenland,Greenland,62.00028,-49.70028,JFR,GL,1674,NA
+Qaanaaq,Qaanaaq,Greenland,Greenland,77.48564,-69.37486,NAQ,GL,1675,NA
+Qaarsut,Qaarsut,Greenland,Greenland,70.73194,-52.702778,JQA,GL,1676,NA
+Qaqortoq,Qaqortoq,Greenland,Greenland,60.716667,-46.033333,JJU,GL,1677,NA
+Siorapaluk,Siorapaluk,Greenland,Greenland,NA,NA,SRK,GL,1678,NA
+Sisimiut,Sisimiut,Greenland,Greenland,66.93694,-53.704166,JHS,GL,1679,NA
+Tasiilaq,Tasiilaq,Greenland,Greenland,65.6,-37.683334,AGM,GL,1680,NA
+Uummannaq,Uummannaq,Greenland,Greenland,70.66889,-52.11778,UMD,GL,1681,NA
+St George's,St. George's,Grenada,Grenada,12.004167,-61.78611,GND,GD,1682,NA
+NA,Abymes,NA,Guadeloupe,16.2675,-61.52639,PTP,GP,1683,NA
+NA,Saint Barthelemy,NA,Guadeloupe,17.9,-62.85,SBH,GP,1684,NA
+NA,Guam,NA,Guam,13.47617,144.75151,GUM,GU,1685,NA
+Flores,Flores,Guatemala,Guatemala,16.916668,-89.88333,FRS,GT,1686,NA
+Guatemala City,Guatemala City,Guatemala,Guatemala,14.588071,-90.53068,GUA,GT,1687,NA
+Puerto Barrios,Puerto Barrios,Guatemala,Guatemala,15.723056,-88.60611,PBR,GT,1688,NA
+Quezaltenango,Quetzaltenango,Guatemala,Guatemala,14.87,-91.5,AAZ,GT,1689,NA
+Retalhuleu,Retalhuleu,Guatemala,Guatemala,14.520278,-91.696945,RER,GT,1690,NA
+NA,Guernsey,NA,Guernsey,49.432755,-2.595044,GCI,GG,1691,NA
+NA,Conakry,NA,Guinea,9.575655,-13.62017,CKY,GN,1692,NA
+NA,Bissau,NA,Guinea-Bissau,11.888889,-15.657222,OXB,GW,1693,NA
+NA,Georgetown,NA,Guyana,6.503833,-58.25308,GEO,GY,1694,NA
+Cap-Haïtien,Cap Haitien,Haiti,Haiti,19.732779,-72.195,CAP,HT,1695,NA
+Jeremie,Jeremie,Haiti,Haiti,18.662222,-74.16972,JEE,HT,1696,NA
+Les Cayes,Les Cayes,Haiti,Haiti,18.269722,-73.78833,CYA,HT,1697,NA
+Port-au-Prince,Port Au Prince,Haiti,Haiti,18.575394,-72.29471,PAP,HT,1698,NA
+Comayagua,Comayagua,Honduras,Honduras,14.416667,-87.61667,XPL,HN,1699,NA
+Guanaja,Guanaja,Honduras,Honduras,16.445,-85.90583,GJA,HN,1700,NA
+La Ceiba,La Ceiba,Honduras,Honduras,15.740556,-86.85722,LCE,HN,1701,NA
+Coxen Hole,Roatan,Honduras,Honduras,16.318209,-86.52722,RTB,HN,1702,NA
+San Pedro Sula,San Pedro Sula,Honduras,Honduras,15.456245,-87.927795,SAP,HN,1703,NA
+Tegucigalpa,Tegucigalpa,Honduras,Honduras,14.060123,-87.21972,TGU,HN,1704,NA
+Útila,Utila,Honduras,Honduras,16.091667,-86.8875,UII,HN,1705,NA
+Hong Kong,Hong Kong,Hong Kong,Hong Kong,22.24786,114.203384,HKG,HK,1706,NA
+NA,Isle Of Man,NA,Isle of Man,54.08677,-4.63473,IOM,IM,1772,NA
+NA,Abidjan,NA,Ivory Coast,5.254879,-3.933015,ABJ,CI,1797,NA
+Kingston,Kingston,Jamaica,Jamaica,17.992731,-76.79201,KIN,JM,1798,NA
+Montego Bay,Montego Bay,Jamaica,Jamaica,18.498465,-77.91663,MBJ,JM,1799,NA
+Ocho Rios,Ocho Rios,Jamaica,Jamaica,18.400557,-76.96972,OCJ,JM,1800,NA
+NA,Jersey,NA,Jersey,49.205296,-2.194344,JER,JE,1852,NA
+NA,Malindi,NA,Kenya,-3.230755,40.10048,MYD,KE,1875,NA
+NA,Mombasa,NA,Kenya,-4.0327,39.60325,MBA,KE,1876,NA
+NA,Nairobi,NA,Kenya,-1.2833333,36.816666,NBO,KE,1877,NA
+NA,Tarawa,NA,Kiribati,1.358333,172.94167,TRW,KI,1878,NA
+NA,Maseru,NA,Lesotho,-29.30139,27.505556,MSU,LS,1889,NA
+NA,Monrovia,NA,Liberia,6.289444,-10.758333,MLW,LR,1890,NA
+NA,Tripoli,NA,Libya,32.876175,13.187507,TIP,LY,1891,NA
+NA,Macau,NA,Macau,22.163845,113.55499,MFM,MO,1896,NA
+NA,Antananarivo,NA,Madagascar,-18.799631,47.47503,TNR,MG,1897,NA
+NA,Nossi-be,NA,Madagascar,-13.311111,48.31389,NOS,MG,1898,NA
+NA,Blantyre,NA,Malawi,-15.674722,34.970833,BLZ,MW,1899,NA
+NA,Lilongwe,NA,Malawi,-13.780039,33.780197,LLW,MW,1900,NA
+NA,Bamako,NA,Mali,12.540926,-7.947951,BKO,ML,1924,NA
+NA,Majuro,NA,Marshall Islands,7.068717,171.2825,MAJ,MH,1925,NA
+NA,Fort De France,NA,Martinique,14.596061,-60.999947,FDF,MQ,1926,NA
+NA,Nouakchott,NA,Mauritania,18.098148,-15.952041,NKC,MR,1927,NA
+NA,Mauritius,NA,Mauritius,-20.431997,57.67663,MRU,MU,1928,NA
+NA,Rodrigues Island,NA,Mauritius,-19.75,63.35,RRG,MU,1929,NA
+NA,Dzaoudzi,NA,Mayotte,-12.804901,45.2821,DZA,YT,1930,NA
+NA,"Pohnpei, Caroline Islands",NA,Micronesia,6.980947,158.20334,PNI,FM,1980,NA
+NA,Beira,NA,Mozambique,-19.798805,34.90192,BEW,MZ,2000,NA
+NA,Maputo,NA,Mozambique,-25.924389,32.57429,MPM,MZ,2001,NA
+NA,Nampula,NA,Mozambique,-15.101667,39.287224,APL,MZ,2002,NA
+NA,Pemba,NA,Mozambique,-12.988333,40.5225,POL,MZ,2003,NA
+NA,Tete,NA,Mozambique,-16.103333,33.63889,TET,MZ,2004,NA
+NA,Vilanculos,NA,Mozambique,-22.016666,35.283333,VNX,MZ,2005,NA
+NA,Nauru Island,NA,Nauru,-0.533333,166.91667,INU,NR,2026,NA
+NA,Noumea,NA,New Caledonia,-22.2758,166.458,NOU,NC,2038,NA
+Managua,Managua,Nicaragua,Nicaragua,12.144838,-86.171265,MGA,NI,2048,NA
+NA,Niamey,NA,Niger,13.476534,2.177158,NIM,NE,2049,NA
+NA,Abuja,NA,Nigeria,9.004614,7.270447,ABV,NG,2050,NA
+NA,Enugu,NA,Nigeria,6.472048,7.56772,ENU,NG,2051,NA
+NA,Kano,NA,Nigeria,12.045549,8.522271,KAN,NG,2052,NA
+NA,Lagos,NA,Nigeria,6.577871,3.321178,LOS,NG,2053,NA
+NA,Port Harcourt,NA,Nigeria,4.784821,7.005453,PHC,NG,2054,NA
+NA,Niue Island,NA,Niue,-19.083332,-169.93333,IUE,NU,2055,NA
+NA,Ercan,NA,Northern Cyprus,35.15812,33.50307,ECN,NY,2056,NA
+NA,Saipan,NA,Northern Mariana Islands,15.122178,145.72325,SPN,MP,2057,NA
+NA,Koror,NA,Palau,7.364122,134.5329,ROR,PW,2103,NA
+"Bocas Town, Bocas del Toro",Bocas Del Toro,Panama,Panama,9.34,-82.251945,BOC,PA,2104,NA
+Changuinola,Changuinola,Panama,Panama,9.45,-82.45,CHX,PA,2105,NA
+Chitré,Chitre,Panama,Panama,7.966667,-80.433334,CTD,PA,2106,NA
+"David, Chiriquí",David,Panama,Panama,8.383333,-82.433334,DAV,PA,2107,NA
+Panama,Panama City,Panama,Panama,8.994269,-79.51879,PTY,PA,2108,NA
+Penonomé,Penonome,Panama,Panama,NA,NA,RIH,PA,2109,NA
+NA,Daru,NA,Papua New Guinea,-9.08351,143.20605,DAU,PG,2110,NA
+NA,Lae,NA,Papua New Guinea,-6.562694,146.72757,LAE,PG,2111,NA
+NA,Madang,NA,Papua New Guinea,-5.210852,145.78784,MAG,PG,2112,NA
+NA,Mount Hagen,NA,Papua New Guinea,-5.828767,144.29738,HGU,PG,2113,NA
+NA,Port Moresby,NA,Papua New Guinea,-9.444308,147.21446,POM,PG,2114,NA
+NA,Wewak,NA,Papua New Guinea,-3.580034,143.66916,WWK,PG,2115,NA
+NA,Asuncion,NA,Paraguay,-25.241795,-57.513794,ASU,PY,2116,NA
+NA,Ciudad del Este,NA,Paraguay,-25.5,-54.833332,AGT,PY,2117,NA
+NA,Aguadilla,NA,Puerto Rico,18.495832,-67.13,BQN,PR,2222,NA
+NA,San Juan,NA,Puerto Rico,18.466333,-66.10572,SJU,PR,2223,NA
+NA,Brazzaville,NA,Republic of the Congo,-4.258899,15.251139,BZV,CG,2224,NA
+NA,Pointe Noire,NA,Republic of the Congo,-4.809799,11.882377,PNR,CG,2225,NA
+NA,Saint Denis de la Reunion,NA,Réunion,-20.892,55.511875,RUN,RE,2226,NA
+NA,St Pierre dela Reunion,NA,Réunion,-21.333332,55.483334,ZSE,RE,2227,NA
+NA,Kigali,NA,Rwanda,-1.963042,30.135014,KGL,RW,2245,NA
+NA,Jamestown,NA,"Saint Helena, Ascension and Tristan da Cunha",-15.924444,-5.718056,HLE,SH,2246,NA
+Nevis,Nevis,St. Kitts & Nevis,Saint Kitts and Nevis,17.205,-62.5925,NEV,KN,2247,NA
+Saint Kitts,Saint Kitts,St. Kitts & Nevis,Saint Kitts and Nevis,17.310843,-62.71397,SKB,KN,2248,NA
+Saint Lucia,Saint Lucia,St. Lucia,Saint Lucia,13.994143,-61.006863,SLU,LC,2249,NA
+Saint Martin (Island),Saint Martin,St. Martin,Saint Martin,-26.234987,28.200739,SFG,MF,2250,NA
+Saint-Pierre,Saint Pierre,St. Pierre & Miquelon,Saint Pierre and Miquelon,46.916668,-56.166668,FSP,PM,2251,NA
+Saint Vincent,Saint Vincent,St. Vincent & Grenadines,Saint Vincent and the Grenadines,13.14604,-61.21038,SVD,VC,2252,NA
+NA,Apia,NA,Samoa,-13.833333,-171.76666,APW,WS,2253,NA
+NA,Sao Tome Island,NA,São Tomé and Príncipe,0.378333,6.725,TMS,ST,2254,NA
+NA,Cap Skirring,NA,Senegal,12.4,-16.75,CSK,SN,2276,NA
+NA,Dakar,NA,Senegal,14.744975,-17.490194,DKR,SN,2277,NA
+NA,Mahe Island,NA,Seychelles,-4.671275,55.51128,SEZ,SC,2283,NA
+NA,Praslin Island,NA,Seychelles,-4.323883,55.692314,PRI,SC,2284,NA
+NA,Freetown,NA,Sierra Leone,8.484146,-13.22867,FNA,SL,2285,NA
+Lower Prince's Quarter,Lower Prince's Quarter,Sint Maarten,Sint Maarten,18.044722,-63.11406,SXM,SX,2287,NA
+NA,Sint Maarten,NA,Sint Maarten,18.044722,-63.11406,SXM,SX,2288,NA
+NA,Honiara,NA,Solomon Islands,-9.428592,160.04819,HIR,SB,2306,NA
+NA,Garoe,NA,Somalia,8.283333,48.333332,GGR,SO,2307,NA
+NA,Hargeisa,NA,Somalia,9.515833,44.091667,HGA,SO,2308,NA
+NA,Mogadishu,NA,Somalia,2.013333,45.31333,MGQ,SO,2309,NA
+NA,Juba,NA,South Sudan,4.866198,31.601692,JUB,SS,2328,NA
+Saint Barthélemy,Saint Barthelemy,St. Barthélemy,St. Barthélemy,NA,NA,SBH,BL,2377,NA
+NA,Khartoum,NA,Sudan,15.592217,32.549698,KRT,SD,2378,NA
+NA,Paramaribo,NA,Suriname,5.823201,-55.16788,PBM,SR,2379,NA
+NA,Longyearbyen,NA,Svalbard and Jan Mayen,78.208885,15.8,LYR,SJ,2380,NA
+Aleppo,Aleppo,Syria,Syria,36.185352,37.227074,ALP,SY,2402,NA
+Damascus,Damascus,Syria,Syria,33.41117,36.51249,DAM,SY,2403,NA
+NA,Arusha,NA,Tanzania,-3.366667,36.683334,ARK,TZ,2416,NA
+NA,Bukoba,NA,Tanzania,-1.3,31.8,BKZ,TZ,2417,NA
+NA,Dar Es Salaam,NA,Tanzania,-6.873533,39.20211,DAR,TZ,2418,NA
+NA,Dodoma,NA,Tanzania,-6.166667,35.75028,DOD,TZ,2419,NA
+NA,Kilimanjaro,NA,Tanzania,-3.424123,37.065342,JRO,TZ,2420,NA
+NA,Mbeya,NA,Tanzania,-8.914722,33.461945,MBI,TZ,2421,NA
+NA,Mwanza,NA,Tanzania,-2.441221,32.923225,MWZ,TZ,2422,NA
+NA,Zanzibar,NA,Tanzania,-6.218466,39.221184,ZNZ,TZ,2423,NA
+NA,Lome,NA,Togo,6.167103,1.250347,LFW,TG,2427,NA
+NA,Nuku'alofa,NA,Tonga,-21.24117,-175.14131,TBU,TO,2428,NA
+NA,Vava'u,NA,Tonga,-18.586012,-173.96829,VAV,TO,2429,NA
+Port of Spain,Port Of Spain,Trinidad & Tobago,Trinidad and Tobago,10.602089,-61.339413,POS,TT,2430,NA
+Tobago,Tobago,Trinidad & Tobago,Trinidad and Tobago,11.152541,-60.839684,TAB,TT,2431,NA
+NA,Djerba,NA,Tunisia,33.87118,10.775145,DJE,TN,2432,NA
+NA,Enfidha,NA,Tunisia,36.075832,10.438611,NBE,TN,2433,NA
+NA,Monastir,NA,Tunisia,35.76108,10.753155,MIR,TN,2434,NA
+NA,Sfax,NA,Tunisia,34.716667,10.683333,SFA,TN,2435,NA
+NA,Tunis,NA,Tunisia,36.847622,10.21709,TUN,TN,2436,NA
+Cockburn Town,Grand Turk Island,Turks & Caicos Islands,Turks and Caicos Islands,21.466667,-71.13333,GDT,TC,2484,NA
+Providenciales,Providenciales,Turks & Caicos Islands,Turks and Caicos Islands,21.769167,-72.26833,PLS,TC,2485,NA
+South Caicos,South Caicos,Turks & Caicos Islands,Turks and Caicos Islands,21.515833,-71.529724,XSC,TC,2486,NA
+NA,Funafuti Atol,NA,Tuvalu,-8.516667,179.20833,FUN,TV,2487,NA
+NA,Saint Croix,NA,U.S. Virgin Islands,17.74664,-64.7032,STX,VI,2488,NA
+NA,Entebbe,NA,Uganda,0.045111,32.443184,EBB,UG,2489,NA
+NA,Montevideo,NA,Uruguay,-34.88361,-56.181946,MVD,UY,2651,NA
+NA,Punta Del Este,NA,Uruguay,-34.9,-54.95,PDP,UY,2652,NA
+NA,Port Vila,NA,Vanuatu,-17.701853,168.3195,VLI,VU,2662,NA
+NA,Tanna,NA,Vanuatu,-19.458445,169.22821,TAH,VU,2663,NA
+NA,Barcelona,NA,Venezuela,10.107936,-64.68589,BLA,VE,2664,NA
+NA,Caracas,NA,Venezuela,10.596942,-67.00551,CCS,VE,2665,NA
+NA,Maracaibo,NA,Venezuela,10.555564,-71.72351,MAR,VE,2666,NA
+NA,Porlamar,NA,Venezuela,10.917189,-63.96899,PMV,VE,2667,NA
+NA,Valencia,NA,Venezuela,10.15429,-67.92248,VLN,VE,2668,NA
+NA,Wallis Island,NA,Wallis and Futuna,-13.233333,-176.16667,WLS,WF,2691,NA
+NA,Livingstone,NA,Zambia,-17.820557,25.822222,LVI,ZM,2693,NA
+NA,Lusaka,NA,Zambia,-15.325017,28.445747,LUN,ZM,2694,NA
+NA,Mansa,NA,Zambia,-11.125,28.866667,MNS,ZM,2695,NA
+NA,Ndola,NA,Zambia,-12.993449,28.665024,NLA,ZM,2696,NA
+NA,Bulawayo,NA,Zimbabwe,-20.014933,28.622616,BUQ,ZW,2697,NA
+NA,Harare,NA,Zimbabwe,-17.91863,31.099249,HRE,ZW,2698,NA
+NA,Victoria Falls,NA,Zimbabwe,-18.093056,25.840279,VFA,ZW,2699,NA
